@@ -1,0 +1,28 @@
+<template><div><h1 id="更新历史" tabindex="-1"><a class="header-anchor" href="#更新历史"><span>更新历史</span></a></h1>
+<blockquote>
+<p>建设中，未完成0.0.0.1版，目前进度1%</p>
+</blockquote>
+<h2 id="重要更新" tabindex="-1"><a class="header-anchor" href="#重要更新"><span>重要更新</span></a></h2>
+<p>2024-04-30：项目上线。</p>
+<h2 id="碎碎念" tabindex="-1"><a class="header-anchor" href="#碎碎念"><span>碎碎念</span></a></h2>
+<ul>
+<li>2024-05-30：争取今天把所有文件结构创建清楚，然后把侧边栏创建完成。首页....拉倒吧，再说（或者把首页改完）<br>
+侧边栏文件：sidebar.ts<br>
+collapsible：是否折叠</li>
+</ul>
+<h2 id="list-按优先级" tabindex="-1"><a class="header-anchor" href="#list-按优先级"><span>list（按优先级）</span></a></h2>
+<ul>
+<li>文件目录完整维护</li>
+<li>首页样式调整</li>
+<li>顶部导航调整</li>
+<li>侧边导航调整</li>
+<li>未开演唱会站点专题</li>
+<li>填充内容（长期）</li>
+<li>评论插件</li>
+<li>github项目</li>
+<li>图库</li>
+<li>公共资源库</li>
+</ul>
+</div></template>
+
+
