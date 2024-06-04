@@ -12,18 +12,7 @@ export default navbar([
   {
     text: "作品",
     icon: "fa-solid fa-compact-disc",
-///    prefix: "/composition/",
     link: "/composition/",
-///    children: [
-///        {
-///          text: "个人发行",
-///          children: ["cd/README.md","ep/README.md","alone/README.md","accord/README.md","idea/README.md"],
-///        },
-///        {
-///          text: "其他",
-///         children: ["others/README.md"],
-///       },
-///  ],
   },
 
 
@@ -34,7 +23,7 @@ export default navbar([
     children: [
       {
         text: "演唱会",
-        children: ["Concert/2019/README.md","Concert/2016/README.md","Concert/2013/README.md","Concert/2010/README.md","Concert/2007/README.md","Concert/2004/README.md","Concert/2002/README.md"],
+        children: ["Concert/2019carnival/README.md","Concert/2016Invincible/README.md","Concert/2013OpusJay/README.md","Concert/2010TheEra/README.md","Concert/2007WorldTours/README.md","Concert/2004incomparable/README.md","Concert/2002TheOne/README.md"],
       },
       {
         text: "其他演出",
@@ -42,7 +31,21 @@ export default navbar([
       },
     ],
   },
-
+  {
+    text: "巡演专题",
+    icon: "fa-solid fa-newspaper",
+    prefix: "/show/Concert/2019carnival/",
+    children: [
+      {
+        text: "嘉年华深圳站",
+        link: "2024shenzhen.md",
+      },
+      {
+        text: "嘉年华南京站",
+        link: "2024nanjing.md",
+      },
+    ],
+  },
   {
     text: "影视",
     icon: "fa-solid fa-film",
@@ -59,25 +62,17 @@ export default navbar([
     prefix: "/others/",
     children: ["trophy/","interview/","endorsement/"],
   },
-
+  {
+    text: "歌迷",
+    icon: "fa-solid fa-bookmark",
+    prefix: "/org/",
+    children: ["org.md","join_us.md"],
+  },
   {
     text: "关于",
     icon: "fa-solid fa-bookmark",
     prefix: "/about/",
     children: ["index.md","thinks.md","link.md","history.md","contribute.md"],
-  },
-
-  {
-    text: "资讯",
-    icon: "fa-solid fa-newspaper",
-    prefix: "/news/",
-    children: [
-      {
-        text: "最新巡演（结束后归档至演出）",
-        prefix: "bar/",
-        children: ["baz", { text: "...", icon: "ellipsis", link: "" }],
-      },
-    ],
   },
 
   {

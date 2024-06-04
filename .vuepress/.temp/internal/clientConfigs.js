@@ -5,7 +5,7 @@ import * as clientConfig3 from 'C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/nod
 import * as clientConfig4 from 'C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/node_modules/.pnpm/@vuepress+plugin-back-to-top@2.0.0-rc.33_vuepress@2.0.0-rc.12/node_modules/@vuepress/plugin-back-to-top/lib/client/config.js'
 import * as clientConfig5 from 'C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/node_modules/.pnpm/@vuepress+plugin-nprogress@2.0.0-rc.33_vuepress@2.0.0-rc.12/node_modules/@vuepress/plugin-nprogress/lib/client/config.js'
 import * as clientConfig6 from 'C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/node_modules/.pnpm/@vuepress+plugin-theme-data@2.0.0-rc.33_vuepress@2.0.0-rc.12/node_modules/@vuepress/plugin-theme-data/lib/client/config.js'
-import * as clientConfig7 from 'C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/node_modules/.pnpm/@vuepress+plugin-comment@2.0.0-rc.33_vuepress@2.0.0-rc.12/node_modules/@vuepress/plugin-comment/lib/client/config.js'
+import * as clientConfig7 from 'C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/node_modules/.pnpm/@vuepress+plugin-comment@2.0.0-rc.33_@waline+client@3.2.1_vuepress@2.0.0-rc.12/node_modules/@vuepress/plugin-comment/lib/client/config.js'
 import * as clientConfig8 from 'C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/node_modules/.pnpm/@vuepress+plugin-copy-code@2.0.0-rc.33_vuepress@2.0.0-rc.12/node_modules/@vuepress/plugin-copy-code/lib/client/config.js'
 import * as clientConfig9 from 'C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/md-enhance/config.js'
 import * as clientConfig10 from 'C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/node_modules/.pnpm/@vuepress+plugin-photo-swipe@2.0.0-rc.33_vuepress@2.0.0-rc.12/node_modules/@vuepress/plugin-photo-swipe/lib/client/config.js'

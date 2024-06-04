@@ -73,7 +73,7 @@ highlights:
         details: 开票时间：待定 <br> 平台：大麦、猫眼、票星球
 
   - header: 嘉年华世界巡回演唱会
-    description: 已确定未演出场次
+    description: 已确定场次
     image: https://img.jaybar.asia/i/2024/05/30/66585206148e0.png
     bgImage: https://img.jaybar.asia/i/2024/05/30/665845cc63ded.jpg
     bgImageDark: https://img.jaybar.asia/i/2024/05/30/665845cc63ded.jpg
@@ -82,26 +82,6 @@ highlights:
       background-repeat: repeat
       background-size: initial
     features:
-      - title: 【福州站】
-        icon: clipboard-check
-        details: 时间：<br />
-                  地点：<br />
-                  开票时间：<br />
-                  二次开票时间：<br />
-                  票价：<br />
-                  购票平台：<br />
-        link: 
-
-      - title: 【长沙站】
-        icon: box-archive
-        details: 时间：<br />
-                  地点：<br />
-                  开票时间：<br />
-                  二次开票时间：<br />
-                  票价：<br />
-                  购票平台：<br />
-        link: 
-
       - title: 【南京站】
         icon: bell
         details: 时间：<br />
@@ -110,7 +90,7 @@ highlights:
                   二次开票时间：<br />
                   票价：<br />
                   购票平台：<br />
-        link: 
+        link: src/news/live.md
 
       - title: 深圳站
         icon: table-columns
@@ -120,7 +100,7 @@ highlights:
                   二次开票时间：<br />
                   票价：<br />
                   购票平台：<br />
-        link: 
+        link: src/news/live.md
 
   - header: 新作品
     bgImage: https://img.jaybar.asia/i/2024/05/30/66584a98f2bdf.jpeg
@@ -130,15 +110,16 @@ highlights:
       background-repeat: repeat
       background-size: initial
     highlights:
+      - title: 【特别版】《稻香》摇滚版2024.06.03 上线！
+        icon: comment-dots
+        details: 2024.06.03  MV上线<br>
+                  前往观看：<br>QQ音乐 <br>酷我音乐<br>酷狗音乐<br>咪咕音乐
+
       - title: 《圣诞星》2023.12.25 上线！
         icon: comment-dots
         details: 2023.12.25 PM9:00 数位上线<br>
                   前往收听：<br>QQ音乐 <br>酷我音乐<br>酷狗音乐<br>咪咕音乐
 
-      - title: 《最伟大的作品》2022.07.15 上线！
-        icon: comment-dots
-        details: 2022.07.15 PM23:00 数位上线<br>
-                  前往收听：<br>QQ音乐 <br>酷我音乐<br>酷狗音乐<br>咪咕音乐
 
   - header: 寻找志同道合的人？
     description: 欢迎加入周杰伦吧歌迷会。<br>伦吧歌迷会除长三角珠三角地区外，一般情况下以所在地区省会城市命名，申请前确认自己所在省份或离该分会较近哈~

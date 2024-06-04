@@ -14,9 +14,9 @@ export default hopeTheme({
 
   logo: "https://theme-hope-assets.vuejs.press/logo.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "y-cyfor/JayChou-wiki",
 
-  docsDir: "src",
+  docsDir: "",
 
   // 导航栏
   navbar,
@@ -37,7 +37,7 @@ export default hopeTheme({
 
   // 多语言配置
   metaLocales: {
-    editLink: "在 GitHub 上编辑此页",
+    editLink: "编辑此页",
   },
 
   // 如果想要实时查看任何改变，启用它。注: 这对更新性能有很大负面影响
@@ -47,11 +47,11 @@ export default hopeTheme({
   plugins: {
     // 注意: 仅用于测试! 你必须自行生成并在生产环境中使用自己的评论服务
     comment: {
-      provider: "Giscus",
-      repo: "vuepress-theme-hope/giscus-discussions",
-      repoId: "R_kgDOG_Pt2A",
-      category: "Announcements",
-      categoryId: "DIC_kwDOG_Pt2M4COD69",
+      provider: "Waline",
+      serverURL: "https://comment.jaychou.asia/",
+      dark: "auto",//暗黑模式：自动
+      commentSorting: "hottest",//排序方式：自动
+      pageSize: 20,//分页条数
     },
 
     components: {
