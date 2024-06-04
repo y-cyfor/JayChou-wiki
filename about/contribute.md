@@ -6,7 +6,8 @@
 可以通过以下方式，发送对相关内容页面的疏漏、错误或内容补充，也可以提出站内尚未维护的资料或对本站的建议。
 - E-mail：cyfor@foxmail.com
 - 本站任意页面底部评论区
+- 找到你所在[伦吧歌迷会](src/org/join_us.md)的管理，提交内容或要求参与项目
 
 ## 如果你熟悉Git、前端、Markdown
-直接联系上述邮箱，参与到本项目的建设中
-> 未来会推送本项目至Github进行开源，你可以提交 Issues或 Pull Request 等待项目合并更新内容<br>（但现在还没有，因为我能力有限）
+- 直接联系上述邮箱，参与到本项目的建设中
+- 在[Github](https://github.com/y-cyfor/JayChou-wiki)找到这个开源项目，你可以提交 Issues或 Pull Request 等待项目合并更新内容<br>（尽量不要吧，因为git我不怎么会....~~其实完全不会~~）

@@ -8,12 +8,13 @@
 <ul>
 <li>E-mail：cyfor@foxmail.com</li>
 <li>本站任意页面底部评论区</li>
+<li>找到你所在<RouteLink to="/about/src/org/join_us.html">伦吧歌迷会</RouteLink>的管理，提交内容或要求参与项目</li>
 </ul>
 <h2 id="如果你熟悉git、前端、markdown" tabindex="-1"><a class="header-anchor" href="#如果你熟悉git、前端、markdown"><span>如果你熟悉Git、前端、Markdown</span></a></h2>
-<p>直接联系上述邮箱，参与到本项目的建设中</p>
-<blockquote>
-<p>未来会推送本项目至Github进行开源，你可以提交 Issues或 Pull Request 等待项目合并更新内容<br>（但现在还没有，因为我能力有限）</p>
-</blockquote>
+<ul>
+<li>直接联系上述邮箱，参与到本项目的建设中</li>
+<li>在<a href="https://github.com/y-cyfor/JayChou-wiki" target="_blank" rel="noopener noreferrer">Github</a>找到这个开源项目，你可以提交 Issues或 Pull Request 等待项目合并更新内容<br>（尽量不要吧，因为git我不怎么会....<s>其实完全不会</s>）</li>
+</ul>
 </div></template>
 
 

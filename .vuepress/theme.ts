@@ -3,21 +3,18 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
-
+  hostname: "https://www.jaychou.asia",
   author: {
     name: "JayChou's wiki",
-    url: "https://www.jaychou.asia",
+    url: "https://www.jaychou.asia",  
   },
-
+  license: "GPL3.0",
   iconAssets: "fontawesome-with-brands",
-
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
-
+  logo: "src/.vuepress/public/logo.svg",
   repo: "y-cyfor/JayChou-wiki",
-
   docsDir: "",
-
+  print: false,
+  fullscreen: true,
   // 导航栏
   navbar,
 
@@ -45,7 +42,6 @@ export default hopeTheme({
 
   // 在这里配置主题提供的插件
   plugins: {
-    // 注意: 仅用于测试! 你必须自行生成并在生产环境中使用自己的评论服务
     comment: {
       provider: "Waline",
       serverURL: "https://comment.jaychou.asia/",

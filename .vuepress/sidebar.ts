@@ -235,19 +235,137 @@ export default sidebar({
                                       prefix: "others",
                                       collapsible: true,
                                       children: [
-                                        {
-                                          text: "地表最强世界巡回演唱会",
-                                          prefix: "2016",
-                                          collapsible: true,
-                                          children: [
-                                            "",
-                                              ],
-                                            }
-                            
+                                        "",
                                           ],
                                         },
           ],
         }
+      ],
+  "/show/": [
+    {
+      text: "周杰伦演出收录",
+      prefix: "",
+      collapsible: false,
+      children: [
+        "",
+        {
+          text: "个人演唱会",
+          prefix: "Concert",
+          collapsible: true,
+          children: [
+            {
+              text: "嘉年华世界巡回演唱会（2019-至今）",
+              prefix: "2019carnival",
+              collapsible: true,
+              children: [
+                "",
+                  ],
+                },
+            {
+              text: "地表最强世界巡回演唱会（2016-2019）",
+              prefix: "2016Invincible",
+              collapsible: true,
+              children: [
+                "",
+                  ],
+                },
+            {
+              text: "魔天伦世界巡回演唱会（2013-2016）",
+              prefix: "2013OpusJay",
+              collapsible: true,
+              children: [
+                "",
+                  ],
+                },
+            {
+              text: "超时代世界巡回演唱会（2010-2013）",
+              prefix: "2010TheEra",
+              collapsible: true,
+              children: [
+                "",
+                  ],
+                },
+            {
+              text: "2007世界巡回演唱会（2007-2009）",
+              prefix: "2007WorldTours",
+              collapsible: true,
+              children: [
+                "",
+                  ],
+                },
+            {
+              text: "无与伦比演唱会（2004-2006）",
+              prefix: "2004incomparable",
+              collapsible: true,
+              children: [
+                "",
+                  ],
+                },
+            {
+              text: "TheOne演唱会（2002-2003）",
+              prefix: "2002TheOne",
+              collapsible: true,
+              children: [
+                "",
+                  ],
+                },
+              ],
+            },
+            {
+              text: "音乐节",
+              link:"live/README.md",
+                },
+                {
+                  text: "商业演出",
+                  link:"business/README.md",
+                    },
+                    {
+                      text: "公益演出",
+                      link:"public/README.md",
+                        },
+          ],
+        }
+      ],
+  "/video/": [
+    {
+      text: "参演影视作品",
+      prefix: "",
+      collapsible: false,
+      children: [
+        {
+          text: "参演电影",
+          link:"movie/README.md",
+            },
+            {
+              text: "参演电视剧",
+              link:"tv/README.md",
+                },
+          ],
+        }
+      ],
+  "/others/": [
+    {
+      text: "奖项纪录",
+      link:"trophy/README.md",
+        },
+        {
+          text: "专访访谈",
+          link:"interview/README.md",
+            },
+            {
+              text: "品牌代言",
+              link:"endorsement/README.md",
+                },
+                 ],
+  "/org/": [
+    {
+      text: "歌迷组织",
+      link:"org.md",
+        },
+        {
+          text: "加入伦吧",
+          link:"join_us.md",
+            },
       ],
     }
 );

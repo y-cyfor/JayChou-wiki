@@ -221,10 +221,10 @@ footer: Powered by <a href="https://v2.vuepress.vuejs.org/zh/" target="_blank">V
 直到一天发现了苏打盖——一个苏打绿观光导览地图，我觉得这可能是作为一名产品经理，在我的能力范围内可以为和我相同的歌迷朋友做出的贡献。
 
 ## 一起丰富百科
-JayChou's wiki 是一个开源项目，你可以在GitHub上找到源码（但还没推送）。
+JayChou's wiki 是一个开源项目，你可以在[GitHub上找到源码](https://github.com/y-cyfor/JayChou-wiki)。
 
 网站内容目前仅靠少数爱好者维护和提供资料，存在较多的不足。
 
-如果你刚好是一名互联网/软件从业的杰迷，欢迎加入伦吧，一起丰富这个项目。
+如果你刚好是一名互联网/软件从业的杰迷，欢迎加入伦吧，[一起丰富这个项目](src/about/contribute.md)。
 
-如果不会也没关系，可以通过 歌迷会/网站评论区/邮件 进行勘误或补充内容。
+如果不会也没关系，可以通过 [歌迷会](src/org/join_us.md)/网站评论区/[邮件](mailto:cyfor@foxmail.com) 进行勘误或补充内容。
