@@ -4,7 +4,6 @@ export default sidebar({
   "/about/": [
     "",
     "thinks",
-    "link",
     "history",
     "contribute",
   ],
@@ -357,15 +356,19 @@ export default sidebar({
               link:"endorsement/README.md",
                 },
                  ],
-  "/org/": [
+  "/culture/": [
     {
-      text: "歌迷组织",
-      link:"org.md",
+      text: "推荐访问",
+      link:"link.md",
         },
         {
-          text: "加入伦吧",
-          link:"join_us.md",
+          text: "歌迷组织",
+          link:"org.md",
             },
+            {
+              text: "加入伦吧",
+              link:"join_us.md",
+                },
       ],
     }
 );

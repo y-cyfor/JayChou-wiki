@@ -65,14 +65,14 @@ export default navbar([
   {
     text: "歌迷",
     icon: "fa-solid fa-bookmark",
-    prefix: "/org/",
-    children: ["org.md","join_us.md"],
+    prefix: "/culture/",
+    children: ["link.md","org.md","join_us.md",],
   },
   {
     text: "关于",
     icon: "fa-solid fa-bookmark",
     prefix: "/about/",
-    children: ["index.md","thinks.md","link.md","history.md","contribute.md"],
+    children: ["index.md","thinks.md","history.md","contribute.md"],
   },
 
   {

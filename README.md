@@ -2,9 +2,9 @@
 home: true
 icon: home
 title: 首页
-heroImage: http://img.jaybar.asia/i/2024/05/30/66584d0f8f412.png
-bgImage: http://img.jaybar.asia/i/2024/05/30/66584c4cbe117.jpeg
-bgImageDark: http://img.jaybar.asia/i/2024/05/30/66584c4cbe117.jpeg
+heroImage: 
+bgImage: https://public.jaychou.asia/index/index_hero_bj.jpeg/ys+sy
+bgImageDark: https://public.jaychou.asia/index/index_hero_bj.jpeg/ys+sy
 bgImageStyle:
   opacity: 0.3
   background-attachment: fixed
@@ -60,8 +60,8 @@ actions:
 
 highlights:
   - header: 嘉年华世界巡回演唱会 最新开票信息
-    bgImage: https://img.jaybar.asia/i/2024/05/30/665845cca45cc.jpg
-    bgImageDark: https://img.jaybar.asia/i/2024/05/30/665845cca45cc.jpg
+    bgImage: https://public.jaychou.asia/index/index_jianianhua.jpg/ys+sy
+    bgImageDark: https://public.jaychou.asia/index/index_jianianhua.jpg/ys+sy
     bgImageStyle:
       opacity: 0.3
       background-repeat: repeat
@@ -74,9 +74,9 @@ highlights:
 
   - header: 嘉年华世界巡回演唱会
     description: 已确定场次
-    image: https://img.jaybar.asia/i/2024/05/30/66585206148e0.png
-    bgImage: https://img.jaybar.asia/i/2024/05/30/665845cc63ded.jpg
-    bgImageDark: https://img.jaybar.asia/i/2024/05/30/665845cc63ded.jpg
+    image: https:public.jaychou.asia/index/jianianhua_logo-240606.png/ys+sy
+    bgImage: https://public.jaychou.asia/index/index_jianianhua2.jpg/ys+sy
+    bgImageDark: https://public.jaychou.asia/index/index_jianianhua2.jpg/ys+sy
     bgImageStyle:
       opacity: 0.3
       background-repeat: repeat
@@ -103,8 +103,8 @@ highlights:
         link: src/news/live.md
 
   - header: 新作品
-    bgImage: https://img.jaybar.asia/i/2024/05/30/66584a98f2bdf.jpeg
-    bgImageDark: https://img.jaybar.asia/i/2024/05/30/66584a98f2bdf.jpeg
+    bgImage: https://public.jaychou.asia/index/index_shengdanxing.jpeg/ys+sy
+    bgImageDark: https://public.jaychou.asia/index/index_shengdanxing.jpeg/ys+sy
     bgImageStyle:
       opacity: 0.3
       background-repeat: repeat
