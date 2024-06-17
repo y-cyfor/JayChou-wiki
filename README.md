@@ -20,22 +20,22 @@ tagline:
 actions:
   - text: 微博
     icon: fa-brands fa-weibo
-    link: ./demo/
+    link: https://www.weibo.com/u/1806308994
     type: primary
 
   - text: 微信
     icon: fa-brands fa-weixin
-    link: ./guide/
+    link: https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzA3NDU2MDUxNg==
     type: primary
 
   - text: 小红书
     icon: 
-    link: ./guide/
+    link: https://www.xiaohongshu.com/user/profile/648e950f000000001003496d
     type: default
 
   - text: 抖音
     icon: fa-brands fa-tiktok
-    link: ./guide/
+    link: https://www.douyin.com/user/MS4wLjABAAAAZ93xWkWgCIFbnRbgcG1Hufob2pGRfVGfdKfP64p56Cs
     type: default
 
   - text: 快手
@@ -43,19 +43,15 @@ actions:
     link: ./guide/
     type: default
 
-  - text: 嘉年华福州站（05.16-05.19）
-    icon: 
-    link: ./guide/
-    type: default
 
   - text: 嘉年华南京站（05.16-05.19）
     icon: 
-    link: ./guide/
+    link: /show/Concert/2019carnival/2024nanjing.md
     type: default
 
   - text: 嘉年华深圳站（05.16-05.19）
     icon: 
-    link: ./guide/
+    link: /show/Concert/2019carnival/2024shenzhen.md
     type: default
 
 highlights:
@@ -67,14 +63,15 @@ highlights:
       background-repeat: repeat
       background-size: initial
     highlights:
+      - title: 嘉年华世界巡回演唱会 南京 站（2024.09.26-2024.09.29）
+        details: 开票时间：6月12日11：18分 <br> 平台：大麦
+                <br>二开时间：待定
       - title: 嘉年华世界巡回演唱会 深圳 站（2024.05.29-2024.06.01）
-        details: 开票时间：待定 <br> 平台：大麦
-      - title: 嘉年华世界巡回演唱会 长沙 站（2024.05.29-2024.06.01）
-        details: 开票时间：待定 <br> 平台：大麦、猫眼、票星球
+        details: 开票时间：待定 <br> 平台：待定
 
   - header: 嘉年华世界巡回演唱会
     description: 已确定场次
-    image: https:public.jaychou.asia/index/jianianhua_logo-240606.png/ys+sy
+    image: https://public.jaychou.asia/index/jianianhua_logo-240606.png/yt
     bgImage: https://public.jaychou.asia/index/index_jianianhua2.jpg/ys+sy
     bgImageDark: https://public.jaychou.asia/index/index_jianianhua2.jpg/ys+sy
     bgImageStyle:
@@ -82,25 +79,38 @@ highlights:
       background-repeat: repeat
       background-size: initial
     features:
-      - title: 【南京站】
-        icon: bell
-        details: 时间：<br />
-                  地点：<br />
+      - title: 🎤【南京站】
+        details: 时间：2024.09.26-2024.09.29<br />
+                  地点：南京奥体中心体育场<br />
                   开票时间：<br />
                   二次开票时间：<br />
                   票价：<br />
                   购票平台：<br />
-        link: src/news/live.md
+        link: /show/Concert/2019carnival/2024nanjing.md
 
-      - title: 深圳站
-        icon: table-columns
-        details: 时间：<br />
-                  地点：<br />
-                  开票时间：<br />
-                  二次开票时间：<br />
+      - title: 🎤【深圳站】
+        details: 时间：2024.09.12-2024.09.15<br />
+                  地点：深圳大运中心体育场<br />
+                  开票时间：待定<br />
+                  二次开票时间：待定<br />
                   票价：<br />
-                  购票平台：<br />
-        link: src/news/live.md
+                  购票平台：待定<br />
+        link: /show/Concert/2019carnival/2024shenzhen.md
+
+      - title: 🎤【新加坡站】
+        details: 时间：2024.10.11-2024.10.13<br />
+                  地点：Singapore National Stadium<br />
+                  开票时间：待定<br />
+                  票价：<br />
+                  购票平台：待定<br />
+        link: /show/Concert/2019carnival/2024Singapore.md
+
+      - title: 🎤【马来西亚站】
+        details: 时间：2024.10.26<br />
+                  地点：Malaysia Bukit Jalit National Stadium <br />
+                  开票：已开售<br />
+                  票价：<br />
+        link: /show/Concert/2019carnival/2024Malaysia.md
 
   - header: 新作品
     bgImage: https://public.jaychou.asia/index/index_shengdanxing.jpeg/ys+sy
@@ -127,80 +137,30 @@ highlights:
     bgImage: https://theme-hope-assets.vuejs.press/bg/5-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg
     features:
-      - title: 北京
-        link: 
+      - title: 华北
+        link: culture/join_us.md#huabei
 
-      - title: 天津
-        link: 
+      - title: 东北
+        link: culture/join_us.md#dongbei
 
-      - title: 上海
-        link: 
+      - title: 华东
+        link: culture/join_us.md#huadong
 
-      - title: 武汉
-        link: 
+      - title: 华中
+        link: culture/join_us.md#huazhong
 
-      - title: 重庆
-        link: 
+      - title: 华南
+        link: culture/join_us.md#huanan
         
-      - title: 成都
-        link: 
+      - title: 西南
+        link: culture/join_us.md#xinan
 
-      - title: 南京
-        link: 
+      - title: 西北
+        link: culture/join_us.md#xibei
 
-      - title: 长沙
-        link: 
+      - title: 海外
+        link: culture/join_us.md#haiwai
 
-      - title: 深圳
-        link: 
-
-      - title: 福州
-        link: 
-
-      - title: 南昌
-        link: 
-
-      - title: 昆明
-        link: 
-        
-      - title: 郑州
-        link: 
-
-      - title: 南宁
-        link: 
-
-      - title: 沈阳
-        link: 
-
-      - title: 西安
-        link: 
-
-      - title: 杭州
-        link: 
-
-      - title: 苏州
-        link: 
-        
-      - title: 济南
-        link: 
-
-      - title: 合肥
-        link: 
-
-      - title: 太原
-        link: 
-
-      - title: 悉尼
-        link: 
-
-      - title: 韩国
-        link: 
-
-      - title: 新加坡
-        link: 
-
-      - title: 北美
-        link: 
 
 copyright: false
 footer: Powered by <a href="https://v2.vuepress.vuejs.org/zh/" target="_blank">VuePress</a>. Theme by <a href="https://theme-hope.vuejs.press/zh/" target="_blank">Hope</a> | MIT 协议
@@ -225,6 +185,6 @@ JayChou's wiki 是一个开源项目，你可以在[GitHub上找到源码](https
 
 网站内容目前仅靠少数爱好者维护和提供资料，存在较多的不足。
 
-如果你刚好是一名互联网/软件从业的杰迷，欢迎加入伦吧，[一起丰富这个项目](src/about/contribute.md)。
+如果你刚好是一名互联网/软件从业的杰迷，欢迎加入伦吧，[一起丰富这个项目](/about/contribute.md)。
 
-如果不会也没关系，可以通过 [歌迷会](src/org/join_us.md)/网站评论区/[邮件](mailto:cyfor@foxmail.com) 进行勘误或补充内容。
+如果不会也没关系，可以通过 [歌迷会](culture/join_us.md)/网站评论区/[邮件](mailto:cyfor@foxmail.com) 进行勘误或补充内容。
