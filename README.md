@@ -3,8 +3,8 @@ home: true
 icon: home
 title: 首页
 heroImage: 
-bgImage: https://public.jaychou.asia/index/index_hero_bj.jpeg/ys+sy
-bgImageDark: https://public.jaychou.asia/index/index_hero_bj.jpeg/ys+sy
+bgImage: https://public.jaychou.wiki/index/index_hero_bj.jpeg/ys+sy
+bgImageDark: https://public.jaychou.wiki/index/index_hero_bj.jpeg/ys+sy
 bgImageStyle:
   opacity: 0.3
   background-attachment: fixed
@@ -56,8 +56,8 @@ actions:
 
 highlights:
   - header: 嘉年华世界巡回演唱会 最新开票信息
-    bgImage: https://public.jaychou.asia/index/index_jianianhua.jpg/ys+sy
-    bgImageDark: https://public.jaychou.asia/index/index_jianianhua.jpg/ys+sy
+    bgImage: https://public.jaychou.wiki/index/index_jianianhua.jpg/ys+sy
+    bgImageDark: https://public.jaychou.wiki/index/index_jianianhua.jpg/ys+sy
     bgImageStyle:
       opacity: 0.3
       background-repeat: repeat
@@ -71,9 +71,9 @@ highlights:
 
   - header: 嘉年华世界巡回演唱会
     description: 已确定场次
-    image: https://public.jaychou.asia/index/jianianhua_logo-240606.png/yt
-    bgImage: https://public.jaychou.asia/index/index_jianianhua2.jpg/ys+sy
-    bgImageDark: https://public.jaychou.asia/index/index_jianianhua2.jpg/ys+sy
+    image: https://public.jaychou.wiki/index/jianianhua_logo-240606.png/yt
+    bgImage: https://public.jaychou.wiki/index/index_jianianhua2.jpg/ys+sy
+    bgImageDark: https://public.jaychou.wiki/index/index_jianianhua2.jpg/ys+sy
     bgImageStyle:
       opacity: 0.3
       background-repeat: repeat
@@ -113,8 +113,8 @@ highlights:
         link: /show/Concert/2019carnival/2024Malaysia.md
 
   - header: 新作品
-    bgImage: https://public.jaychou.asia/index/index_shengdanxing.jpeg/ys+sy
-    bgImageDark: https://public.jaychou.asia/index/index_shengdanxing.jpeg/ys+sy
+    bgImage: https://public.jaychou.wiki/index/index_shengdanxing.jpeg/ys+sy
+    bgImageDark: https://public.jaychou.wiki/index/index_shengdanxing.jpeg/ys+sy
     bgImageStyle:
       opacity: 0.3
       background-repeat: repeat
@@ -172,7 +172,7 @@ footer: Powered by <a href="https://v2.vuepress.vuejs.org/zh/" target="_blank">V
 
 ---
 
-## 为什么要做jaychou.asia
+## 为什么要做jaychou.wiki
 如首页tag所说，这里的前期（截止到目前）主要内容是由伦吧维护的，从喜欢老周开始，伦吧和很多吧友们都陪伴着我一路前行。
 后来有机会成为伦吧管理成员，不管是在做周边、准备线下活动，又或者大家在忆当年的时候，总是很难找那些被遗忘在互联网角落的证据碎片。
 

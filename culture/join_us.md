@@ -4,11 +4,11 @@
 :::
 
 ## 伦吧是什么
-![伦吧歌迷会](https://public.jaychou.asia/culture/jaybar_jihe.jpg/ys+sy)
+![伦吧歌迷会](https://public.jaychou.wiki/culture/jaybar_jihe.jpg/ys+sy)
 
 百度周杰伦吧（简称伦吧）建立于2003年，是百度第一个人物类贴吧，总会员人数超400万人次，是全球最大最受歌迷欢迎的周杰伦粉丝聚集地。旗下包含制图，外交，精品等七大职能部门和全国各地区歌迷分会，目前歌迷会足迹已延伸至美国，新加坡，韩国、马来西亚等国家和地区。周杰伦本人曾于2007年和2013年两度受邀来访伦吧与粉丝互动，2018年伦吧十五周年生日之际，周杰伦先生、方文山先生特意手写贺卡祝福伦吧，。
 
-![](https://public.jaychou.asia/culture/jaybar_led.jpg/ys+sy)
+![](https://public.jaychou.wiki/culture/jaybar_led.jpg/ys+sy)
 
 伦吧歌迷会是一个【非盈利】的歌迷组织，加入歌迷会不收取任何形式的会费、不售卖任何自制周边、门票和专辑团购不加任何费用、不搭售其他商品。
 
@@ -17,7 +17,7 @@
 以下为伦吧目前所有歌迷会分会，如果想入自己所在地区的周杰伦歌迷会，可以关注伦吧公众号回复地区歌迷会关键词，如【长沙】【深圳】等，添加地区负责人审核入群。
 部分地区暂无分会，可就近选择其他省份分会，缺省地区正在筹备当中。
 
-![伦吧全平台.jpg](https://public.jaychou.asia/culture/jaybar_qianming.webp/ys+sy)
+![伦吧全平台.jpg](https://public.jaychou.wiki/culture/jaybar_qianming.webp/ys+sy)
 
 <table >
 	<tr>

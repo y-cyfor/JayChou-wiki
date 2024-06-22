@@ -3,10 +3,10 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://www.jaychou.asia",
+  hostname: "https://www.jaychou.wiki",
   author: {
     name: "JayChou's wiki",
-    url: "https://www.jaychou.asia",  
+    url: "https://www.jaychou.wiki",  
   },
   license: "GPL3.0",
   iconAssets: "fontawesome-with-brands",
@@ -44,7 +44,7 @@ export default hopeTheme({
   plugins: {
     comment: {
       provider: "Waline",
-      serverURL: "https://comment.jaychou.asia/",
+      serverURL: "https://comment.jaychou.wiki/",
       dark: "auto",//暗黑模式：自动
       commentSorting: "hottest",//排序方式：自动
       pageSize: 20,//分页条数
