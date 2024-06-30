@@ -1,6 +1,10 @@
 import { sidebar } from "vuepress-theme-hope";
 
 export default sidebar({
+  "/posted/": [
+    "sns",
+    "time",
+  ],
   "/about/": [
     "",
     "thinks",
@@ -20,7 +24,7 @@ export default sidebar({
           collapsible: true,
           children: [
             {
-              text: "最伟大的作品",
+              text: "《最伟大的作品》",
               prefix: "22",
               collapsible: true,
               children: [
@@ -28,7 +32,7 @@ export default sidebar({
                   ],
                 },
             {
-              text: "周杰伦的床边故事",
+              text: "《周杰伦的床边故事》",
               prefix: "16",
               collapsible: true,
               children: [
@@ -36,7 +40,7 @@ export default sidebar({
                   ],
                 },
             {
-              text: "哎呦不错哦",
+              text: "《哎呦不错哦》",
               prefix: "14",
               collapsible: true,
               children: [
@@ -44,7 +48,7 @@ export default sidebar({
                   ],
                 },
             {
-              text: "十二新作",
+              text: "《十二新作》",
               prefix: "12",
               collapsible: true,
               children: [
@@ -52,7 +56,7 @@ export default sidebar({
                   ],
                 },
             {
-              text: "惊叹号！",
+              text: "《惊叹号！》",
               prefix: "11",
               collapsible: true,
               children: [
@@ -60,7 +64,7 @@ export default sidebar({
                   ],
                 },
             {
-              text: "跨时代",
+              text: "《跨时代》",
               prefix: "10",
               collapsible: true,
               children: [
@@ -68,7 +72,7 @@ export default sidebar({
                   ],
                 },
             {
-              text: "魔杰座",
+              text: "《魔杰座》",
               prefix: "08",
               collapsible: true,
               children: [
@@ -76,7 +80,7 @@ export default sidebar({
                   ],
                 },
             {
-              text: "我很忙",
+              text: "《我很忙》",
               prefix: "07",
               collapsible: true,
               children: [
@@ -84,7 +88,7 @@ export default sidebar({
                   ],
                 },
             {
-              text: "依然范特西",
+              text: "《依然范特西》",
               prefix: "06",
               collapsible: true,
               children: [
@@ -92,7 +96,7 @@ export default sidebar({
                   ],
                 },
             {
-              text: "11月的肖邦",
+              text: "《11月的肖邦》",
               prefix: "05",
               collapsible: true,
               children: [
@@ -100,7 +104,7 @@ export default sidebar({
                   ],
                 },
             {
-              text: "七里香",
+              text: "《七里香》",
               prefix: "04",
               collapsible: true,
               children: [
@@ -108,7 +112,7 @@ export default sidebar({
                   ],
                 },
             {
-              text: "叶惠美",
+              text: "《叶惠美》",
               prefix: "03",
               collapsible: true,
               children: [
@@ -116,7 +120,7 @@ export default sidebar({
                   ],
                 },
               {
-                text: "八度空间",
+                text: "《八度空间》",
                 prefix: "02",
                 collapsible: true,
                 children: [
@@ -124,7 +128,7 @@ export default sidebar({
                     ],
                   },
               {
-                text: "范特西",
+                text: "《范特西》",
                 prefix: "01",
                 collapsible: true,
                 children: [
@@ -132,11 +136,18 @@ export default sidebar({
                     ],
                   },
                 {
-                  text: "Jay同名专辑",
+                  text: "《Jay同名专辑》",
                   prefix: "00",
                   collapsible: true,
                   children: [
-                    "",
+                    {
+                      text: "专辑介绍",
+                      link: "README.md",
+                        },
+                        {
+                          text: "专辑版本",
+                          link: "public.md",
+                            },
                       ],
                     },
               ],

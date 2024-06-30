@@ -5,7 +5,11 @@ export default navbar([
   {
     text: "行程",
     icon: "fa-solid fa-compact-disc",
-    link: "/time.md",
+    prefix: "/posted/",
+    children: [
+        { text: "社交动态", link: "sns.md" },
+        { text: "行程", link: "time.md" }
+    ],
   },
 
 

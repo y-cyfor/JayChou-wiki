@@ -113,9 +113,9 @@ export default hopeTheme({
       // },
 
       // 在启用之前安装 reveal.js
-      // revealJs: {
-      //   plugins: ["highlight", "math", "search", "notes", "zoom"],
-      // },
+      revealJs: {
+      plugins: ["highlight", "math", "search", "notes", "zoom"],
+      },
 
       // 在启用之前安装 @vue/repl
       // vuePlayground: true,
