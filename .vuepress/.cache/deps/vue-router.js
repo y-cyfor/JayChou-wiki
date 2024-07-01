@@ -16,13 +16,13 @@ import {
   unref,
   watch,
   watchEffect
-} from "./chunk-5CH6667N.js";
+} from "./chunk-ZRZ4CPYY.js";
 import {
   setupDevtoolsPlugin
-} from "./chunk-BAIHGESP.js";
-import "./chunk-3EJPJMEH.js";
+} from "./chunk-D2YVLGJ5.js";
+import "./chunk-PR4QN5HX.js";
 
-// node_modules/.pnpm/vue-router@4.3.2_vue@3.4.27/node_modules/vue-router/dist/vue-router.mjs
+// node_modules/.pnpm/vue-router@4.4.0_vue@3.4.31/node_modules/vue-router/dist/vue-router.mjs
 var isBrowser = typeof document !== "undefined";
 function isESModule(obj) {
   return obj.__esModule || obj[Symbol.toStringTag] === "Module";
@@ -171,6 +171,18 @@ function resolveRelativePath(to, from) {
   }
   return fromSegments.slice(0, position).join("/") + "/" + toSegments.slice(toPosition).join("/");
 }
+var START_LOCATION_NORMALIZED = {
+  path: "/",
+  // TODO: could we use a symbol in the future?
+  name: void 0,
+  params: {},
+  query: {},
+  hash: "",
+  fullPath: "/",
+  matched: [],
+  meta: {},
+  redirectedFrom: void 0
+};
 var NavigationType;
 (function(NavigationType2) {
   NavigationType2["pop"] = "pop";
@@ -540,17 +552,6 @@ function isRouteLocation(route) {
 function isRouteName(name) {
   return typeof name === "string" || typeof name === "symbol";
 }
-var START_LOCATION_NORMALIZED = {
-  path: "/",
-  name: void 0,
-  params: {},
-  query: {},
-  hash: "",
-  fullPath: "/",
-  matched: [],
-  meta: {},
-  redirectedFrom: void 0
-};
 var NavigationFailureSymbol = Symbol(true ? "navigation failure" : "");
 var NavigationFailureType;
 (function(NavigationFailureType2) {
@@ -989,6 +990,9 @@ function createRouterMatcher(routes, globalOptions) {
         if (isRootAdd && record.name && !isAliasRecord(matcher))
           removeRoute(record.name);
       }
+      if (isMatchable(matcher)) {
+        insertMatcher(matcher);
+      }
       if (mainNormalizedRecord.children) {
         const children = mainNormalizedRecord.children;
         for (let i = 0; i < children.length; i++) {
@@ -996,9 +1000,6 @@ function createRouterMatcher(routes, globalOptions) {
         }
       }
       originalRecord = originalRecord || matcher;
-      if (matcher.record.components && Object.keys(matcher.record.components).length || matcher.record.name || matcher.record.redirect) {
-        insertMatcher(matcher);
-      }
     }
     return originalMatcher ? () => {
       removeRoute(originalMatcher);
@@ -1028,12 +1029,8 @@ function createRouterMatcher(routes, globalOptions) {
     return matchers;
   }
   function insertMatcher(matcher) {
-    let i = 0;
-    while (i < matchers.length && comparePathParserScore(matcher, matchers[i]) >= 0 && // Adding children with empty path should still appear before the parent
-    // https://github.com/vuejs/router/issues/1124
-    (matcher.record.path !== matchers[i].record.path || !isRecordChildOf(matcher, matchers[i])))
-      i++;
-    matchers.splice(i, 0, matcher);
+    const index = findInsertionIndex(matcher, matchers);
+    matchers.splice(index, 0, matcher);
     if (matcher.record.name && !isAliasRecord(matcher))
       matcherMap.set(matcher.record.name, matcher);
   }
@@ -1104,7 +1101,18 @@ function createRouterMatcher(routes, globalOptions) {
     };
   }
   routes.forEach((route) => addRoute(route));
-  return { addRoute, resolve, removeRoute, getRoutes, getRecordMatcher };
+  function clearRoutes() {
+    matchers.length = 0;
+    matcherMap.clear();
+  }
+  return {
+    addRoute,
+    resolve,
+    removeRoute,
+    clearRoutes,
+    getRoutes,
+    getRecordMatcher
+  };
 }
 function paramsFromLocation(params, keys) {
   const newParams = {};
@@ -1184,8 +1192,38 @@ function checkMissingParamsInAbsolutePath(record, parent) {
       return warn(`Absolute path "${record.record.path}" must have the exact same param named "${key.name}" as its parent "${parent.record.path}".`);
   }
 }
-function isRecordChildOf(record, parent) {
-  return parent.children.some((child) => child === record || isRecordChildOf(record, child));
+function findInsertionIndex(matcher, matchers) {
+  let lower = 0;
+  let upper = matchers.length;
+  while (lower !== upper) {
+    const mid = lower + upper >> 1;
+    const sortOrder = comparePathParserScore(matcher, matchers[mid]);
+    if (sortOrder < 0) {
+      upper = mid;
+    } else {
+      lower = mid + 1;
+    }
+  }
+  const insertionAncestor = getInsertionAncestor(matcher);
+  if (insertionAncestor) {
+    upper = matchers.lastIndexOf(insertionAncestor, upper - 1);
+    if (upper < 0) {
+      warn(`Finding ancestor route "${insertionAncestor.record.path}" failed for "${matcher.record.path}"`);
+    }
+  }
+  return upper;
+}
+function getInsertionAncestor(matcher) {
+  let ancestor = matcher;
+  while (ancestor = ancestor.parent) {
+    if (isMatchable(ancestor) && comparePathParserScore(matcher, ancestor) === 0) {
+      return ancestor;
+    }
+  }
+  return;
+}
+function isMatchable({ record }) {
+  return !!(record.name || record.components && Object.keys(record.components).length || record.redirect);
 }
 function parseQuery(search) {
   const query = {};
@@ -2179,7 +2217,7 @@ function createRouter(options) {
     if (!isRouteLocation(rawLocation)) {
       warn(`router.resolve() was passed an invalid location. This will fail in production.
 - Location:`, rawLocation);
-      rawLocation = {};
+      return resolve({});
     }
     let matcherLocation;
     if (rawLocation.path != null) {
@@ -2575,6 +2613,7 @@ ${JSON.stringify(newTargetLocation, null, 2)}
     listening: true,
     addRoute,
     removeRoute,
+    clearRoutes: matcher.clearRoutes,
     hasRoute,
     getRoutes,
     resolve,
@@ -2666,7 +2705,7 @@ function extractChangingRecords(to, from) {
 function useRouter() {
   return inject(routerKey);
 }
-function useRoute() {
+function useRoute(_name) {
   return inject(routeLocationKey);
 }
 export {
@@ -2698,7 +2737,7 @@ export {
 
 vue-router/dist/vue-router.mjs:
   (*!
-    * vue-router v4.3.2
+    * vue-router v4.4.0
     * (c) 2024 Eduardo San Martin Morote
     * @license MIT
     *)

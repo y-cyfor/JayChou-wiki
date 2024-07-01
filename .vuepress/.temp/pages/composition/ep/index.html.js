@@ -1,16 +1,3 @@
 import comp from "C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/composition/ep/index.html.vue"
-const data = JSON.parse("{\"path\":\"/composition/ep/\",\"title\":\"EP\",\"lang\":\"zh-CN\",\"frontmatter\":{\"description\":\"EP 建设中\",\"gitInclude\":[],\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://www.jaychou.asia/composition/ep/\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"JayChou's wiki | 周杰伦资料集\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"EP\"}],[\"meta\",{\"property\":\"og:description\",\"content\":\"EP 建设中\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}],[\"meta\",{\"property\":\"article:author\",\"content\":\"JayChou's wiki\"}],[\"script\",{\"type\":\"application/ld+json\"},\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\":\\\"Article\\\",\\\"headline\\\":\\\"EP\\\",\\\"image\\\":[\\\"\\\"],\\\"dateModified\\\":null,\\\"author\\\":[{\\\"@type\\\":\\\"Person\\\",\\\"name\\\":\\\"JayChou's wiki\\\",\\\"url\\\":\\\"https://www.jaychou.asia\\\"}]}\"]]},\"headers\":[],\"readingTime\":{\"minutes\":0.02,\"words\":5},\"filePathRelative\":\"composition/ep/README.md\",\"autoDesc\":true}")
+const data = JSON.parse("{\"path\":\"/composition/ep/\",\"title\":\"EP\",\"lang\":\"zh-CN\",\"frontmatter\":{\"description\":\"EP 建设中\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://www.jaychou.wiki/composition/ep/\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"JayChou's wiki | 周杰伦百科资料集\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"EP\"}],[\"meta\",{\"property\":\"og:description\",\"content\":\"EP 建设中\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}],[\"meta\",{\"property\":\"og:updated_time\",\"content\":\"2024-06-04T08:56:45.000Z\"}],[\"meta\",{\"property\":\"article:author\",\"content\":\"JayChou's wiki\"}],[\"meta\",{\"property\":\"article:modified_time\",\"content\":\"2024-06-04T08:56:45.000Z\"}],[\"script\",{\"type\":\"application/ld+json\"},\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\":\\\"Article\\\",\\\"headline\\\":\\\"EP\\\",\\\"image\\\":[\\\"\\\"],\\\"dateModified\\\":\\\"2024-06-04T08:56:45.000Z\\\",\\\"author\\\":[{\\\"@type\\\":\\\"Person\\\",\\\"name\\\":\\\"JayChou's wiki\\\",\\\"url\\\":\\\"https://www.jaychou.wiki\\\"}]}\"]]},\"headers\":[],\"git\":{\"createdTime\":1717388629000,\"updatedTime\":1717491405000,\"contributors\":[{\"name\":\"y-cyfor\",\"email\":\"cyfor@foxmail.com\",\"commits\":2}]},\"readingTime\":{\"minutes\":0.02,\"words\":5},\"filePathRelative\":\"composition/ep/README.md\",\"localizedDate\":\"2024年6月3日\",\"autoDesc\":true}")
 export { comp, data }
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}

@@ -1,14 +1,13 @@
-import "./chunk-3EJPJMEH.js";
+import "./chunk-PR4QN5HX.js";
 
-// node_modules/.pnpm/@vuepress+shared@2.0.0-rc.12/node_modules/@vuepress/shared/dist/index.js
+// node_modules/.pnpm/@vuepress+shared@2.0.0-rc.14/node_modules/@vuepress/shared/dist/index.js
 var isLinkWithProtocol = (link) => /^[a-z][a-z0-9+.-]*:/.test(link) || link.startsWith("//");
 var markdownLinkRegexp = /.md((\?|#).*)?$/;
 var isLinkExternal = (link, base = "/") => isLinkWithProtocol(link) || // absolute link that does not start with `base` and does not end with `.md`
 link.startsWith("/") && !link.startsWith(base) && !markdownLinkRegexp.test(link);
 var isLinkHttp = (link) => /^(https?:)?\/\//.test(link);
 var inferRoutePath = (path) => {
-  if (!path || path.endsWith("/"))
-    return path;
+  if (!path || path.endsWith("/")) return path;
   let routePath = path.replace(/(^|\/)README.md$/i, "$1index.html");
   if (routePath.endsWith(".md")) {
     routePath = routePath.substring(0, routePath.length - 3) + ".html";

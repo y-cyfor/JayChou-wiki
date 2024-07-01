@@ -1,5 +1,6 @@
 <template><div><h1 id="《八度空间》" tabindex="-1"><a class="header-anchor" href="#《八度空间》"><span>《八度空间》</span></a></h1>
-<h2 id="官方介绍" tabindex="-1"><a class="header-anchor" href="#官方介绍"><span>官方介绍</span></a></h2>
+<h2 id="专辑介绍-官方" tabindex="-1"><a class="header-anchor" href="#专辑介绍-官方"><span>专辑介绍（官方）</span></a></h2>
+<p>周杰伦的第三张大碟《八度空间》强势出击！《八度空间》，顾名思义，今趟Jay的歌曲及演绎，再加上方文山的绝妙歌词，以八个不同的音乐空间、10首不同风格的新歌，去笼罩著你整个音乐世界，带领你游历非一般的音乐空间。 打头阵的主打歌“最后的战役”亦来势汹汹！该歌曲本来为荷里活电影《Windtalkers》(译︰烈血追风)而谱出的，但由于双方时间上未能配合，合作计划因而告吹。想一睹这场“最后的战役”的伟大场面﹖随大碟附送的VCD收录了主打歌的电影版video track和music video，以及“杰伦的大兵秘辛日记”。</p>
 <h2 id="曲目" tabindex="-1"><a class="header-anchor" href="#曲目"><span>曲目</span></a></h2>
 <table>
 <thead>

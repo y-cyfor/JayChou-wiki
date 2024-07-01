@@ -167,23 +167,24 @@ footer: Powered by <a href="https://v2.vuepress.vuejs.org/zh/" target="_blank">V
         <br>
         The idea comes from <a href="https://sodaguide.cn/" target="_blank">苏打盖</a>
         <br>
-        <a href='https://beian.miit.gov.cn' target='_blank'>豫ICP备20012208号-4</a>
+        <a href='https://beian.miit.gov.cn' target='_blank'>豫ICP备20012208号-5</a>
 
 
 ---
-
+## JayChou's wiki是什么
+JayChou's wiki 是一个以周杰伦为主题的百科，主要内容来源于网络收集，方便杰迷搜寻资料。
 ## 为什么要做jaychou.wiki
 如首页tag所说，这里的前期（截止到目前）主要内容是由伦吧维护的，从喜欢老周开始，伦吧和很多吧友们都陪伴着我一路前行。
 后来有机会成为伦吧管理成员，不管是在做周边、准备线下活动，又或者大家在忆当年的时候，总是很难找那些被遗忘在互联网角落的证据碎片。
 
 我想 可能不止有我有这个烦恼。
 
-直到一天发现了苏打盖——一个苏打绿观光导览地图，我觉得这可能是作为一名产品经理，在我的能力范围内可以为和我相同的歌迷朋友做出的贡献。
+直到一天发现了[苏打盖](https://sodaguide.cn/)——一个苏打绿观光导览地图，我觉得这可能是作为一名产品经理，在我的能力范围内可以为和我相同的歌迷朋友做出的最切实际的贡献。
 
 ## 一起丰富百科
 JayChou's wiki 是一个开源项目，你可以在[GitHub上找到源码](https://github.com/y-cyfor/JayChou-wiki)。
 
-网站内容目前仅靠少数爱好者维护和提供资料，存在较多的不足。
+网站内容目前仅靠少数爱好者（暂时只有我）维护和提供资料，存在较多的不足。
 
 如果你刚好是一名互联网/软件从业的杰迷，欢迎加入伦吧，[一起丰富这个项目](/about/contribute.md)。
 

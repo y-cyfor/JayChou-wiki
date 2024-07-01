@@ -3,7 +3,8 @@
 <p>建设中，未完成0.0.0.1版，目前进度1%</p>
 </blockquote>
 <h2 id="重要更新" tabindex="-1"><a class="header-anchor" href="#重要更新"><span>重要更新</span></a></h2>
-<p>2024-04-30：项目上线。</p>
+<p>2024-04-30：项目上线。
+2024-06-26：更换域名jaychou.wiki，jaychou.asia仍可访问，但会301到wiki</p>
 <h2 id="碎碎念" tabindex="-1"><a class="header-anchor" href="#碎碎念"><span>碎碎念</span></a></h2>
 <ul>
 <li>20230607：公共文件用了腾讯COS，希望COS抓紧给我赞助（bushi）<br> 下一步看看文档怎么github page 还是应该自动部署，更新频繁的时候构建再上传到服务器太慢了</li>

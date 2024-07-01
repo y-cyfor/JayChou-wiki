@@ -1,6 +1,6 @@
 <template><div><h1 id="关于本站" tabindex="-1"><a class="header-anchor" href="#关于本站"><span>关于本站</span></a></h1>
 <h2 id="关于jaychou-s-wiki" tabindex="-1"><a class="header-anchor" href="#关于jaychou-s-wiki"><span>关于JayChou's wiki</span></a></h2>
-<p>本站想法源于2024年4月，无意间查到Jaychou.asia域名可以注册，便注册了域名，在思考用来做什么的时候，看到了<a href="http://sodaguide.cn/" title="苏打盖" target="_blank" rel="noopener noreferrer">苏打盖</a>，随即决定对前人进行学习模仿。<br>
+<p>本站想法源于2024年4月，无意间查到jaychou.wiki域名可以注册，便注册了域名，在思考用来做什么的时候，看到了<a href="http://sodaguide.cn/" title="苏打盖" target="_blank" rel="noopener noreferrer">苏打盖</a>，随即决定对前人进行学习模仿。<br>
 （使用了同一个开源前端框架和主题，并非copy😂）</p>
 <h2 id="互联网已经存在很多资料-为什么还要费神做一个网站" tabindex="-1"><a class="header-anchor" href="#互联网已经存在很多资料-为什么还要费神做一个网站"><span>互联网已经存在很多资料，为什么还要费神做一个网站</span></a></h2>
 <blockquote>

@@ -1,4 +1,4 @@
-import "./chunk-3EJPJMEH.js";
+import "./chunk-PR4QN5HX.js";
 
 // node_modules/.pnpm/autosize@6.0.1/node_modules/autosize/dist/autosize.esm.js
 var e = /* @__PURE__ */ new Map();
@@ -33,8 +33,7 @@ var r = null;
       function a(e2) {
         var o4, i2, l2 = e2.restoreTextAlign, s2 = void 0 === l2 ? null : l2, d = e2.testForHeightReduction, u = void 0 === d || d, c = n2.overflowY;
         if (0 !== t4.scrollHeight && ("vertical" === n2.resize ? t4.style.resize = "none" : "both" === n2.resize && (t4.style.resize = "horizontal"), u && (o4 = function(e3) {
-          for (var t5 = []; e3 && e3.parentNode && e3.parentNode instanceof Element; )
-            e3.parentNode.scrollTop && t5.push([e3.parentNode, e3.parentNode.scrollTop]), e3 = e3.parentNode;
+          for (var t5 = []; e3 && e3.parentNode && e3.parentNode instanceof Element; ) e3.parentNode.scrollTop && t5.push([e3.parentNode, e3.parentNode.scrollTop]), e3 = e3.parentNode;
           return function() {
             return t5.forEach(function(e4) {
               var t6 = e4[0], o5 = e4[1];
