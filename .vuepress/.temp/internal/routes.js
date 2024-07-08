@@ -2,11 +2,11 @@ export const redirects = JSON.parse("{}")
 
 export const routes = Object.fromEntries([
   ["/", { loader: () => import(/* webpackChunkName: "index.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/index.html.js"), meta: {"t":"首页","i":"home"} }],
+  ["/composition/", { loader: () => import(/* webpackChunkName: "composition_index.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/composition/index.html.js"), meta: {"t":"全部作品清单"} }],
   ["/about/contribute.html", { loader: () => import(/* webpackChunkName: "about_contribute.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/about/contribute.html.js"), meta: {"t":"贡献指南"} }],
   ["/about/history.html", { loader: () => import(/* webpackChunkName: "about_history.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/about/history.html.js"), meta: {"t":"更新历史"} }],
   ["/about/", { loader: () => import(/* webpackChunkName: "about_index.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/about/index.html.js"), meta: {"t":"关于本站"} }],
   ["/about/thinks.html", { loader: () => import(/* webpackChunkName: "about_thinks.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/about/thinks.html.js"), meta: {"t":"致谢"} }],
-  ["/composition/", { loader: () => import(/* webpackChunkName: "composition_index.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/composition/index.html.js"), meta: {"t":"全部作品清单"} }],
   ["/culture/join_us.html", { loader: () => import(/* webpackChunkName: "culture_join_us.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/culture/join_us.html.js"), meta: {"t":"加入伦吧歌迷会"} }],
   ["/culture/link.html", { loader: () => import(/* webpackChunkName: "culture_link.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/culture/link.html.js"), meta: {"t":"推荐访问"} }],
   ["/culture/org.html", { loader: () => import(/* webpackChunkName: "culture_org.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/culture/org.html.js"), meta: {"t":"歌迷组织"} }],
@@ -33,33 +33,33 @@ export const routes = Object.fromEntries([
   ["/composition/cd/00/public.html", { loader: () => import(/* webpackChunkName: "composition_cd_00_public.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/composition/cd/00/public.html.js"), meta: {"t":"《Jay》版本和专辑内页"} }],
   ["/composition/cd/00/", { loader: () => import(/* webpackChunkName: "composition_cd_00_index.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/composition/cd/00/index.html.js"), meta: {"t":"《Jay》专辑介绍"} }],
   ["/composition/cd/01/public.html", { loader: () => import(/* webpackChunkName: "composition_cd_01_public.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/composition/cd/01/public.html.js"), meta: {"t":"《范特西》版本和专辑内页"} }],
-  ["/composition/cd/01/", { loader: () => import(/* webpackChunkName: "composition_cd_01_index.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/composition/cd/01/index.html.js"), meta: {"t":"专辑介绍"} }],
+  ["/composition/cd/01/", { loader: () => import(/* webpackChunkName: "composition_cd_01_index.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/composition/cd/01/index.html.js"), meta: {"t":"《范特西》专辑介绍"} }],
   ["/composition/cd/02/public.html", { loader: () => import(/* webpackChunkName: "composition_cd_02_public.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/composition/cd/02/public.html.js"), meta: {"t":"《八度空间》版本和专辑内页"} }],
-  ["/composition/cd/02/", { loader: () => import(/* webpackChunkName: "composition_cd_02_index.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/composition/cd/02/index.html.js"), meta: {"t":"专辑介绍"} }],
+  ["/composition/cd/02/", { loader: () => import(/* webpackChunkName: "composition_cd_02_index.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/composition/cd/02/index.html.js"), meta: {"t":"《八度空间》专辑介绍"} }],
   ["/composition/cd/03/public.html", { loader: () => import(/* webpackChunkName: "composition_cd_03_public.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/composition/cd/03/public.html.js"), meta: {"t":"《叶惠美》版本和专辑内页"} }],
-  ["/composition/cd/03/", { loader: () => import(/* webpackChunkName: "composition_cd_03_index.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/composition/cd/03/index.html.js"), meta: {"t":"专辑介绍"} }],
+  ["/composition/cd/03/", { loader: () => import(/* webpackChunkName: "composition_cd_03_index.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/composition/cd/03/index.html.js"), meta: {"t":"《叶惠美》专辑介绍"} }],
   ["/composition/cd/04/public.html", { loader: () => import(/* webpackChunkName: "composition_cd_04_public.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/composition/cd/04/public.html.js"), meta: {"t":"《七里香》版本和专辑内页"} }],
-  ["/composition/cd/04/", { loader: () => import(/* webpackChunkName: "composition_cd_04_index.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/composition/cd/04/index.html.js"), meta: {"t":"专辑介绍"} }],
+  ["/composition/cd/04/", { loader: () => import(/* webpackChunkName: "composition_cd_04_index.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/composition/cd/04/index.html.js"), meta: {"t":"《七里香》专辑介绍"} }],
   ["/composition/cd/05/public.html", { loader: () => import(/* webpackChunkName: "composition_cd_05_public.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/composition/cd/05/public.html.js"), meta: {"t":"《11月的肖邦》版本和专辑内页"} }],
   ["/composition/cd/05/", { loader: () => import(/* webpackChunkName: "composition_cd_05_index.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/composition/cd/05/index.html.js"), meta: {"t":"专辑介绍"} }],
   ["/composition/cd/06/public.html", { loader: () => import(/* webpackChunkName: "composition_cd_06_public.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/composition/cd/06/public.html.js"), meta: {"t":"《依然范特西》版本和专辑内页"} }],
-  ["/composition/cd/06/", { loader: () => import(/* webpackChunkName: "composition_cd_06_index.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/composition/cd/06/index.html.js"), meta: {"t":"专辑介绍"} }],
+  ["/composition/cd/06/", { loader: () => import(/* webpackChunkName: "composition_cd_06_index.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/composition/cd/06/index.html.js"), meta: {"t":"《依然范特西》专辑介绍"} }],
   ["/composition/cd/07/public.html", { loader: () => import(/* webpackChunkName: "composition_cd_07_public.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/composition/cd/07/public.html.js"), meta: {"t":"《我很忙》版本和专辑内页"} }],
-  ["/composition/cd/07/", { loader: () => import(/* webpackChunkName: "composition_cd_07_index.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/composition/cd/07/index.html.js"), meta: {"t":"专辑介绍"} }],
+  ["/composition/cd/07/", { loader: () => import(/* webpackChunkName: "composition_cd_07_index.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/composition/cd/07/index.html.js"), meta: {"t":"《我很忙》专辑介绍"} }],
   ["/composition/cd/08/public.html", { loader: () => import(/* webpackChunkName: "composition_cd_08_public.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/composition/cd/08/public.html.js"), meta: {"t":"《魔杰座》版本和专辑内页"} }],
-  ["/composition/cd/08/", { loader: () => import(/* webpackChunkName: "composition_cd_08_index.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/composition/cd/08/index.html.js"), meta: {"t":"专辑介绍"} }],
+  ["/composition/cd/08/", { loader: () => import(/* webpackChunkName: "composition_cd_08_index.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/composition/cd/08/index.html.js"), meta: {"t":"《魔杰座》专辑介绍"} }],
   ["/composition/cd/10/public.html", { loader: () => import(/* webpackChunkName: "composition_cd_10_public.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/composition/cd/10/public.html.js"), meta: {"t":"《跨时代》版本和专辑内页"} }],
   ["/composition/cd/10/", { loader: () => import(/* webpackChunkName: "composition_cd_10_index.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/composition/cd/10/index.html.js"), meta: {"t":"专辑介绍"} }],
   ["/composition/cd/11/public.html", { loader: () => import(/* webpackChunkName: "composition_cd_11_public.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/composition/cd/11/public.html.js"), meta: {"t":"《惊叹号》版本和专辑内页"} }],
-  ["/composition/cd/11/", { loader: () => import(/* webpackChunkName: "composition_cd_11_index.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/composition/cd/11/index.html.js"), meta: {"t":"专辑介绍"} }],
+  ["/composition/cd/11/", { loader: () => import(/* webpackChunkName: "composition_cd_11_index.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/composition/cd/11/index.html.js"), meta: {"t":"《惊叹号》专辑介绍"} }],
   ["/composition/cd/12/public.html", { loader: () => import(/* webpackChunkName: "composition_cd_12_public.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/composition/cd/12/public.html.js"), meta: {"t":"《十二新作》版本和专辑内页"} }],
-  ["/composition/cd/12/", { loader: () => import(/* webpackChunkName: "composition_cd_12_index.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/composition/cd/12/index.html.js"), meta: {"t":"专辑介绍"} }],
+  ["/composition/cd/12/", { loader: () => import(/* webpackChunkName: "composition_cd_12_index.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/composition/cd/12/index.html.js"), meta: {"t":"《十二新作》专辑介绍"} }],
   ["/composition/cd/14/public.html", { loader: () => import(/* webpackChunkName: "composition_cd_14_public.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/composition/cd/14/public.html.js"), meta: {"t":"《哎呦不错哦》版本和专辑内页"} }],
-  ["/composition/cd/14/", { loader: () => import(/* webpackChunkName: "composition_cd_14_index.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/composition/cd/14/index.html.js"), meta: {"t":"专辑介绍"} }],
+  ["/composition/cd/14/", { loader: () => import(/* webpackChunkName: "composition_cd_14_index.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/composition/cd/14/index.html.js"), meta: {"t":"《哎呦不错哦》专辑介绍"} }],
   ["/composition/cd/16/public.html", { loader: () => import(/* webpackChunkName: "composition_cd_16_public.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/composition/cd/16/public.html.js"), meta: {"t":"《周杰伦的床边故事》版本和专辑内页"} }],
-  ["/composition/cd/16/", { loader: () => import(/* webpackChunkName: "composition_cd_16_index.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/composition/cd/16/index.html.js"), meta: {"t":"专辑介绍"} }],
+  ["/composition/cd/16/", { loader: () => import(/* webpackChunkName: "composition_cd_16_index.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/composition/cd/16/index.html.js"), meta: {"t":"《周杰伦的床边故事》专辑介绍"} }],
   ["/composition/cd/22/public.html", { loader: () => import(/* webpackChunkName: "composition_cd_22_public.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/composition/cd/22/public.html.js"), meta: {"t":"《最伟大的作品》版本和专辑内页"} }],
-  ["/composition/cd/22/", { loader: () => import(/* webpackChunkName: "composition_cd_22_index.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/composition/cd/22/index.html.js"), meta: {"t":"专辑介绍"} }],
+  ["/composition/cd/22/", { loader: () => import(/* webpackChunkName: "composition_cd_22_index.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/composition/cd/22/index.html.js"), meta: {"t":"《最伟大的作品》专辑介绍"} }],
   ["/show/Concert/2002TheOne/", { loader: () => import(/* webpackChunkName: "show_Concert_2002TheOne_index.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/show/Concert/2002TheOne/index.html.js"), meta: {"t":"2002 TheOne巡回演唱会"} }],
   ["/show/Concert/2004incomparable/", { loader: () => import(/* webpackChunkName: "show_Concert_2004incomparable_index.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/show/Concert/2004incomparable/index.html.js"), meta: {"t":"2004 无与伦比世界巡回演唱会"} }],
   ["/show/Concert/2007WorldTours/", { loader: () => import(/* webpackChunkName: "show_Concert_2007WorldTours_index.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/show/Concert/2007WorldTours/index.html.js"), meta: {"t":"2007 世界巡回演唱会"} }],
@@ -77,3 +77,20 @@ export const routes = Object.fromEntries([
   ["/others/", { loader: () => import(/* webpackChunkName: "others_index.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/others/index.html.js"), meta: {"t":"Others"} }],
   ["/composition/cd/", { loader: () => import(/* webpackChunkName: "composition_cd_index.html" */"C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/pages/composition/cd/index.html.js"), meta: {"t":"Cd"} }],
 ]);
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updateRoutes) {
+    __VUE_HMR_RUNTIME__.updateRoutes(routes)
+  }
+  if (__VUE_HMR_RUNTIME__.updateRedirects) {
+    __VUE_HMR_RUNTIME__.updateRedirects(redirects)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ routes, redirects }) => {
+    __VUE_HMR_RUNTIME__.updateRoutes(routes)
+    __VUE_HMR_RUNTIME__.updateRedirects(redirects)
+  })
+}

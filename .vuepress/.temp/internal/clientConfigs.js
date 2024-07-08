@@ -9,7 +9,8 @@ import * as clientConfig7 from 'C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/nod
 import * as clientConfig8 from 'C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/node_modules/.pnpm/@vuepress+plugin-copy-code@2.0.0-rc.37_vuepress@2.0.0-rc.14/node_modules/@vuepress/plugin-copy-code/lib/client/config.js'
 import * as clientConfig9 from 'C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/md-enhance/config.js'
 import * as clientConfig10 from 'C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/node_modules/.pnpm/@vuepress+plugin-photo-swipe@2.0.0-rc.37_vuepress@2.0.0-rc.14/node_modules/@vuepress/plugin-photo-swipe/lib/client/config.js'
-import * as clientConfig11 from 'C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/theme-hope/config.js'
+import * as clientConfig11 from 'C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/node_modules/.pnpm/vuepress-plugin-search-pro@2.0.0-rc.50_vuepress@2.0.0-rc.14/node_modules/vuepress-plugin-search-pro/lib/client/config.js'
+import * as clientConfig12 from 'C:/Users/CYFOR/Desktop/zjl/wiki/jaychou-wiki/src/.vuepress/.temp/theme-hope/config.js'
 
 export const clientConfigs = [
   clientConfig0,
@@ -24,4 +25,5 @@ export const clientConfigs = [
   clientConfig9,
   clientConfig10,
   clientConfig11,
+  clientConfig12,
 ].map((m) => m.default).filter(Boolean)

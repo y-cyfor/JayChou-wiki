@@ -7,3 +7,12 @@
 :::
 
 ## 台湾版
+![back.jpg](https://public.jaychou.wiki/composition/cd/2001-范特西[台湾]/back.jpg/yss+sy =x300)
+![cover.jpg](https://public.jaychou.wiki/composition/cd/2001-范特西[台湾]/cover.jpg/yss+sy =x300)
+![内1.jpg](https://public.jaychou.wiki/composition/cd/2001-范特西[台湾]/内1.jpg/yss+sy =x300)
+![内2.jpg](https://public.jaychou.wiki/composition/cd/2001-范特西[台湾]/内2.jpg/yss+sy =x300)
+![内3.jpg](https://public.jaychou.wiki/composition/cd/2001-范特西[台湾]/内3.jpg/yss+sy =x300)
+![内4.jpg](https://public.jaychou.wiki/composition/cd/2001-范特西[台湾]/内4.jpg/yss+sy =x300)
+![内5.jpg](https://public.jaychou.wiki/composition/cd/2001-范特西[台湾]/内5.jpg/yss+sy =x300)
+![内6.jpg](https://public.jaychou.wiki/composition/cd/2001-范特西[台湾]/内6.jpg/yss+sy =x300)
+![disc.jpg](https://public.jaychou.wiki/composition/cd/2001-范特西[台湾]/disc.jpg/yss+sy =x300)

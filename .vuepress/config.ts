@@ -1,5 +1,6 @@
 import { defineUserConfig } from "vuepress"
 import { searchConsolePlugin } from 'vuepress-plugin-china-search-console'
+//import { searchProPlugin } from "vuepress-plugin-search-pro";
 import theme from "./theme.js"
 
 
@@ -29,6 +30,11 @@ export default defineUserConfig({
     ],
   ],
   theme,
+  //plugins: [
+  //  searchProPlugin({
+  //    indexContent: true,
+  //  }),
+ // ],
 
   // 和 PWA 一起启用
   // shouldPrefetch: false,

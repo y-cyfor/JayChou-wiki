@@ -28,7 +28,14 @@ export default sidebar({
               prefix: "22",
               collapsible: true,
               children: [
-                "",
+                {
+                  text: "专辑介绍",
+                  link: "README.md",
+                    },
+                    {
+                      text: "专辑版本",
+                      link: "public.md",
+                        },
                   ],
                 },
             {
@@ -36,7 +43,14 @@ export default sidebar({
               prefix: "16",
               collapsible: true,
               children: [
-                "",
+                {
+                  text: "专辑介绍",
+                  link: "README.md",
+                    },
+                    {
+                      text: "专辑版本",
+                      link: "public.md",
+                        },
                   ],
                 },
             {
@@ -44,7 +58,14 @@ export default sidebar({
               prefix: "14",
               collapsible: true,
               children: [
-                "",
+                {
+                  text: "专辑介绍",
+                  link: "README.md",
+                    },
+                    {
+                      text: "专辑版本",
+                      link: "public.md",
+                        },
                   ],
                 },
             {
@@ -52,7 +73,14 @@ export default sidebar({
               prefix: "12",
               collapsible: true,
               children: [
-                "",
+                {
+                  text: "专辑介绍",
+                  link: "README.md",
+                    },
+                    {
+                      text: "专辑版本",
+                      link: "public.md",
+                        },
                   ],
                 },
             {
@@ -60,7 +88,14 @@ export default sidebar({
               prefix: "11",
               collapsible: true,
               children: [
-                "",
+                {
+                  text: "专辑介绍",
+                  link: "README.md",
+                    },
+                    {
+                      text: "专辑版本",
+                      link: "public.md",
+                        },
                   ],
                 },
             {
@@ -68,7 +103,14 @@ export default sidebar({
               prefix: "10",
               collapsible: true,
               children: [
-                "",
+                {
+                  text: "专辑介绍",
+                  link: "README.md",
+                    },
+                    {
+                      text: "专辑版本",
+                      link: "public.md",
+                        },
                   ],
                 },
             {
@@ -76,7 +118,14 @@ export default sidebar({
               prefix: "08",
               collapsible: true,
               children: [
-                "",
+                {
+                  text: "专辑介绍",
+                  link: "README.md",
+                    },
+                    {
+                      text: "专辑版本",
+                      link: "public.md",
+                        },
                   ],
                 },
             {
@@ -84,7 +133,14 @@ export default sidebar({
               prefix: "07",
               collapsible: true,
               children: [
-                "",
+                {
+                  text: "专辑介绍",
+                  link: "README.md",
+                    },
+                    {
+                      text: "专辑版本",
+                      link: "public.md",
+                        },
                   ],
                 },
             {
@@ -92,7 +148,14 @@ export default sidebar({
               prefix: "06",
               collapsible: true,
               children: [
-                "",
+                {
+                  text: "专辑介绍",
+                  link: "README.md",
+                    },
+                    {
+                      text: "专辑版本",
+                      link: "public.md",
+                        },
                   ],
                 },
             {
@@ -100,7 +163,14 @@ export default sidebar({
               prefix: "05",
               collapsible: true,
               children: [
-                "",
+                {
+                  text: "专辑介绍",
+                  link: "README.md",
+                    },
+                    {
+                      text: "专辑版本",
+                      link: "public.md",
+                        },
                   ],
                 },
             {
@@ -108,7 +178,14 @@ export default sidebar({
               prefix: "04",
               collapsible: true,
               children: [
-                "",
+                {
+                  text: "专辑介绍",
+                  link: "README.md",
+                    },
+                    {
+                      text: "专辑版本",
+                      link: "public.md",
+                        },
                   ],
                 },
             {
@@ -116,7 +193,14 @@ export default sidebar({
               prefix: "03",
               collapsible: true,
               children: [
-                "",
+                {
+                  text: "专辑介绍",
+                  link: "README.md",
+                    },
+                    {
+                      text: "专辑版本",
+                      link: "public.md",
+                        },
                   ],
                 },
               {
@@ -124,7 +208,14 @@ export default sidebar({
                 prefix: "02",
                 collapsible: true,
                 children: [
-                  "",
+                  {
+                    text: "专辑介绍",
+                    link: "README.md",
+                      },
+                      {
+                        text: "专辑版本",
+                        link: "public.md",
+                          },
                     ],
                   },
               {
@@ -132,7 +223,14 @@ export default sidebar({
                 prefix: "01",
                 collapsible: true,
                 children: [
-                  "",
+                  {
+                    text: "专辑介绍",
+                    link: "README.md",
+                      },
+                      {
+                        text: "专辑版本",
+                        link: "public.md",
+                          },
                     ],
                   },
                 {

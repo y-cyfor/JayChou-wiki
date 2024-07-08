@@ -42,6 +42,7 @@ export default hopeTheme({
 
   // 在这里配置主题提供的插件
   plugins: {
+    // 启用主题自带的评论插件
     comment: {
       provider: "Waline",
       serverURL: "https://comment.jaychou.wiki/",
@@ -50,6 +51,13 @@ export default hopeTheme({
       pageSize: 20,//分页条数
     },
 
+    //搜索插件
+      searchPro: {
+        indexContent: true, //搜索全文
+        autoSuggestions: false, //搜索建议
+        queryHistoryCount: 5, //搜索历史数
+
+       },
     components: {
       components: ["Badge", "VPCard"],
     },

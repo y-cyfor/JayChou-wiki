@@ -7,3 +7,6 @@
 :::
 
 ## 台湾版
+![back.jpg](https://public.jaychou.wiki/composition/cd/2012-十二新作[台湾]/back.jpg/yss+sy =x300)
+![cover.jpg](https://public.jaychou.wiki/composition/cd/2012-十二新作[台湾]/cover.jpg/yss+sy =x300)
+![disc.jpg](https://public.jaychou.wiki/composition/cd/2012-十二新作[台湾]/disc.jpg/yss+sy =x300)
