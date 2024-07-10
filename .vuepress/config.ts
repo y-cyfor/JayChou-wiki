@@ -16,13 +16,13 @@ export default defineUserConfig({
       id: 'LA_COLLECT',
       src: 'https://sdk.51.la/js-sdk-pro.min.js?id=3Ia9UlIRxpjIS8Tl&ck=3Ia9UlIRxpjIS8Tl&autoTrack=true&hashMode=true' // 51la统计代码
     }],
-    // ['script', { src: 'https://hm.baidu.com/hm.js?4aaa1ba63be3aa0e11a4bb427b7c777d' }],// 百度统计代码简单用法
+    // ['script', { src: 'https://hm.baidu.com/hm.js?2b95f3f7f21f3597d1a53a438c2e539d' }],// 百度统计代码简单用法
     [
     'script', {}, `
     var _hmt = _hmt || [];
     (function() {
     var hm = document.createElement("script");
-    hm.src = "https://hm.baidu.com/hm.js?4aaa1ba63be3aa0e11a4bb427b7c777d";
+    hm.src = "https://hm.baidu.com/hm.js?2b95f3f7f21f3597d1a53a438c2e539d";
     var s = document.getElementsByTagName("script")[0]; 
     s.parentNode.insertBefore(hm, s);
     })();          
