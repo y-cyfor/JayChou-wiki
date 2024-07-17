@@ -3,10 +3,10 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://www.jaychou.wiki",
+  hostname: "https://www.jaychou.wiki/",
   author: {
     name: "JayChou's wiki",
-    url: "https://www.jaychou.wiki",  
+    url: "https://www.jaychou.wiki/",  
   },
   license: "GPL3.0",
   iconAssets: "fontawesome-with-brands",

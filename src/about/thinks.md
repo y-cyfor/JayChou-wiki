@@ -19,13 +19,17 @@
 | 影视作品  | 豆瓣网  |   |
 | 英文内容（专辑、歌曲名）  | Apple Music  |   |
 | 制作团队（乐手、混音、录音等）  | Apple Music  |   |
-
+| 演出记录  | 维基百科  |   |
+| 演出记录  | jaybar  | shanghai-WFN  |
 
 ## 托管服务
 - 框架：[VuePress](https://v2.vuepress.vuejs.org/zh/ "VuePress")
 - 主题：[vuepress-theme-hope](https://theme-hope.vuejs.press/ "vuepress-theme-hope")
-网站服务器、域名注册商、CDN服务 不列出，~~因为我花钱了~~
-> 为什么要付费购买服务器和CDN：作为非技术向产品经理，前期在维护网站内容上所需时间过多，付费使用IDC服务的性价比要胜过Github page托管和开源项目CDN的学习成本
+- 自动部署：[vercel](https://vercel.com/ "vercel")
+- 自动部署：[netlify](https://www.netlify.com/ "netlify")
+
+域名注册商、CDN服务 不列出，~~因为我花钱了~~
+> 为什么要付费购买服务器和CDN：作为非技术向产品经理，前期在维护网站内容上所需时间过多，~~付费使用IDC服务的性价比要胜过Github page托管和开源项目CDN的学习成本~~ 现在已经开始用自动部署了
 
 本项目为爱发电，所有资金成本均为个人（伦吧）承担，不接受任何形式的现金捐赠，包括付费购买IDC服务。
-（但接受IDC服务商的服务器、CDN赞助，~~希望腾讯阿里云不要不识好歹~~）
+（但接受IDC服务商的CI/CD、CDN赞助，~~希望腾讯阿里云不要不识好歹~~）
