@@ -1,7 +1,7 @@
 ---
 home: true
 icon: home
-title: 首页
+title: 杰周wiki
 heroImage: 
 bgImage: https://public.jaychou.wiki/index/index_hero_bj.jpeg/ys+sy
 bgImageDark: https://public.jaychou.wiki/index/index_hero_bj.jpeg/ys+sy
