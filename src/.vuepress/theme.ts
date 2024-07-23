@@ -43,13 +43,13 @@ export default hopeTheme({
   // 在这里配置主题提供的插件
   plugins: {
     // 启用主题自带的评论插件
-    comment: {
-      provider: "Waline",
-      serverURL: "https://comment.jaychou.wiki/",
-      dark: "auto",//暗黑模式：自动
-      commentSorting: "hottest",//排序方式：自动
-      pageSize: 20,//分页条数
-    },
+     //  comment: {
+     //    provider: "Waline",
+     //    serverURL: "https://comment.jaychou.wiki/",
+     //    dark: "auto",//暗黑模式：自动
+     //    commentSorting: "hottest",//排序方式：自动
+     //    pageSize: 20,//分页条数
+     //  },
 
     //搜索插件
       searchPro: {
