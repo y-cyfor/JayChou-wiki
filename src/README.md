@@ -8,12 +8,11 @@ bgImageDark: https://public.jaychou.wiki/index/index_hero_bj.jpeg/ys+sy
 bgImageStyle:
   opacity: 0.3
   background-attachment: fixed
-heroText: JayChou's wiki | 杰伦资料集
+heroText: 杰周wiki | 杰伦资料集
 tagline: 
         <br />
         <br />周杰伦 音乐🎵、演出🎤、影视🎬 资料集
         <br />
-        <font size="3">信息收集和维护由伦吧歌迷会驱动，更多周杰伦咨询，关注以下社交媒体</font>
         <br />
         <br />
         <br />
