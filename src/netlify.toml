@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://jaychou-wiki.netlify.app/*"
+  to = "https://www.jaychou.wiki/"
+  status = 301
+  force = true

@@ -1,14 +1,14 @@
 ---
 home: true
 icon: home
-title: 杰周wiki
+title: JayChou's wiki
 heroImage: 
 bgImage: https://public.jaychou.wiki/index/index_hero_bj.jpeg/ys+sy
 bgImageDark: https://public.jaychou.wiki/index/index_hero_bj.jpeg/ys+sy
 bgImageStyle:
   opacity: 0.3
   background-attachment: fixed
-heroText: 杰周wiki | 杰伦资料集
+heroText: JayChou's wiki | 杰伦资料集
 tagline: 
         <br />
         <br />周杰伦 音乐🎵、演出🎤、影视🎬 资料集
