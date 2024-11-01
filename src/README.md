@@ -1,14 +1,14 @@
 ---
 home: true
 icon: home
-title: JayChou's wiki
+title: 首页
 heroImage: 
 bgImage: https://public.jaychou.wiki/index/index_hero_bj.jpeg/ys+sy
 bgImageDark: https://public.jaychou.wiki/index/index_hero_bj.jpeg/ys+sy
 bgImageStyle:
   opacity: 0.3
   background-attachment: fixed
-heroText: JayChou's wiki | 杰伦资料集
+heroText: JayChou's wiki | 杰伦百科资料集
 tagline: 
         <br />
         <br />周杰伦 音乐🎵、演出🎤、影视🎬 资料集
@@ -43,15 +43,6 @@ actions:
     type: default
 
 
-  - text: 嘉年华南京站（05.16-05.19）
-    icon: 
-    link: /show/Concert/2019carnival/2024nanjing.md
-    type: default
-
-  - text: 嘉年华深圳站（05.16-05.19）
-    icon: 
-    link: /show/Concert/2019carnival/2024shenzhen.md
-    type: default
 
 highlights:
   - header: 嘉年华世界巡回演唱会 最新开票信息
@@ -62,11 +53,10 @@ highlights:
       background-repeat: repeat
       background-size: initial
     highlights:
-      - title: 嘉年华世界巡回演唱会 南京 站（2024.09.26-2024.09.29）
-        details: 开票时间：6月12日11：18分 <br> 平台：大麦
-                <br>二开时间：待定
-      - title: 嘉年华世界巡回演唱会 深圳 站（2024.05.29-2024.06.01）
+      - title: 嘉年华世界巡回演唱会 海口 站（2025）
         details: 开票时间：待定 <br> 平台：待定
+                <br>二开时间：待定
+
 
   - header: 嘉年华世界巡回演唱会
     description: 已确定场次
@@ -78,38 +68,12 @@ highlights:
       background-repeat: repeat
       background-size: initial
     features:
-      - title: 🎤【南京站】
-        details: 时间：2024.09.26-2024.09.29<br />
-                  地点：南京奥体中心体育场<br />
-                  开票时间：<br />
-                  二次开票时间：<br />
-                  票价：<br />
-                  购票平台：<br />
-        link: /show/Concert/2019carnival/2024nanjing.md
-
-      - title: 🎤【深圳站】
-        details: 时间：2024.09.12-2024.09.15<br />
-                  地点：深圳大运中心体育场<br />
-                  开票时间：待定<br />
-                  二次开票时间：待定<br />
-                  票价：<br />
-                  购票平台：待定<br />
-        link: /show/Concert/2019carnival/2024shenzhen.md
-
-      - title: 🎤【新加坡站】
-        details: 时间：2024.10.11-2024.10.13<br />
-                  地点：Singapore National Stadium<br />
-                  开票时间：待定<br />
-                  票价：<br />
-                  购票平台：待定<br />
-        link: /show/Concert/2019carnival/2024Singapore.md
-
-      - title: 🎤【马来西亚站】
+      - title: 🎤【海口】
         details: 时间：2024.10.26<br />
-                  地点：Malaysia Bukit Jalit National Stadium <br />
-                  开票：已开售<br />
-                  票价：<br />
-        link: /show/Concert/2019carnival/2024Malaysia.md
+                  地点： <br />
+                  开票：未开票<br />
+                  票价：待定<br />
+        link: /show/Concert/2019carnival/2025haikou.md
 
   - header: 新作品
     bgImage: https://public.jaychou.wiki/index/index_shengdanxing.jpeg/ys+sy

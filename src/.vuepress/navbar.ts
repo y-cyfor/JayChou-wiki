@@ -41,12 +41,8 @@ export default navbar([
     prefix: "/show/Concert/2019carnival/",
     children: [
       {
-        text: "嘉年华深圳站",
-        link: "2024shenzhen.md",
-      },
-      {
-        text: "嘉年华南京站",
-        link: "2024nanjing.md",
+        text: "嘉年华海口站（2025）",
+        link: "2025haikou.md",
       },
     ],
   },
