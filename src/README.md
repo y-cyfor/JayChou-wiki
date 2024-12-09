@@ -131,6 +131,8 @@ footer: Powered by <a href="https://v2.vuepress.vuejs.org/zh/" target="_blank">V
         The idea comes from <a href="https://sodaguide.cn/" target="_blank">苏打盖</a>
         <br>
         <a href='https://beian.miit.gov.cn' target='_blank'>豫ICP备20012208号-5</a>
+        <br>
+        <a href="https://beian.mps.gov.cn/#/query/webSearch?code=41048202000188" rel="noreferrer" target="_blank">豫公网安备41048202000188</a>
 
 
 ---

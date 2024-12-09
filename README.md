@@ -5,7 +5,7 @@ JayChou's wiki 是一个以周杰伦为主题的百科，主要内容来源于�
 互联网并不一定能留下所有东西，很多东西都随着时间流逝而消失。
 比如百度和Google，已经无法搜索到很多超过10年的内容。
 ## 谁在做
-目前是由伦吧歌迷会维护，[欢迎加入伦吧](src/about/contribute.md)，一起丰富这个项目。
+目前是由伦吧歌迷会维护，[欢迎加入伦吧](https://www.jaychou.wiki/culture/join_us.html)，一起丰富这个项目。
 也可以发送[邮件](mailto:cyfor@foxmail.com)提交你的更新内容。
 ## 怎么用
 - 如果你只是想浏览，可以直接访问[JayChou's wiki](https://www.jaychou.wiki/)。

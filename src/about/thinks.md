@@ -24,7 +24,7 @@
 
 ## 托管服务
 - 框架：[VuePress](https://v2.vuepress.vuejs.org/zh/ "VuePress")
-- 主题：[vuepress-theme-hope](https://theme-hope.vuejs.press/ "vuepress-theme-hope")
+- 主题：[Vuepress-theme-hope](https://theme-hope.vuejs.press/ "Vuepress-theme-hope")
 - 在线IDE：[腾讯云Cloud Studio 免费版](https://https://cloud.tencent.com/product/cloudstudio "腾讯云Cloud Studio 免费版")
 - 自动部署：[Vercel](https://vercel.com/ "Vercel")
 - 自动部署：[Netlify](https://www.netlify.com/ "Netlify")
