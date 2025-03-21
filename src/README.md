@@ -8,10 +8,10 @@ bgImageDark: https://public.jaychou.wiki/index/index_hero_bj.jpeg/ys+sy
 bgImageStyle:
   opacity: 0.3
   background-attachment: fixed
-heroText: JayChou's wiki | 杰伦百科资料集
+heroText: 杰周wiki ##JayChou's wiki | 杰伦百科资料集 
 tagline: 
         <br />
-        <br />周杰伦 音乐🎵、演出🎤、影视🎬 资料集
+        <br /> 音乐🎵、演出🎤、影视🎬 资料集 ##周杰伦
         <br />
         <br />
         <br />
@@ -53,9 +53,10 @@ highlights:
       background-repeat: repeat
       background-size: initial
     highlights:
-      - title: 嘉年华世界巡回演唱会 海口 站（2025）
-        details: 开票时间：待定 <br> 平台：待定
-                <br>二开时间：待定
+      - title: 嘉年华世界巡回演唱会 三亚（海口改） 站（2025）
+        details: 开票时间： <br> 平台：大麦 猫眼
+                <br>二开时间：<br />
+                <br>三开时间：2025年3月21日15点18分（含视线不良区域）
 
 
   - header: 嘉年华世界巡回演唱会
@@ -68,11 +69,11 @@ highlights:
       background-repeat: repeat
       background-size: initial
     features:
-      - title: 🎤【海口】
-        details: 时间：2024.10.26<br />
+      - title: 🎤【三亚】
+        details: 时间：2025.03.28-2025.03.30<br />
                   地点： <br />
-                  开票：未开票<br />
-                  票价：待定<br />
+                  开票：已开票<br />
+                  票价：<br />
         link: /show/Concert/2019carnival/2025haikou.md
 
   - header: 新作品
@@ -127,6 +128,10 @@ highlights:
 
 copyright: false
 footer: Powered by <a href="https://v2.vuepress.vuejs.org/zh/" target="_blank">VuePress</a>. Theme by <a href="https://theme-hope.vuejs.press/zh/" target="_blank">Hope</a> | MIT 协议
+        <br>
+        Copyright © CYFOR&JayBar 2023-now
+        <br>
+        Licensed under the GPL-3.0 License.
         <br>
         The idea comes from <a href="https://sodaguide.cn/" target="_blank">苏打盖</a>
         <br>
