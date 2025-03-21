@@ -8,10 +8,12 @@ bgImageDark: https://public.jaychou.wiki/index/index_hero_bj.jpeg/ys+sy
 bgImageStyle:
   opacity: 0.3
   background-attachment: fixed
-heroText: 杰周wiki ##JayChou's wiki | 杰伦百科资料集 
+heroText: 杰周wiki
+##JayChou's wiki | 杰伦百科资料集 
 tagline: 
         <br />
-        <br /> 音乐🎵、演出🎤、影视🎬 资料集 ##周杰伦
+        <br /> 音乐🎵、演出🎤、影视🎬 资料集 
+        ##周杰伦
         <br />
         <br />
         <br />

@@ -7,8 +7,9 @@ import theme from "./theme.js"
 export default defineUserConfig({
   base: "/",
   lang: "zh-CN",
-  title: "JayChou's wiki | 周杰伦百科资料集",
-  description: "周杰伦 音乐🎵、演出🎤、影视🎬 资料集",
+  title: "杰周wiki",
+  //JayChou's wiki | 周杰伦百科资料集
+  description: "音乐🎵、演出🎤、影视🎬 资料集",
   head: [
     ['script', {  
       async: true,  
