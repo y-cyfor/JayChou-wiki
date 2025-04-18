@@ -1,5 +1,4 @@
-import { defineUserConfig } from "vuepress";
-import { searchConsolePlugin } from "vuepress-plugin-china-search-console";
+import { defineUserConfig } from 'vuepress'
 import theme from "./theme.js";
 
 export default defineUserConfig({
@@ -28,9 +27,9 @@ export default defineUserConfig({
     ],
   ],
   theme,
-  plugins: [
-    searchConsolePlugin({}),
-  ],
+   //  plugins: [
+  // 
+   //  ],
 
   // 和 PWA 一起启用
   // shouldPrefetch: false,
