@@ -1,15 +1,12 @@
-import { defineUserConfig } from "vuepress"
-import { searchConsolePlugin } from 'vuepress-plugin-china-search-console'
-//import { searchProPlugin } from "vuepress-plugin-search-pro";
-import theme from "./theme.js"
-
+import { defineUserConfig } from "vuepress";
+import { searchConsolePlugin } from "vuepress-plugin-china-search-console";
+import theme from "./theme.js";
 
 export default defineUserConfig({
   base: "/",
   lang: "zh-CN",
-  title: "杰周wiki",
-  //JayChou's wiki | 周杰伦百科资料集
-  description: "音乐🎵、演出🎤、影视🎬 资料集",
+  title: "JayChou's wiki | 周杰伦百科资料集",
+  description: "周杰伦 音乐🎵、演出🎤、影视🎬 资料集",
   head: [
     ['script', {  
       async: true,  
@@ -31,11 +28,9 @@ export default defineUserConfig({
     ],
   ],
   theme,
-  //plugins: [
-  //  searchProPlugin({
-  //    indexContent: true,
-  //  }),
- // ],
+  plugins: [
+    searchConsolePlugin({}),
+  ],
 
   // 和 PWA 一起启用
   // shouldPrefetch: false,

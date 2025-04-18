@@ -42,6 +42,9 @@ export default hopeTheme({
 
   // 在这里配置主题提供的插件
   plugins: {
+    icon: {
+      assets: "fontawesome-with-brands"
+    },
     // 启用主题自带的评论插件
      //  comment: {
      //    provider: "Waline",
@@ -52,46 +55,44 @@ export default hopeTheme({
      //  },
 
     //搜索插件
-      searchPro: {
-        indexContent: true, //搜索全文
-        autoSuggestions: false, //搜索建议
-        queryHistoryCount: 5, //搜索历史数
-
-       },
+    slimsearch: {
+      indexContent: true, //搜索全文
+      autoSuggestions: false, //搜索建议
+      queryHistoryCount: 5, //搜索历史数
+    },
     components: {
       components: ["Badge", "VPCard"],
     },
 
-    // 此处开启了很多功能用于演示，你应仅保留用到的功能。
-    mdEnhance: {
-      align: true,
-      attrs: true,
-      codetabs: true,
-      component: true,
-      demo: true,
-      figure: true,
-      imgLazyload: true,
-      imgSize: true,
-      include: true,
-      mark: true,
-      stylize: [
-        {
-          matcher: "Recommended",
-          replacer: ({ tag }) => {
-            if (tag === "em")
-              return {
-                tag: "Badge",
-                attrs: { type: "tip" },
-                content: "Recommended",
-              };
-          },
-        },
-      ],
-      sub: true,
-      sup: true,
-      tabs: true,
-      tasklist: true,
-      vPre: true,
+    // markdown: {
+        //   align: true,
+        //   attrs: true,
+        //   codeTabs: true,
+        //   component: true,
+        //   demo: true,
+        //   figure: true,
+        //   imgLazyload: true,
+        //   imgSize: true,
+        //   include: true,
+        //   mark: true,
+        //   stylize: [
+         //    {
+         //      matcher: "Recommended",
+        //       replacer: ({ tag }) => {
+         //        if (tag === "em")
+         //          return {
+         //            tag: "Badge",
+             //        attrs: { type: "tip" },
+             //        content: "Recommended",
+            //       };
+           //    },
+          //   },
+         //  ],
+        //   sub: true,
+         //  sup: true,
+        //   tabs: true,
+        //   tasklist: true,
+       //    vPre: true,
       
       // 在启用之前安装 chart.js
       // chart: true,
@@ -114,23 +115,23 @@ export default hopeTheme({
       // mathjax: true,
 
       // 在启用之前安装 mermaid
-       mermaid: true,
+          //  mermaid: true,
 
       // playground: {
       //   presets: ["ts", "vue"],
       // },
 
       // 在启用之前安装 reveal.js
-      revealJs: {
-      plugins: ["highlight", "math", "search", "notes", "zoom"],
-      },
+        //   revealJs: {
+        //   plugins: ["highlight", "math", "search", "notes", "zoom"],
+         //  },
 
       // 在启用之前安装 @vue/repl
       // vuePlayground: true,
 
       // install sandpack-vue3 before enabling it
       // sandpack: true,
-    },
+        // },
 
     // 如果你需要 PWA。安装 @vuepress/plugin-pwa 并取消下方注释
     // pwa: {
