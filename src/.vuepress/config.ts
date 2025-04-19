@@ -1,4 +1,5 @@
 import { defineUserConfig } from 'vuepress'
+import { gitPlugin } from '@vuepress/plugin-git'
 import theme from "./theme.js";
 
 export default defineUserConfig({
@@ -27,9 +28,11 @@ export default defineUserConfig({
     ],
   ],
   theme,
-   //  plugins: [
-  // 
-   //  ],
+   plugins: [
+    gitPlugin({
+      // 配置项
+    }),
+  ],
 
   // 和 PWA 一起启用
   // shouldPrefetch: false,
