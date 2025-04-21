@@ -9,7 +9,6 @@ export default hopeTheme({
     url: "https://www.jaychou.wiki/",  
   },
   license: "GPL3.0",
-  iconAssets: "fontawesome-with-brands",
   logo: "src/.vuepress/public/logo.svg",
   repo: "y-cyfor/JayChou-wiki",
   docsDir: "",
@@ -45,14 +44,15 @@ export default hopeTheme({
     icon: {
       assets: "fontawesome-with-brands"
     },
-    // 启用主题自带的评论插件
-     //  comment: {
-     //    provider: "Waline",
-     //    serverURL: "https://comment.jaychou.wiki/",
-     //    dark: "auto",//暗黑模式：自动
-     //    commentSorting: "hottest",//排序方式：自动
-     //    pageSize: 20,//分页条数
-     //  },
+    comment: {  // 启用主题自带的评论插件
+      provider: "Waline",// 评论服务
+      serverURL: "https://comment.jaychou.wiki", // 服务地址
+      js: "https://unpkg.com/@waline/client@v2/dist/waline.js",
+      dark: "auto",//暗黑模式：自动
+      commentSorting: "hottest",//排序方式：自动
+      pageSize: 20,//分页条数
+      reaction: false, // 文章反应
+    },
 
     //搜索插件
     slimsearch: {
