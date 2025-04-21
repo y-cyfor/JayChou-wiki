@@ -38,7 +38,7 @@
   <img src="//public.jaychou.wiki/composition/cd/2000-JAY[台湾]/内27.jpg/yss+sy" />
   <img src="//public.jaychou.wiki/composition/cd/2000-JAY[台湾]/back.jpg/yss+sy" />
   <img src="//public.jaychou.wiki/composition/cd/2000-JAY[台湾]/cover.jpg/yss+sy" />
-  <img src="//public.jaychou.wiki/composition/cd/2000-JAY[台湾]/disc.jpg/yss+sy />
+  <img src="//public.jaychou.wiki/composition/cd/2000-JAY[台湾]/disc.jpg/yss+sy" />
 </div>
 
 <style>
