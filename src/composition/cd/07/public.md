@@ -7,20 +7,114 @@
 :::
 
 ## 精装版（台湾）
-![back.jpg](https://public.jaychou.wiki/composition/cd/2007-我很忙[精装版][台湾]/back.jpg/yss+sy =x300)
-![cover.jpg](https://public.jaychou.wiki/composition/cd/2007-我很忙[精装版][台湾]/cover.jpg/yss+sy =x300)
-![内2.jpg](https://public.jaychou.wiki/composition/cd/2007-我很忙[精装版][台湾]/内2.jpg/yss+sy =x300)
-![内3.jpg](https://public.jaychou.wiki/composition/cd/2007-我很忙[精装版][台湾]/内3.jpg/yss+sy =x300)
-![内4.jpg](https://public.jaychou.wiki/composition/cd/2007-我很忙[精装版][台湾]/内4.jpg/yss+sy =x300)
-![内5.jpg](https://public.jaychou.wiki/composition/cd/2007-我很忙[精装版][台湾]/内5.jpg/yss+sy =x300)
-![内6.jpg](https://public.jaychou.wiki/composition/cd/2007-我很忙[精装版][台湾]/内6.jpg/yss+sy =x300)
-![内7.jpg](https://public.jaychou.wiki/composition/cd/2007-我很忙[精装版][台湾]/内7.jpg/yss+sy =x300)
-![内8.jpg](https://public.jaychou.wiki/composition/cd/2007-我很忙[精装版][台湾]/内8.jpg/yss+sy =x300)
-![内9.jpg](https://public.jaychou.wiki/composition/cd/2007-我很忙[精装版][台湾]/内9.jpg/yss+sy =x300)
-![内10.jpg](https://public.jaychou.wiki/composition/cd/2007-我很忙[精装版][台湾]/内10.jpg/yss+sy =x300)
-![内11.jpg](https://public.jaychou.wiki/composition/cd/2007-我很忙[精装版][台湾]/内11.jpg/yss+sy =x300)
-![内12.jpg](https://public.jaychou.wiki/composition/cd/2007-我很忙[精装版][台湾]/内12.jpg/yss+sy =x300)
-![内13.jpg](https://public.jaychou.wiki/composition/cd/2007-我很忙[精装版][台湾]/内13.jpg/yss+sy =x300)
-![内14.jpg](https://public.jaychou.wiki/composition/cd/2007-我很忙[精装版][台湾]/内14.jpg/yss+sy =x300)
-![内1.jpg](https://public.jaychou.wiki/composition/cd/2007-我很忙[精装版][台湾]/内1.jpg/yss+sy =x300)
-![disc.jpg](https://public.jaychou.wiki/composition/cd/2007-我很忙[精装版][台湾]/disc.jpg/yss+sy =x300)
+<!-- markdownlint-disable -->
+
+<div class="image-scroll-container">
+  <div class="image-scroll-wrapper">
+    <div class="image-scroll-content">
+      <img src="//public.jaychou.wiki/composition/cd/2007-我很忙[精装版][台湾]/back.jpg/yss+sy" />
+      <img src="//public.jaychou.wiki/composition/cd/2007-我很忙[精装版][台湾]/cover.jpg/yss+sy" />
+      <img src="//public.jaychou.wiki/composition/cd/2007-我很忙[精装版][台湾]/内2.jpg/yss+sy" />
+      <img src="//public.jaychou.wiki/composition/cd/2007-我很忙[精装版][台湾]/内3.jpg/yss+sy" />
+      <img src="//public.jaychou.wiki/composition/cd/2007-我很忙[精装版][台湾]/内4.jpg/yss+sy" />
+      <img src="//public.jaychou.wiki/composition/cd/2007-我很忙[精装版][台湾]/内5.jpg/yss+sy" />
+      <img src="//public.jaychou.wiki/composition/cd/2007-我很忙[精装版][台湾]/内6.jpg/yss+sy" />
+      <img src="//public.jaychou.wiki/composition/cd/2007-我很忙[精装版][台湾]/内7.jpg/yss+sy" />
+      <img src="//public.jaychou.wiki/composition/cd/2007-我很忙[精装版][台湾]/内8.jpg/yss+sy" />
+      <img src="//public.jaychou.wiki/composition/cd/2007-我很忙[精装版][台湾]/内9.jpg/yss+sy" />
+      <img src="//public.jaychou.wiki/composition/cd/2007-我很忙[精装版][台湾]/内10.jpg/yss+sy" />
+      <img src="//public.jaychou.wiki/composition/cd/2007-我很忙[精装版][台湾]/内11.jpg/yss+sy" />
+      <img src="//public.jaychou.wiki/composition/cd/2007-我很忙[精装版][台湾]/内12.jpg/yss+sy" />
+      <img src="//public.jaychou.wiki/composition/cd/2007-我很忙[精装版][台湾]/内13.jpg/yss+sy" />
+      <img src="//public.jaychou.wiki/composition/cd/2007-我很忙[精装版][台湾]/内14.jpg/yss+sy" />
+      <img src="//public.jaychou.wiki/composition/cd/2007-我很忙[精装版][台湾]/内1.jpg/yss+sy" />
+      <img src="//public.jaychou.wiki/composition/cd/2007-我很忙[精装版][台湾]/disc.jpg/yss+sy" />
+    </div>
+  </div>
+  
+  <!-- 放大预览模态框 -->
+  <div class="image-modal" id="imageModal">
+    <span class="close">&times;</span>
+    <img class="modal-content" id="modalImage">
+  </div>
+</div>
+
+<style>
+.image-scroll-container {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  margin: 1rem 0;
+}
+
+.image-scroll-wrapper {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch; /* 优化移动端滚动 */
+  padding: 1rem 0;
+}
+
+.image-scroll-content {
+  display: flex;
+  gap: 1rem;
+  padding: 0 1rem;
+  min-width: max-content; /* 保持内容不换行 */
+}
+
+.image-scroll-content img {
+  height: 200px;
+  min-width: 300px;
+  object-fit: cover;
+  border-radius: 8px;
+  cursor: zoom-in;
+  transition: transform 0.2s;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.image-scroll-content img:hover {
+  transform: scale(1.02);
+}
+
+/* 模态框样式 */
+.image-modal {
+  display: none;
+  position: fixed;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0.9);
+}
+
+.modal-content {
+  margin: auto;
+  display: block;
+  max-width: 90%;
+  max-height: 90vh;
+  animation: zoom 0.3s;
+}
+
+.close {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+@keyframes zoom {
+  from {transform: scale(0.1)}
+  to {transform: scale(1)}
+}
+
+@media (max-width: 768px) {
+  .image-scroll-content img {
+    height: 150px;
+    min-width: 200px;
+  }
+}
+</style>
+
+<!-- markdownlint-restore -->
