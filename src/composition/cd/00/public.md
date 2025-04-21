@@ -7,7 +7,43 @@
 :::
 
 ## 台湾版
+<!-- markdownlint-disable -->
 
+<div class="image-preview">
+  <img src="//public.jaychou.wiki/composition/cd/2000-JAY[台湾]/内2.jpg/yss+sy" />
+  <img src="//public.jaychou.wiki/composition/cd/2000-JAY[台湾]/内2.jpg/yss+sy" />
+  <img src="//public.jaychou.wiki/composition/cd/2000-JAY[台湾]/内2.jpg/yss+sy" />
+</div>
+
+<style>
+  .image-preview {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .image-preview > img {
+     box-sizing: border-box;
+     width: 33.3% !important;
+     padding: 9px;
+     border-radius: 16px;
+  }
+
+  @media (max-width: 719px){
+    .image-preview > img {
+      width: 50% !important;
+    }
+  }
+
+  @media (max-width: 419px){
+    .image-preview > img {
+      width: 100% !important;
+    }
+  }
+</style>
+
+<!-- markdownlint-restore -->
 ![内2.jpg](https://public.jaychou.wiki/composition/cd/2000-JAY[台湾]/内2.jpg/yss+sy =x300)
 ![内3.jpg](https://public.jaychou.wiki/composition/cd/2000-JAY[台湾]/内3.jpg/yss+sy =x300)
 ![内6.jpg](https://public.jaychou.wiki/composition/cd/2000-JAY[台湾]/内6.jpg/yss+sy =x300)
