@@ -53,10 +53,10 @@ highlights:
       background-repeat: repeat
       background-size: initial
     highlights:
-      - title: 嘉年华世界巡回演唱会 三亚（海口改） 站（2025）
-        details: 开票时间： <br> 平台：大麦 猫眼
+      - title: 嘉年华世界巡回演唱会 厦门 站（2025）
+        details: 开票时间： <br> 平台：猫眼
                 <br>二开时间：<br />
-                <br>三开时间：2025年3月21日15点18分（含视线不良区域）
+                <br>三开时间：
 
 
   - header: 嘉年华世界巡回演唱会
@@ -69,12 +69,24 @@ highlights:
       background-repeat: repeat
       background-size: initial
     features:
-      - title: 🎤【三亚】
-        details: 时间：2025.03.28-2025.03.30<br />
+      - title: 🎤【南宁】
+        details: 时间：2025.04.25-2025.04.27<br />
                   地点： <br />
                   开票：已开票<br />
                   票价：<br />
-        link: /show/Concert/2019carnival/2025haikou.md
+        link: /show/Concert/2019carnival/2025NanNing.md
+      - title: 🎤【香港】
+        details: 时间：2025.06.27-2025.06.29<br />
+                  地点： <br />
+                  开票：已开票<br />
+                  票价：<br />
+        link: /show/Concert/2019carnival/2025HongKong.md
+      - title: 🎤【厦门】
+        details: 时间：2025.07.11-2025.07.13<br />
+                  地点： <br />
+                  开票：已开票<br />
+                  票价：<br />
+        link: /show/Concert/2019carnival/2025XiaMen.md
 
   - header: 新作品
     bgImage: https://public.jaychou.wiki/index/index_shengdanxing.jpeg/ys+sy
