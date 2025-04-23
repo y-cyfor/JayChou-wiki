@@ -1,6 +1,6 @@
 # 2025嘉年华世界巡回演唱会-南宁站
 
-![嘉年华南宁站](https://public.jaychou.wiki/show/concert/2019carnival/2025nanning/cover.jpg/yss+sy)
+![嘉年华世界巡回演唱会南宁站海报](https://public.jaychou.wiki/show/concert/2019carnival/2025nanning/cover.jpg/yss+sy "2025嘉年华世界巡回演唱会-南宁站官方海报")
 
 ## 基本信息
 
@@ -21,9 +21,26 @@
 - 粉丝社区：Jayme
 - 票务总代：猫眼
 
+### 批文
+<div class="image-scroll-container">
+  <div class="image-scroll-wrapper">
+    <div class="image-scroll-content">
+      <figure>
+        <img src="//public.jaychou.wiki/show/concert/2019carnival/2025nanning/NanNing_approve.jpeg/yss+sy" alt="南宁站演出批文原件" />
+        <figcaption>营业性演出许可（广西文化和旅游厅）</figcaption>
+      </figure>
+      <figure>
+        <img src="//public.jaychou.wiki/show/concert/2019carnival/2025nanning/NanNing_approve_update.jpeg/yss+sy" alt="南宁站演出批文变更" />
+        <figcaption>演出变更（增加演出人员及曲目）</figcaption>
+      </figure>
+    </div>
+  </div>
+</div>
+
 ## 票务快照
 ### 座位图
-![ZuoWei.jpg](https://public.jaychou.wiki/show/concert/2019carnival/2025nanning/ZuoWei.jpg/yss+sy)
+![南宁站座位图](https://public.jaychou.wiki/show/concert/2019carnival/2025nanning/ZuoWei.jpg/yss+sy "广西体育中心体育场座位分布图")
+
 ### 票务信息
 - 售票平台：猫眼、票星球
     - 猫眼初始开售时可售票总张数：80615
@@ -50,7 +67,7 @@
     - 平台：仅猫眼
 
 ::: tip 三开公告
-周杰伦 2025“嘉年华”世界巡回演唱会-南宁站
+周杰伦 2025"嘉年华"世界巡回演唱会-南宁站
 
 三次开售购票须知
 
@@ -66,101 +83,50 @@
 <div class="image-scroll-container">
   <div class="image-scroll-wrapper">
     <div class="image-scroll-content">
-        <img src="//public.jaychou.wiki/show/concert/2019carnival/2025nanning/myScreen.jpg/yss+sy" />
-        <img src="//public.jaychou.wiki/show/concert/2019carnival/2025nanning/pxqScreen.jpg/yss+sy" />
-        <img src="//public.jaychou.wiki/show/concert/2019carnival/2025nanning/PiaoXingQiu_PiaoDang.jpg/yss+sy" />
-        <img src="//public.jaychou.wiki/show/concert/2019carnival/2025nanning/ManYan_PiaoDang.jpg/yss+sy" />
-        <img src="//public.jaychou.wiki/show/concert/2019carnival/2025nanning/MaoYan_tips.jpg/yss+sy" />
-        <img src="//public.jaychou.wiki/show/concert/2019carnival/2025nanning/no3_PA.jpg/yss+sy" />
-        <img src="//public.jaychou.wiki/show/concert/2019carnival/2025nanning/PA001.jpg/yss+sy" />
-        <img src="//public.jaychou.wiki/show/concert/2019carnival/2025nanning/PA002.jpg/yss+sy" />
-        <img src="//public.jaychou.wiki/show/concert/2019carnival/2025nanning/PA003.jpg/yss+sy" />
-        <img src="//public.jaychou.wiki/show/concert/2019carnival/2025nanning/PA004.jpg/yss+sy" />
-        <img src="//public.jaychou.wiki/show/concert/2019carnival/2025nanning/PA01.jpg/yss+sy" />
+      <figure>
+        <img src="//public.jaychou.wiki/show/concert/2019carnival/2025nanning/myScreen.jpg/yss+sy" alt="猫眼售票截图" />
+        <figcaption>猫眼售票页面</figcaption>
+      </figure>
+      <figure>
+        <img src="//public.jaychou.wiki/show/concert/2019carnival/2025nanning/pxqScreen.jpg/yss+sy" alt="票星球售票截图" />
+        <figcaption>票星球售票页面</figcaption>
+      </figure>
+      <figure>
+        <img src="//public.jaychou.wiki/show/concert/2019carnival/2025nanning/PiaoXingQiu_PiaoDang.jpg/yss+sy" alt="票星球票档信息" />
+        <figcaption>票星球票档详情</figcaption>
+      </figure>
+      <figure>
+        <img src="//public.jaychou.wiki/show/concert/2019carnival/2025nanning/ManYan_PiaoDang.jpg/yss+sy" alt="猫眼票档信息" />
+        <figcaption>猫眼票档详情</figcaption>
+      </figure>
+      <figure>
+        <img src="//public.jaychou.wiki/show/concert/2019carnival/2025nanning/MaoYan_tips.jpg/yss+sy" alt="猫眼购票提示" />
+        <figcaption>猫眼购票须知</figcaption>
+      </figure>
+      <figure>
+        <img src="//public.jaychou.wiki/show/concert/2019carnival/2025nanning/no3_PA.jpg/yss+sy" alt="三次开票公告" />
+        <figcaption>三次开票公告</figcaption>
+      </figure>
+      <figure>
+        <img src="//public.jaychou.wiki/show/concert/2019carnival/2025nanning/PA001.jpg/yss+sy" alt="购票公告1" />
+        <figcaption>购票须知（一）</figcaption>
+      </figure>
+      <figure>
+        <img src="//public.jaychou.wiki/show/concert/2019carnival/2025nanning/PA002.jpg/yss+sy" alt="购票公告2" />
+        <figcaption>购票须知（二）</figcaption>
+      </figure>
+      <figure>
+        <img src="//public.jaychou.wiki/show/concert/2019carnival/2025nanning/PA003.jpg/yss+sy" alt="购票公告3" />
+        <figcaption>购票须知（三）</figcaption>
+      </figure>
+      <figure>
+        <img src="//public.jaychou.wiki/show/concert/2019carnival/2025nanning/PA004.jpg/yss+sy" alt="购票公告4" />
+        <figcaption>购票须知（四）</figcaption>
+      </figure>
+      <figure>
+        <img src="//public.jaychou.wiki/show/concert/2019carnival/2025nanning/PA01.jpg/yss+sy" alt="主办方公告" />
+        <figcaption>主办方公告</figcaption>
+      </figure>
     </div>
   </div>
-  
-  <!-- 放大预览模态框 -->
-  <div class="image-modal" id="imageModal">
-    <span class="close">&times;</span>
-    <img class="modal-content" id="modalImage">
-  </div>
 </div>
-
-<style>
-.image-scroll-container {
-  width: 100%;
-  overflow: hidden;
-  position: relative;
-  margin: 1rem 0;
-}
-
-.image-scroll-wrapper {
-  overflow-x: auto;
-  -webkit-overflow-scrolling: touch; /* 优化移动端滚动 */
-  padding: 1rem 0;
-}
-
-.image-scroll-content {
-  display: flex;
-  gap: 1rem;
-  padding: 0 1rem;
-  min-width: max-content; /* 保持内容不换行 */
-}
-
-.image-scroll-content img {
-  height: 200px;
-  min-width: 300px;
-  object-fit: cover;
-  border-radius: 8px;
-  cursor: zoom-in;
-  transition: transform 0.2s;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-}
-
-.image-scroll-content img:hover {
-  transform: scale(1.02);
-}
-
-/* 模态框样式 */
-.image-modal {
-  display: none;
-  position: fixed;
-  z-index: 999;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(0,0,0,0.9);
-}
-
-.modal-content {
-  margin: auto;
-  display: block;
-  max-width: 90%;
-  max-height: 90vh;
-  animation: zoom 0.3s;
-}
-
-.close {
-  position: absolute;
-  top: 15px;
-  right: 35px;
-  color: white;
-  font-size: 40px;
-  font-weight: bold;
-  cursor: pointer;
-}
-
-@keyframes zoom {
-  from {transform: scale(0.1)}
-  to {transform: scale(1)}
-}
-
-@media (max-width: 768px) {
-  .image-scroll-content img {
-    height: 150px;
-    min-width: 200px;
-  }
-}
-</style>
