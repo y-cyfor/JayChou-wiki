@@ -1,0 +1,54 @@
+// 图片滑动组件样式
+.image-scroll-container {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  margin: 1rem 0;
+}
+
+.image-scroll-wrapper {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  padding: 1rem 0;
+}
+
+.image-scroll-content {
+  display: flex;
+  gap: 1rem;
+  padding: 0 1rem;
+  min-width: max-content;
+}
+
+.image-scroll-content img {
+  height: 200px;
+  min-width: 300px;
+  object-fit: cover;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+// 图片说明文本样式
+.image-scroll-content figure {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.image-scroll-content figcaption {
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  color: #666;
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  .image-scroll-content img {
+    height: 150px;
+    min-width: 200px;
+  }
+  
+  .image-scroll-content figcaption {
+    font-size: 0.8rem;
+  }
+}
