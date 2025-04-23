@@ -1,14 +1,29 @@
 # 2025嘉年华世界巡回演唱会-南宁站
-![嘉年华南宁站](https://)
+
+![嘉年华南宁站](https://public.jaychou.wiki/show/concert/2019carnival/2025nanning/cover.jpg/yss+sy)
+
 ## 基本信息
+
+### 时间地点
 - 演唱会时间：
     - 2025-04-25（周五）
     - 2025-04-26（周六）
     - 2025-04-27（周日）
 - 演唱会场馆：广西体育中心体育场
 - 正式名：周杰伦嘉年华世界巡回演唱会-南宁站
-- 主办机构：天津市滚石文化发展有限公司
+
+### 制作单位
+- 主办机构：天津市滚石文化
+- 艺人经纪：杰威尔音乐
+- 节目制作：巨炮娱乐（G/POWER）
+- 工程统筹：广东保伦电子（ITC）
+- 联合主办：巨星传奇
+- 粉丝社区：Jayme
+- 票务总代：猫眼
+
 ## 票务快照
+### 座位图
+![ZuoWei.jpg](https://public.jaychou.wiki/show/concert/2019carnival/2025nanning/ZuoWei.jpg/yss+sy)
 ### 票务信息
 - 售票平台：猫眼、票星球
     - 猫眼初始开售时可售票总张数：80615
@@ -45,3 +60,107 @@
 
 温馨提示:现场禁止携带雨伞人场(以免遮挡或扎伤他人)，若下雨现场会提供免费雨衣，谢谢!
 :::
+
+
+### 售票平台截图
+<div class="image-scroll-container">
+  <div class="image-scroll-wrapper">
+    <div class="image-scroll-content">
+        <img src="//public.jaychou.wiki/show/concert/2019carnival/2025nanning/myScreen.jpg/yss+sy" />
+        <img src="//public.jaychou.wiki/show/concert/2019carnival/2025nanning/pxqScreen.jpg/yss+sy" />
+        <img src="//public.jaychou.wiki/show/concert/2019carnival/2025nanning/PiaoXingQiu_PiaoDang.jpg/yss+sy" />
+        <img src="//public.jaychou.wiki/show/concert/2019carnival/2025nanning/ManYan_PiaoDang.jpg/yss+sy" />
+        <img src="//public.jaychou.wiki/show/concert/2019carnival/2025nanning/MaoYan_tips.jpg/yss+sy" />
+        <img src="//public.jaychou.wiki/show/concert/2019carnival/2025nanning/no3_PA.jpg/yss+sy" />
+        <img src="//public.jaychou.wiki/show/concert/2019carnival/2025nanning/PA001.jpg/yss+sy" />
+        <img src="//public.jaychou.wiki/show/concert/2019carnival/2025nanning/PA002.jpg/yss+sy" />
+        <img src="//public.jaychou.wiki/show/concert/2019carnival/2025nanning/PA003.jpg/yss+sy" />
+        <img src="//public.jaychou.wiki/show/concert/2019carnival/2025nanning/PA004.jpg/yss+sy" />
+        <img src="//public.jaychou.wiki/show/concert/2019carnival/2025nanning/PA01.jpg/yss+sy" />
+    </div>
+  </div>
+  
+  <!-- 放大预览模态框 -->
+  <div class="image-modal" id="imageModal">
+    <span class="close">&times;</span>
+    <img class="modal-content" id="modalImage">
+  </div>
+</div>
+
+<style>
+.image-scroll-container {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  margin: 1rem 0;
+}
+
+.image-scroll-wrapper {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch; /* 优化移动端滚动 */
+  padding: 1rem 0;
+}
+
+.image-scroll-content {
+  display: flex;
+  gap: 1rem;
+  padding: 0 1rem;
+  min-width: max-content; /* 保持内容不换行 */
+}
+
+.image-scroll-content img {
+  height: 200px;
+  min-width: 300px;
+  object-fit: cover;
+  border-radius: 8px;
+  cursor: zoom-in;
+  transition: transform 0.2s;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.image-scroll-content img:hover {
+  transform: scale(1.02);
+}
+
+/* 模态框样式 */
+.image-modal {
+  display: none;
+  position: fixed;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0.9);
+}
+
+.modal-content {
+  margin: auto;
+  display: block;
+  max-width: 90%;
+  max-height: 90vh;
+  animation: zoom 0.3s;
+}
+
+.close {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+@keyframes zoom {
+  from {transform: scale(0.1)}
+  to {transform: scale(1)}
+}
+
+@media (max-width: 768px) {
+  .image-scroll-content img {
+    height: 150px;
+    min-width: 200px;
+  }
+}
+</style>
