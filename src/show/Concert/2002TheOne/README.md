@@ -19,7 +19,7 @@
         <td>1</td>
         <td>2002.09.28</td>
         <td>🇨🇳 中国台湾</td>
-        <td>台北</td>
+        <td><a href="/show/Concert/2002TheOne/2002Taipei">台北</a></td>
         <td>台北市立体育场<br>(现:台北田径场)</td>
         <td>柯有伦、罗志祥、陶喆、刘畊宏</td>
         <td>创下台湾艺人到场率最高演唱会纪录</td>
@@ -28,7 +28,7 @@
         <td>2</td>
         <td>2002.12.12</td>
         <td rowspan="5">🇭🇰 中国香港</td>
-        <td rowspan="5">香港</td>
+        <td rowspan="5"><a href="/show/Concert/2002TheOne/2002HongKong">香港</a></td>
         <td rowspan="5">香港体育馆<br>(红磡、红馆)</td>
         <td></td>
         <td></td>
@@ -61,7 +61,7 @@
         <td>7</td>
         <td>2002.12.25</td>
         <td>🇺🇸 美国</td>
-        <td>拉斯维加斯</td>
+        <td><a href="/show/Concert/2002TheOne/2002LasVegas">拉斯维加斯</a></td>
         <td>MGM Grand Garden Arena<br>(米高梅花园剧场)</td>
         <td></td>
         <td></td>
@@ -70,7 +70,7 @@
         <td>8</td>
         <td>2003.01.11</td>
         <td rowspan="2">🇸🇬 新加坡</td>
-        <td rowspan="2">新加坡</td>
+        <td rowspan="2"><a href="/show/Concert/2002TheOne/2003Singapore">新加坡</a></td>
         <td rowspan="2">Singapore Indoor Stadium<br>(新加坡室内体育馆)</td>
         <td>刘畊宏<br>芮恩</td>
         <td></td>
@@ -85,7 +85,7 @@
         <td>10</td>
         <td>2003.02.28</td>
         <td>🇨🇦 加拿大</td>
-        <td>温哥华</td>
+        <td><a href="/show/Concert/2002TheOne/2003Vancouver">温哥华</a></td>
         <td>Queen Elizabeth Theatre<br>(伊利莎白女王剧院)</td>
         <td></td>
         <td></td>
@@ -94,7 +94,7 @@
         <td>11</td>
         <td>2003.05.17</td>
         <td>🇲🇾 马来西亚</td>
-        <td>吉隆坡</td>
+        <td><a href="/show/Concert/2002TheOne/2003KualaLumpur">吉隆坡</a></td>
         <td>Merdekastadium<br>(默迪卡体育场)</td>
         <td></td>
         <td></td>
@@ -103,7 +103,7 @@
         <td>12</td>
         <td>2003.09.12</td>
         <td>🇨🇳 中国</td>
-        <td>北京</td>
+        <td><a href="/show/Concert/2002TheOne/2003BeiJing">北京</a></td>
         <td>北京工人体育场</td>
         <td></td>
         <td></td>
@@ -112,7 +112,7 @@
         <td>13</td>
         <td>2003.12.12</td>
         <td>🇨🇳 中国</td>
-        <td>上海</td>
+        <td><a href="/show/Concert/2002TheOne/2003ShangHai">上海</a></td>
         <td>上海体育场<br>(八万人体育场)</td>
         <td></td>
         <td></td>
@@ -121,7 +121,7 @@
         <td>14</td>
         <td>2003.12.20</td>
         <td>🇨🇳 中国</td>
-        <td>广州</td>
+        <td><a href="/show/Concert/2002TheOne/2003GuangZhou">广州</a></td>
         <td>广州天河体育中心体育场</td>
         <td></td>
         <td></td>
@@ -130,7 +130,7 @@
         <td>15</td>
         <td>2003.12.23</td>
         <td>🇹🇭 泰国</td>
-        <td>曼谷</td>
+        <td><a href="/show/Concert/2002TheOne/2003Bangkok">曼谷</a></td>
         <td>Impact Arena<br>(泰国国际会议展览中心)</td>
         <td></td>
         <td></td>
@@ -139,7 +139,7 @@
         <td>16</td>
         <td>2004.01.03</td>
         <td>🇨🇳 中国</td>
-        <td>深圳</td>
+        <td><a href="/show/Concert/2002TheOne/2004ShenZhen">深圳</a></td>
         <td>深圳体育场</td>
         <td></td>
         <td></td>
