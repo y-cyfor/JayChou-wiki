@@ -21,7 +21,7 @@
             <td>1</td>
             <td>2001年11月3日</td>
             <td>🇨🇳中国台湾</td>
-            <td><a href="https://www.jaychou.wiki/show/Concert/2001Fantasy/TaoYuan">桃园</a></td>
+            <td><a href="/show/Concert/2001Fantasy/TaoYuan">桃园</a></td>
             <td>桃园巨蛋体育馆</td>
             <td>首场个人演唱会</td>
             <td>李玟</td>
@@ -30,7 +30,7 @@
             <td>2</td>
             <td>2001年11月4日</td>
             <td rowspan="2">🇭🇰中国香港</td>
-            <td rowspan="2"><a href="https://www.jaychou.wiki/show/Concert/2001Fantasy/HongKong">香港</a></td>
+            <td rowspan="2"><a href="/show/Concert/2001Fantasy/HongKong">香港</a></td>
             <td rowspan="2">香港体育馆<br/>（红磡、红馆）</td>
             <td></td>
             <td></td>
@@ -45,7 +45,7 @@
             <td>4</td>
             <td>2002年2月8日</td>
             <td>🇲🇾马来西亚</td>
-            <td><a href="https://www.jaychou.wiki/show/Concert/2001Fantasy/Lumpur">吉隆坡</a></td>
+            <td><a href="/show/Concert/2001Fantasy/Lumpur">吉隆坡</a></td>
             <td>布特拉体育馆 Stedlum Puta <br/>(现：亚通体育馆 Axiata Arena)</td>
             <td></td>
             <td></td>
@@ -54,7 +54,7 @@
             <td>5</td>
             <td>2002年2月10日</td>
             <td>🇸🇬新加坡</td>
-            <td><a href="https://www.jaychou.wiki/show/Concert/2001Fantasy/Singapore">新加坡</a></td>
+            <td><a href="/show/Concert/2001Fantasy/Singapore">新加坡</a></td>
             <td>新达城国际会议展览中心（馆）<br/>Suntec Singapore</td>
             <td></td>
             <td></td>
