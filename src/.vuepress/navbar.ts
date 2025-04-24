@@ -27,7 +27,40 @@ export default navbar([
     children: [
       {
         text: "演唱会",
-        children: ["Concert/2019carnival/README.md","Concert/2016Invincible/README.md","Concert/2013OpusJay/README.md","Concert/2010TheEra/README.md","Concert/2007WorldTours/README.md","Concert/2004incomparable/README.md","Concert/2002TheOne/README.md"],
+        children: [
+          {
+            text: "嘉年华",
+            link:"Concert/2019carnival/README.md"
+          },
+          {
+            text: "地表最强",
+            link:"Concert/2016Invincible/README.md"
+          },
+          {
+            text: "摩天伦",
+            link:"Concert/2013OpusJay/README.md"
+          },
+          {
+            text: "超时代",
+            link:"Concert/2010TheEra/README.md"
+          },
+          {
+            text: "2007WorldTours",
+            link:"Concert/2007WorldTours/README.md"
+          },
+          {
+            text: "无与伦比",
+            link:"Concert/2004incomparable/README.md"
+          },
+          {
+            text: "TheOne",
+            link:"Concert/2002TheOne/README.md"
+          },
+          {
+            text: "Fantasy",
+            link:"Concert/2001Fantasy/README.md"
+          },
+        ],
       },
       {
         text: "其他演出",
@@ -41,8 +74,20 @@ export default navbar([
     prefix: "/show/Concert/2019carnival/",
     children: [
       {
-        text: "嘉年华海口站（2025）",
-        link: "2025haikou.md",
+        text: "嘉年华南宁站（2025）",
+        link: "2025NanNing.md",
+      },
+      {
+        text: "嘉年华厦门站（2025）",
+        link: "2025XiaMen.md",
+      },
+      {
+        text: "嘉年华香港站（2025）",
+        link: "2025HongKong.md",
+      },
+      {
+        text: "嘉年华济南站（2025）",
+        link: "2025JiNan.md",
       },
     ],
   },

@@ -64,7 +64,7 @@ export default hopeTheme({
       components: ["Badge", "VPCard"],
     },
 
-    // markdown: {
+    // 失效配置，主题作者把md插件从主题配置摘出去了    markdown: {
         //   align: true,
         //   attrs: true,
         //   codeTabs: true,

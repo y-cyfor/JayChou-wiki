@@ -12,7 +12,7 @@ JayChou's wiki 是一个以周杰伦为主题的百科，主要内容来源于�
 - 如果你对项目有任何意见建议、纠错或内容提交，可以[提交Issue](https://github.com/y-cyfor/JayChou-wiki/issues)。
 - 如果你想使用开源代码，可以直接访问[GitHub](https://github.com/y-cyfor/JayChou-wiki)。
 ## 贡献者
-- [CYFOR](https://www.cyfor.top)
+- [CYFOR](https://www.cyfor.cn)
 ## 授权协议
 项目采用[GPL3.0 协议](LICENSE)
 - 即：你可以自由地使用、修改、合并、出版发行、散布、再授权及贩售软件及软件的副本。

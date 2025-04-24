@@ -355,67 +355,47 @@ export default sidebar({
       prefix: "",
       collapsible: false,
       children: [
-        "",
         {
           text: "个人演唱会",
           prefix: "Concert",
           collapsible: true,
+          expanded: true,
           children: [
             {
-              text: "嘉年华世界巡回演唱会（2019-至今）",
-              prefix: "2019carnival",
-              collapsible: true,
-              children: [
-                "",
-                  ],
+              text: "个唱总结",
+              link: "README.md",
                 },
             {
-              text: "地表最强世界巡回演唱会（2016-2019）",
-              prefix: "2016Invincible",
-              collapsible: true,
-              children: [
-                "",
-                  ],
+              text: "嘉年华（2019-至今）",
+              link: "2019carnival/",
                 },
             {
-              text: "魔天伦世界巡回演唱会（2013-2016）",
-              prefix: "2013OpusJay",
-              collapsible: true,
-              children: [
-                "",
-                  ],
+              text: "地表最强（2016-2019）",
+              link: "2016Invincible/",
                 },
             {
-              text: "超时代世界巡回演唱会（2010-2013）",
-              prefix: "2010TheEra",
-              collapsible: true,
-              children: [
-                "",
-                  ],
+              text: "魔天伦（2013-2016）",
+              link: "2013OpusJay/",
                 },
             {
-              text: "2007世界巡回演唱会（2007-2009）",
-              prefix: "2007WorldTours",
-              collapsible: true,
-              children: [
-                "",
-                  ],
+              text: "超时代（2010-2013）",
+              link: "2010TheEra/",
                 },
             {
-              text: "无与伦比演唱会（2004-2006）",
-              prefix: "2004incomparable",
-              collapsible: true,
-              children: [
-                "",
-                  ],
+              text: "2007WorldTours（2007-2009）",
+              link: "2007WorldTours/",
                 },
             {
-              text: "TheOne演唱会（2002-2003）",
-              prefix: "2002TheOne",
-              collapsible: true,
-              children: [
-                "",
-                  ],
+              text: "无与伦比（2004-2006）",
+              link: "2004incomparable/",
+                },
+            {
+              text: "TheOne（2002-2003）",
+              link: "2002TheOne/",
+                },
+            {
+              text: "Fantasy（2001）",
+              link: "2001Fantasy/",
                 },
               ],
             },

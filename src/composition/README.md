@@ -81,7 +81,7 @@ title: 全部作品清单
 | 大头贴  | 2006-01-12  |   |
 | 我们在成长  |   |   |
 |   |   |   |
-![](http://doc.cyfor.top/server/index.php?s=/api/attachment/visitFile&sign=6f26d5b477f1ac6dad8de191f081500b)
+![](http://doc.cyfor.cn/server/index.php?s=/api/attachment/visitFile&sign=6f26d5b477f1ac6dad8de191f081500b)
 ### 合作献唱
 | 歌曲名  | 专辑名|合作歌手|发行时间  | 收听  |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
