@@ -16,7 +16,7 @@
 | 内容  | 来源  | 贡献者  |
 | ------------ | ------------ | ------------ |
 | 获奖记录  | 百度百科  |   |
-| 专辑（音乐）信息  | QQ音乐 <br/> 维基百科 <br/> [Fandom粉丝社区](https://www.fandom.com/)  |   |
+| 专辑（音乐）信息  | QQ音乐 <br/> 维基百科 <br/> [Fandom粉丝社区](https://www.fandom.com/) <br/> [Discogs](https://www.discogs.com/) <br/> [五大唱片行](https://www.5music.com.tw/) <br/>[佳佳唱片行](https://www.ccr.com.tw/)  |   |
 | 影视作品  | 豆瓣网  |   |
 | 英文内容（专辑、歌曲名）  | Apple Music  |   |
 | 制作团队（乐手、混音、录音等）  | Apple Music <br/> [Lyricsinfo 歌词维基](https://www.musico.wiki/)  |   |
