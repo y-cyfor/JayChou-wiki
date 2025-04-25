@@ -15,7 +15,7 @@ tagline:
         <br />
         <br />
         <br />
-        <br />
+        <br />更多实时资讯 欢迎关注伦吧
 actions:
   - text: 微博
     icon: fa-brands fa-weibo
@@ -30,17 +30,13 @@ actions:
   - text: 小红书
     icon: 
     link: https://www.xiaohongshu.com/user/profile/648e950f000000001003496d
-    type: default
+    type: primary
 
   - text: 抖音
     icon: fa-brands fa-tiktok
     link: https://www.douyin.com/user/MS4wLjABAAAAZ93xWkWgCIFbnRbgcG1Hufob2pGRfVGfdKfP64p56Cs
     type: default
 
-  - text: 快手
-    icon: 
-    link: ./guide/
-    type: default
 
 
 

@@ -12,95 +12,18 @@
 <div class="image-scroll-container">
   <div class="image-scroll-wrapper">
     <div class="image-scroll-content">
-      <img src="//public.jaychou.wiki/composition/cd/2012-十二新作[台湾]/back.jpg/yss+sy" />
-      <img src="//public.jaychou.wiki/composition/cd/2012-十二新作[台湾]/cover.jpg/yss+sy" />
-      <img src="//public.jaychou.wiki/composition/cd/2012-十二新作[台湾]/disc.jpg/yss+sy" />
+        <figure>
+            <img src="//public.jaychou.wiki/composition/cd/2012-十二新作[台湾]/back.jpg/yss+sy" alt="十二新作专辑封底" />
+            <figcaption>十二新作专辑封底</figcaption>
+        </figure>
+        <figure>
+            <img src="//public.jaychou.wiki/composition/cd/2012-十二新作[台湾]/cover.jpg/yss+sy" alt="十二新作专辑封面" />
+            <figcaption>十二新作专辑封面</figcaption>
+        </figure>
+        <figure>
+            <img src="//public.jaychou.wiki/composition/cd/2012-十二新作[台湾]/disc.jpg/yss+sy" alt="十二新作专辑光盘" />
+            <figcaption>十二新作专辑光盘</figcaption>
+        </figure>
     </div>
   </div>
-  
-  <!-- 放大预览模态框 -->
-  <div class="image-modal" id="imageModal">
-    <span class="close">&times;</span>
-    <img class="modal-content" id="modalImage">
-  </div>
 </div>
-
-<style>
-.image-scroll-container {
-  width: 100%;
-  overflow: hidden;
-  position: relative;
-  margin: 1rem 0;
-}
-
-.image-scroll-wrapper {
-  overflow-x: auto;
-  -webkit-overflow-scrolling: touch; /* 优化移动端滚动 */
-  padding: 1rem 0;
-}
-
-.image-scroll-content {
-  display: flex;
-  gap: 1rem;
-  padding: 0 1rem;
-  min-width: max-content; /* 保持内容不换行 */
-}
-
-.image-scroll-content img {
-  height: 200px;
-  min-width: 300px;
-  object-fit: cover;
-  border-radius: 8px;
-  cursor: zoom-in;
-  transition: transform 0.2s;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-}
-
-.image-scroll-content img:hover {
-  transform: scale(1.02);
-}
-
-/* 模态框样式 */
-.image-modal {
-  display: none;
-  position: fixed;
-  z-index: 999;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(0,0,0,0.9);
-}
-
-.modal-content {
-  margin: auto;
-  display: block;
-  max-width: 90%;
-  max-height: 90vh;
-  animation: zoom 0.3s;
-}
-
-.close {
-  position: absolute;
-  top: 15px;
-  right: 35px;
-  color: white;
-  font-size: 40px;
-  font-weight: bold;
-  cursor: pointer;
-}
-
-@keyframes zoom {
-  from {transform: scale(0.1)}
-  to {transform: scale(1)}
-}
-
-@media (max-width: 768px) {
-  .image-scroll-content img {
-    height: 150px;
-    min-width: 200px;
-  }
-}
-</style>
-
-<!-- markdownlint-restore -->
