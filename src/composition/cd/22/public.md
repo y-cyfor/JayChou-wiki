@@ -47,8 +47,8 @@
 唱片编号/ISRC/EAN/：JVR Music – 111014 19658760151, Sony Music – 111014 19658760151, 新汇集团 – 111014 19658760151, 上海声像 – 111014 19658760151, Starsing Music – 111014 19658760151<br/>
 <br/>
 唱片版权 ℗ – JVR Music International Ltd.<br/>
-版权所有 © – JVR Music International Ltd.<br/>
-授权方 – Sony Music Entertainment China Holdings Limited<br/>
+版权权利 © – JVR Music International Ltd.<br/>
+被授权方 – Sony Music Entertainment China Holdings Limited<br/>
 发行方 – 新汇集团上海声像出版社有限公司<br/>
 经销商 – Sony Music Entertainment China Holdings Limited<br/>
 经销单位 – 广东星外星文化传播有限公司<br/>
