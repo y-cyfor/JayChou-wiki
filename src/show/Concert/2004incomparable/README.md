@@ -24,7 +24,7 @@
         <td>2</td>
         <td>2004年10月24日</td>
         <td>🇨🇳 中国大陆</td>
-        <td><a href="/show/Concert/2004incomparable/2004WuHan">武汉</a></td>
+        <td><a href="/show/Concert/2002TheOne/2004WuHan.html">武汉</a></td>
         <td>新华路体育场</td>
         <td></td>
         <td>本场演出内容为《The One》<br/>按大众目前统计口径计入无与伦比</td>
@@ -93,7 +93,7 @@
         <td>12</td>
         <td>2004年12月3日</td>
         <td>🇨🇳 中国大陆</td>
-        <td><a href="/show/Concert/2004incomparable/2004HangZhou">杭州</a></td>
+        <td><a href="/show/Concert/2002TheOne/2004HangZhou.html">杭州</a></td>
         <td>黄龙体育中心体育场</td>
         <td></td>
         <td>本场演出内容为《The One》<br/>按大众目前统计口径计入无与伦比</td>
