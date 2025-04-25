@@ -5,8 +5,8 @@
 >同时因为对前端技术不甚了解，本站大量配置（如侧边栏、导航栏、首页、插件等）均参考了苏打盖的源代码，感谢*3
 
 ## 内容贡献&编辑团队
-[CYFOR](http://www.cyfor.cn "CYFOR")
-[JayBar-ShangHai-WFN](https://www.jaychou.wiki/ "shanghai-WFN"
+[CYFOR](http://www.cyfor.cn "CYFOR")  
+[JayBar-ShangHai-WFN](https://www.jaychou.wiki/ "shanghai-WFN")
 
 ## 内容来源
 
@@ -16,10 +16,10 @@
 | 内容  | 来源  | 贡献者  |
 | ------------ | ------------ | ------------ |
 | 获奖记录  | 百度百科  |   |
-| 专辑（音乐）介绍  | QQ音乐  |   |
+| 专辑（音乐）信息  | QQ音乐 <br/> 维基百科 <br/> [Fandom粉丝社区](https://www.fandom.com/)  |   |
 | 影视作品  | 豆瓣网  |   |
 | 英文内容（专辑、歌曲名）  | Apple Music  |   |
-| 制作团队（乐手、混音、录音等）  | Apple Music  |   |
+| 制作团队（乐手、混音、录音等）  | Apple Music <br/> [Lyricsinfo 歌词维基](https://www.musico.wiki/)  |   |
 | 演出记录  | 维基百科  |   |
 | 演出记录  | jaybar  | shanghai-WFN  |
 | 演出票务  | 大麦、猫眼、票星球  |   |
