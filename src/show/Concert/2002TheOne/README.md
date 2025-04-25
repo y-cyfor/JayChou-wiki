@@ -103,7 +103,7 @@
         <td>12</td>
         <td>2003.09.12</td>
         <td>🇨🇳 中国</td>
-        <td><a href="/show/Concert/2002TheOne/2003BeiJing">北京</a></td>
+        <td><a href="/show/Concert/2002TheOne/2003BeiJing.html">北京</a></td>
         <td>北京工人体育场</td>
         <td></td>
         <td></td>
@@ -112,7 +112,7 @@
         <td>13</td>
         <td>2003.12.12</td>
         <td>🇨🇳 中国</td>
-        <td><a href="/show/Concert/2002TheOne/2003ShangHai">上海</a></td>
+        <td><a href="/show/Concert/2002TheOne/2003ShangHai.html">上海</a></td>
         <td>上海体育场<br>(八万人体育场)</td>
         <td></td>
         <td></td>
@@ -121,7 +121,7 @@
         <td>14</td>
         <td>2003.12.20</td>
         <td>🇨🇳 中国</td>
-        <td><a href="/show/Concert/2002TheOne/2003GuangZhou">广州</a></td>
+        <td><a href="/show/Concert/2002TheOne/2003GuangZhou.html">广州</a></td>
         <td>广州天河体育中心体育场</td>
         <td></td>
         <td></td>
@@ -130,7 +130,7 @@
         <td>15</td>
         <td>2003.12.23</td>
         <td>🇹🇭 泰国</td>
-        <td><a href="/show/Concert/2002TheOne/2003Bangkok">曼谷</a></td>
+        <td><a href="/show/Concert/2002TheOne/2003Bangkok.html">曼谷</a></td>
         <td>Impact Arena<br>(泰国国际会议展览中心)</td>
         <td></td>
         <td></td>
@@ -139,9 +139,27 @@
         <td>16</td>
         <td>2004.01.03</td>
         <td>🇨🇳 中国</td>
-        <td><a href="/show/Concert/2002TheOne/2004ShenZhen">深圳</a></td>
+        <td><a href="/show/Concert/2002TheOne/2004ShenZhen.html">深圳</a></td>
         <td>深圳体育场</td>
         <td></td>
         <td></td>
+    </tr>
+        <tr>
+        <td></td>
+        <td>2004年10月24日</td>
+        <td>🇨🇳 中国</td>
+        <td><a href="/show/Concert/2002TheOne/2004WuHan.html">武汉</a></td>
+        <td>深圳体育场</td>
+        <td></td>
+        <td>与无与伦比巡回交替进行<br/>按大众目前统计口径计入无与伦比</td>
+    </tr>
+        <tr>
+        <td></td>
+        <td>2004.12.03</td>
+        <td>🇨🇳 中国</td>
+        <td><a href="/show/Concert/2002TheOne/2004SHangZhou.html">HangZhou</a></td>
+        <td>深圳体育场</td>
+        <td></td>
+        <td>与无与伦比巡回交替进行<br/>按大众目前统计口径计入无与伦比</td>
     </tr>
 </table>
