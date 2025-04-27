@@ -11,3 +11,5 @@
 ## 如果你熟悉Git、前端、Markdown
 - 直接联系上述邮箱，参与到本项目的建设中
 - 在[Github](https://github.com/y-cyfor/JayChou-wiki)找到这个开源项目，你可以提交 Issues或 Pull Request 等待项目合并更新内容<br>（尽量不要吧，因为git我不怎么会....~~其实完全不会~~）
+
+[![Star History Chart](https://api.star-history.com/svg?repos=y-cyfor/JayChou-wiki&type=Date)](https://www.star-history.com/#y-cyfor/JayChou-wiki&Date)
