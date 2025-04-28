@@ -27,12 +27,12 @@
 			<th width="250px">分会</th>  
 		</tr >
 	</thead>
+	<tbody> <!-- 表格主体 -->
 	<tr >
 	    <td rowspan="5"align="center"><a id="huabei">华北</a></td>
 	    <td>北京</td>
 	    <td>北京分会</td>
 	</tr>
-	<tbody> <!-- 表格主体 -->
 		<tr>
 			<td>天津</td>
 			<td>天津分会</td>
