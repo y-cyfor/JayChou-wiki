@@ -20,149 +20,153 @@
 ![伦吧全平台.jpg](https://public.jaychou.wiki/culture/jaybar_qianming.webp/ys+sy)
 
 <table >
-	<tr>
-	    <th width="200px">区域</th>
-	    <th width="100px">省份</th>
-	    <th width="250px">分会</th>  
-	</tr >
+    <thead> <!-- 表头区域 -->
+		<tr>
+			<th width="200px">区域</th>
+			<th width="100px">省份</th>
+			<th width="250px">分会</th>  
+		</tr >
+	</thead>
 	<tr >
 	    <td rowspan="5"align="center"><a id="huabei">华北</a></td>
 	    <td>北京</td>
 	    <td>北京分会</td>
 	</tr>
-	<tr>
-	    <td>天津</td>
-	    <td>天津分会</td>
-	</tr>
-	<tr>
-	    <td>河北</td>
-	    <td>暂无，可加入邻近分会</td>
-	</tr>
-	<tr>
-	    <td>山西</td>
-	    <td>太原分会</td>
-	</tr>
-	<tr>
-        <td>内蒙古</td>
-	    <td>内蒙小分队</td>
-	</tr>
-	<tr >
-	    <td rowspan="1"align="center"><a id="dongbei">东北</a></td>
-	    <td>-</td>
-	    <td>沈阳分会</td>
-	</tr>
-	<tr >
-	    <td rowspan="8"align="center"><a id="huadong">华东</a></td>
-	    <td>上海</td>
-	    <td>上海分会</td>
-	</tr>
-	<tr>
-	    <td rowspan="2">江苏</td>
-	    <td>南京分会</td>
-	</tr>
-	<tr>
-	    <td>苏州分会</td>
-	</tr>
-	<tr>
-	    <td>浙江</td>
-	    <td>杭州分会</td>
-	</tr>
-	<tr>
-        <td>安徽</td>
-	    <td>合肥分会</td>
-	</tr>
-    <tr>
-        <td>江西</td>
-	    <td>南昌分会</td>
-	</tr>
-    	<tr>
-        <td>山东</td>
-	    <td>济南分会</td>
-	</tr>
-    <tr>
-        <td>福建</td>
-	    <td>福州分会</td>
-	</tr>
-    <tr >
-	    <td rowspan="3"align="center"><a id="huazhong">华中</a></td>
-	    <td>河南</td>
-	    <td>郑州分会</td>
-	</tr>
-	<tr>
-	    <td>湖北</td>
-	    <td>武汉分会</td>
-	</tr>
-	<tr>
-	    <td>湖南</td>
-	    <td>长沙分会</td>
-	</tr>
-	<tr >
-	    <td rowspan="5"align="center"><a id="huanan">华南</a></td>
-	    <td rowspan="2">广东</td>
-	    <td>广州分会</td>
-	</tr>
-	<tr>
-	    <td>深圳分会</td>
-	</tr>
-	<tr>
-	    <td>广西</td>
-	    <td>南宁分会</td>
-	</tr>
-	<tr>
-        <td>海南</td>
-	    <td>暂无，可加入邻近分会</td>
-	</tr>
-    <tr>
-        <td>港澳</td>
-	    <td>港澳分会</td>
-	</tr>
-    <tr >
-	    <td rowspan="5"align="center"><a id="xinan">西南</a></td>
-	    <td>重庆</td>
-	    <td>重庆分会</td>
-	</tr>
-	<tr>
-	    <td>四川</td>
-	    <td>成都分会</td>
-	</tr>
-	<tr>
-	    <td>贵州</td>
-	    <td>暂无，可加入邻近分会</td>
-	</tr>
-    <tr>
-	    <td>云南</td>
-	    <td>昆明分会</td>
-	</tr>
-    <tr>
-	    <td>西藏</td>
-	    <td>暂无，可加入邻近分会</td>
-	</tr>
-    <tr >
-	    <td rowspan="2"align="center"><a id="xibei">西北</a></td>
-	    <td>陕西</td>
-	    <td>西安分会</td>
-	</tr>
-	<tr>
-	    <td>甘肃、青海、宁夏、新疆</td>
-	    <td>暂无，可加入邻近分会</td>
-	</tr>
-        <tr >
-	    <td rowspan="4"align="center"><a id="haiwai">海外</a></td>
-	    <td>澳洲</td>
-	    <td>伦吧悉尼歌迷会</td>
-	</tr>
-	<tr>
-	    <td>北美</td>
-	    <td>伦吧北美歌迷会</td>
-	</tr>
-    <tr>
-	    <td>日韩</td>
-	    <td>伦吧韩国歌迷会</td>
-	</tr>
-	<tr>
-	    <td>新加坡</td>
-	    <td>伦吧新加坡歌迷会</td>
-	</tr>
+	<tbody> <!-- 表格主体 -->
+		<tr>
+			<td>天津</td>
+			<td>天津分会</td>
+		</tr>
+		<tr>
+			<td>河北</td>
+			<td>暂无，可加入邻近分会</td>
+		</tr>
+		<tr>
+			<td>山西</td>
+			<td>太原分会</td>
+		</tr>
+		<tr>
+			<td>内蒙古</td>
+			<td>内蒙小分队</td>
+		</tr>
+		<tr >
+			<td rowspan="1"align="center"><a id="dongbei">东北</a></td>
+			<td>-</td>
+			<td>沈阳分会</td>
+		</tr>
+		<tr >
+			<td rowspan="8"align="center"><a id="huadong">华东</a></td>
+			<td>上海</td>
+			<td>上海分会</td>
+		</tr>
+		<tr>
+			<td rowspan="2">江苏</td>
+			<td>南京分会</td>
+		</tr>
+		<tr>
+			<td>苏州分会</td>
+		</tr>
+		<tr>
+			<td>浙江</td>
+			<td>杭州分会</td>
+		</tr>
+		<tr>
+			<td>安徽</td>
+			<td>合肥分会</td>
+		</tr>
+		<tr>
+			<td>江西</td>
+			<td>南昌分会</td>
+		</tr>
+			<tr>
+			<td>山东</td>
+			<td>济南分会</td>
+		</tr>
+		<tr>
+			<td>福建</td>
+			<td>福州分会</td>
+		</tr>
+		<tr >
+			<td rowspan="3"align="center"><a id="huazhong">华中</a></td>
+			<td>河南</td>
+			<td>郑州分会</td>
+		</tr>
+		<tr>
+			<td>湖北</td>
+			<td>武汉分会</td>
+		</tr>
+		<tr>
+			<td>湖南</td>
+			<td>长沙分会</td>
+		</tr>
+		<tr >
+			<td rowspan="5"align="center"><a id="huanan">华南</a></td>
+			<td rowspan="2">广东</td>
+			<td>广州分会</td>
+		</tr>
+		<tr>
+			<td>深圳分会</td>
+		</tr>
+		<tr>
+			<td>广西</td>
+			<td>南宁分会</td>
+		</tr>
+		<tr>
+			<td>海南</td>
+			<td>暂无，可加入邻近分会</td>
+		</tr>
+		<tr>
+			<td>港澳</td>
+			<td>港澳分会</td>
+		</tr>
+		<tr >
+			<td rowspan="5"align="center"><a id="xinan">西南</a></td>
+			<td>重庆</td>
+			<td>重庆分会</td>
+		</tr>
+		<tr>
+			<td>四川</td>
+			<td>成都分会</td>
+		</tr>
+		<tr>
+			<td>贵州</td>
+			<td>暂无，可加入邻近分会</td>
+		</tr>
+		<tr>
+			<td>云南</td>
+			<td>昆明分会</td>
+		</tr>
+		<tr>
+			<td>西藏</td>
+			<td>暂无，可加入邻近分会</td>
+		</tr>
+		<tr >
+			<td rowspan="2"align="center"><a id="xibei">西北</a></td>
+			<td>陕西</td>
+			<td>西安分会</td>
+		</tr>
+		<tr>
+			<td>甘肃、青海、宁夏、新疆</td>
+			<td>暂无，可加入邻近分会</td>
+		</tr>
+			<tr >
+			<td rowspan="4"align="center"><a id="haiwai">海外</a></td>
+			<td>澳洲</td>
+			<td>伦吧悉尼歌迷会</td>
+		</tr>
+		<tr>
+			<td>北美</td>
+			<td>伦吧北美歌迷会</td>
+		</tr>
+		<tr>
+			<td>日韩</td>
+			<td>伦吧韩国歌迷会</td>
+		</tr>
+		<tr>
+			<td>新加坡</td>
+			<td>伦吧新加坡歌迷会</td>
+		</tr>
+	</tbody>
 </table>
 
 ### 入会提醒
