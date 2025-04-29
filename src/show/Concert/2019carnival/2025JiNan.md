@@ -1,1 +1,45 @@
 # 2025嘉年华世界巡回演唱会-济南站
+
+
+## 基本信息
+
+### 时间地点
+- 演唱会时间：
+    - 2025-09-19（周二）
+    - 2025-09-20（周三）
+    - 2025-09-21（周三）
+- 演唱会场馆：待定
+- 正式名：待定
+
+### 制作单位
+- 主办机构：北京星台光影文化传播有限公司 
+- 艺人经纪：杰威尔音乐
+- 节目制作：巨炮娱乐（G/POWER）
+- 工程统筹：
+- 联合主办：
+- 粉丝社区：Jayme
+- 票务总代：
+
+### 批文
+<div class="image-scroll-container">
+  <div class="image-scroll-wrapper">
+    <div class="image-scroll-content">
+        <figure>
+            <img src="//public.jaychou.wiki/show/concert/2019carnival/2025wuhan/文旅市场通.jpg/yss+sy" alt="济南站文旅市场通APP" />
+            <figcaption>文旅市场通APP</figcaption>
+        </figure>
+    </div>
+  </div>
+</div>
+
+## 票务快照
+### 座位图
+
+### 开票信息
+- 售票平台：
+    - 猫眼初始开售时可售票总张数：
+
+- 首次开票：
+    - 时间：
+
+### 售票平台截图
