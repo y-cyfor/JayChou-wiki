@@ -65,11 +65,6 @@ highlights:
       background-repeat: repeat
       background-size: initial
     features:
-      - title: 🎤【南宁】
-        details: 时间：2025.04.25-2025.04.27<br />
-                  地点： <br />
-                  开票：已开票<br />
-                  票价：<br />
         link: /show/Concert/2019carnival/2025NanNing.md
       - title: 🎤【香港】
         details: 时间：2025.06.27-2025.06.29<br />
@@ -82,7 +77,12 @@ highlights:
                   地点： <br />
                   开票：已开票<br />
                   票价：<br />
-        link: /show/Concert/2019carnival/2025XiaMen.md
+        link: /show/Concert/2019carnival/2025WuHan.md
+      - title: 🎤【武汉】
+        details: 时间：2025.09.26-2025.09.29<br />
+                  地点：待定 <br />
+                  开票：未开票 时间待定<br />
+                  票价：待定<br />
 
   - header: 新作品
     bgImage: https://public.jaychou.wiki/index/index_shengdanxing.jpeg/ys+sy
