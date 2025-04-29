@@ -149,9 +149,6 @@ footer: Powered by <a href="https://v2.vuepress.vuejs.org/zh/" target="_blank">V
 
 
 ---
-
-<meta name="yandex-verification" content="3e09992061e54b90" />
-
 ## JayChou's wiki是什么
 JayChou's wiki 是一个以周杰伦为主题的百科，主要内容来源于网络收集，方便杰迷搜寻资料。
 ## 为什么要做jaychou.wiki
