@@ -8,6 +8,7 @@ export default defineUserConfig({
   title: "JayChou's wiki | 周杰伦百科资料集",
   description: "周杰伦 音乐🎵、演出🎤、影视🎬 资料集",
   head: [
+    // 51la
     ['script', {  
       async: true,  
       charset: 'UTF-8',
@@ -15,6 +16,8 @@ export default defineUserConfig({
       src: 'https://sdk.51.la/js-sdk-pro.min.js?id=3Ia9UlIRxpjIS8Tl&ck=3Ia9UlIRxpjIS8Tl&autoTrack=true&hashMode=true' // 51la统计代码
     }],
     // ['script', { src: 'https://hm.baidu.com/hm.js?2b95f3f7f21f3597d1a53a438c2e539d' }],// 百度统计代码简单用法
+    
+    // 百度统计
     [
     'script', {}, `
     var _hmt = _hmt || [];
@@ -26,6 +29,16 @@ export default defineUserConfig({
     })();          
    `
    ],
+
+   // 头条验证
+   [
+    'meta',
+    {
+      name: 'bytedance-verification-code',
+      content: 'PcImPjP5O5m6B/Yff7yL'
+    }
+  ],
+
  ],
   theme,
    plugins: [
