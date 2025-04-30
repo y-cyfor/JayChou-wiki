@@ -51,18 +51,39 @@ export default hopeTheme({
       dark: "auto",//暗黑模式：自动
       commentSorting: "hottest",//排序方式：自动
       pageSize: 20,//分页条数
-      reaction: false, // 文章反应
+      reaction: [], // 文章反应
     },
 
     //搜索插件
     slimsearch: {
       indexContent: true, //搜索全文
-      autoSuggestions: false, //搜索建议
       queryHistoryCount: 5, //搜索历史数
     },
     components: {
       components: ["Badge", "VPCard"],
     },
+
+    // 公告
+    notice: [
+      {
+        path: "/",
+        title: "嘿，需要你的帮助",
+        showOnce: true,
+        content: "JayChou's Wiki 致力于打造最全面的周杰伦资料库。\n\n如果你有收藏演唱会门票、了解幕后故事、熟悉乐队成员，或保存了珍贵影像与海报，欢迎一起参与共建！\n\n求！你！了！",
+        actions: [
+          {
+            text: "参与建设",
+            link: "https://www.jaychou.wiki/about/contribute.html",
+            type: "primary",
+          },
+          { 
+            text: "关于本站" ,
+            link: "https://www.jaychou.wiki/about/index.html",
+            type: "default",
+          },
+        ],
+      },
+    ],
 
     // 失效配置，主题作者把md插件从主题配置摘出去了    markdown: {
         //   align: true,
