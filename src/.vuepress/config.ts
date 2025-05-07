@@ -50,6 +50,15 @@ export default defineUserConfig({
       content: 'PcImPjP5O5m6B/Yff7yL'
     }
   ],
+  
+  // 神马验证
+  [
+    'meta',
+    {
+      name: 'shenma-site-verification',
+      content: '1f167fba3ad9e62981fc5ddebd8633d5_1746609734'
+    }
+  ],
 
  ],
   theme,
