@@ -11,3 +11,5 @@
 比如QQ音乐的音乐和歌词页制作团队不全、百度百科获奖列表图文/视频内容不全、演唱会记录海报歌单演出时间不全，如果你需要回顾某一个时间节点的时候，会发现信息异常难以搜集。<br>
 JayCHou's wiki希望做到最全面的资料记录，同时抱着开放的心态向所有人共享。<br>
 当项目开始后，我发现这不是一件简单的事，我无法预测本项目的结局和走向，但希望有更多人加入本项目，一起做一些至少自我感觉有意义的事。
+
+<script id="LA-DATA-WIDGET" crossorigin="anonymous" charset="UTF-8" src="https://v6-widget.51.la/v6/3Ia9UlIRxpjIS8Tl/quote.js?theme=#FD6591,#F95987,#FC8FAE,#FD6591,#FFFFFF,#FD6591,12&col=true&f=12&display=1,0,1,1,1,1,1,1"></script>
