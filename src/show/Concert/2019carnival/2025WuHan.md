@@ -40,4 +40,20 @@ head:
 - 首次开票：
     - 时间：待定
 
+### 主办公告
+<div class="image-scroll-container">
+  <div class="image-scroll-wrapper">
+    <div class="image-scroll-content">
+        <figure>
+            <img src="//public.jaychou.wiki/show/concert/2019carnival/2025wuhan/文旅市场通.jpg/yss+sy" alt="武汉站文旅市场通APP" />
+            <figcaption>文旅市场通APP</figcaption>
+        </figure>
+        <figure>
+            <img src="//public.jaychou.wiki/show/concert/2019carnival/2025wuhan/PA_防骗公告.jpg/yss+sy" alt="武汉站主办防骗声明" />
+            <figcaption>武汉站主办防骗声明</figcaption>
+        </figure>
+    </div>
+  </div>
+</div>
+
 ### 退票政策
