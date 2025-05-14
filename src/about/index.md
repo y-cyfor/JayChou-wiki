@@ -1,10 +1,11 @@
 ---
 head:
-  - script:
-      src: https://v6-widget.51.la/v6/3Ia9UlIRxpjIS8Tl/quote.js?theme=0&col=true&f=12&badge=icon_0&icon=center
-      id: LA-DATA-WIDGET
-      crossorigin: anonymous
-      charset: UTF-8
+  - ['script', {
+      id: 'LA-DATA-WIDGET',
+      crossorigin: 'anonymous',
+      charset: 'UTF-8',
+      src: 'https://v6-widget.51.la/v6/3Ia9UlIRxpjIS8Tl/quote.js?theme=0&col=true&f=12&badge=icon_0&icon=center'
+    }]
 ---
 # 关于本站
 
