@@ -1,3 +1,18 @@
+---
+head:
+  - script:
+      src: https://v6-widget.51.la/v6/3Ia9UlIRxpjIS8Tl/quote.js
+      attrs:
+        id: LA-DATA-WIDGET
+        crossorigin: anonymous
+        charset: UTF-8
+        theme: "0"
+        col: "true"
+        f: "12"
+        badge: icon_0
+        icon: center
+---
+
 # 关于本站
 
 ## 关于JayChou's wiki
@@ -18,9 +33,4 @@ JayCHou's wiki希望做到最全面的资料记录，同时抱着开放的心态
 
 ### 访问统计
 
-['script', {  
-    id: LA-DATA-WIDGET,  
-    crossorigin: 'anonymous',
-    charset: 'UTF-8',
-    src: 'https://v6-widget.51.la/v6/3Ia9UlIRxpjIS8Tl/quote.js?theme=0&col=true&f=12&badge=icon_0&icon=center'
-}],
+<div id="la-container"></div>
