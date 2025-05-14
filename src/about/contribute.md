@@ -12,6 +12,26 @@
 - 直接联系上述邮箱，参与到本项目的建设中
 - 在[Github](https://github.com/y-cyfor/JayChou-wiki)找到这个开源项目，你可以提交 Issues或 Pull Request 等待项目合并更新内容<br>（尽量不要吧，因为git我不怎么会....~~其实完全不会~~）
 
+## 启动本地开发服务器
+Step1 安装代码编辑器（推荐VScode）
+
+Step2 克隆项目代码到本地
+>https://github.com/y-cyfor/JayChou-wiki.git
+
+>SSH：git@github.com:y-cyfor/JayChou-wiki.git 
+
+Step3 在项目根目录打开终端，运行`pnpm install`安装依赖包
+::: tip 提示
+`vuepress-theme-hope`要求`Node.js`版本>= 20.6.0，`PNPM`版本>= 7，请确保你的电脑已安装以上版本。
+如本地报错，可前往[vuepress-theme-hope](https://theme-hope.vuejs.press/zh/faq/troubleshooting.html)查找解决方案
+:::
+
+Step4 在项目根目录打开终端，运行`pnpm docs:dev`启动本地开发服务器，打开http://localhost:8080/即可浏览项目
+
+Step5 修改本地`md`文件，浏览器自动热更新内容预览
+::: caution 警告
+VuePress更新频繁，易造成依赖冲突，请不要执行`update`操作等待我更新 
+:::
 
 ## 贡献规范
 ### 页面结构
@@ -77,16 +97,7 @@
 
 ### 售票平台截图
 <!-- 售票平台的快照和在售票平台公布的主办方公告等信息 -->
-<div class="image-scroll-container">
-  <div class="image-scroll-wrapper">
-    <div class="image-scroll-content">
-        <figure>
-            <img src="图片链接" alt="图片标签" />
-            <figcaption>图片显示名</figcaption>
-        </figure>
-    </div>
-  </div>
-</div>
+同上的图片容器
 
 ## 歌单
 
@@ -115,4 +126,17 @@
 ```
 :::
 
-### 页面结构
+### 项目自定义样式
+#### 图片容器
+因为vuepress-theme-hope自带主题仅支持图片预览效果，即点击放大缩小，不支持左右滚动，在单个页面或页面内某个段落引用图片较多的时候排版有些乱，所以我在`src\.vuepress\styles\index.scss`自定义了一个图片容器，实现图片左右滚动效果，使用方法如下：
+``` html
+<div class="image-scroll-container">
+  <div class="image-scroll-wrapper">
+    <div class="image-scroll-content">
+        <figure>
+            <img src="图片链接" alt="图片标签" />
+            <figcaption>图片显示名</figcaption>
+        </figure>
+    </div>
+  </div>
+</div>

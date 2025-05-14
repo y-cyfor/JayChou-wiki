@@ -26,4 +26,4 @@ JayCHou's wiki希望做到最全面的资料记录，同时抱着开放的心态
 ![Star History Chart](https://api.star-history.com/svg?repos=y-cyfor/JayChou-wiki&type=Date "Star History Chart" )
 
 ### 访问统计
-统不了一点，
+统是统了，看不了一点，Vue不支持页面插入script标签
