@@ -16,7 +16,6 @@ export default defineUserConfig({
       id: 'LA_COLLECT',
       src: 'https://sdk.51.la/js-sdk-pro.min.js?id=3Ia9UlIRxpjIS8Tl&ck=3Ia9UlIRxpjIS8Tl&autoTrack=true&hashMode=true' // 51la统计代码
     }],
-    // ['script', { src: 'https://hm.baidu.com/hm.js?2b95f3f7f21f3597d1a53a438c2e539d' }],// 百度统计代码简单用法
     
     // 百度统计
     [

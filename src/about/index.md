@@ -1,18 +1,11 @@
 ---
 head:
   - script:
-      src: https://v6-widget.51.la/v6/3Ia9UlIRxpjIS8Tl/quote.js
-      attrs:
-        id: LA-DATA-WIDGET
-        crossorigin: anonymous
-        charset: UTF-8
-        theme: "0"
-        col: "true"
-        f: "12"
-        badge: icon_0
-        icon: center
+      src: https://v6-widget.51.la/v6/3Ia9UlIRxpjIS8Tl/quote.js?theme=0&col=true&f=12&badge=icon_0&icon=center
+      id: LA-DATA-WIDGET
+      crossorigin: anonymous
+      charset: UTF-8
 ---
-
 # 关于本站
 
 ## 关于JayChou's wiki
@@ -32,5 +25,4 @@ JayCHou's wiki希望做到最全面的资料记录，同时抱着开放的心态
 ![Star History Chart](https://api.star-history.com/svg?repos=y-cyfor/JayChou-wiki&type=Date "Star History Chart" )
 
 ### 访问统计
-
 <div id="la-container"></div>
