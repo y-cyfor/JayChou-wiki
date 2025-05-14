@@ -26,35 +26,4 @@ JayCHou's wiki希望做到最全面的资料记录，同时抱着开放的心态
 ![Star History Chart](https://api.star-history.com/svg?repos=y-cyfor/JayChou-wiki&type=Date "Star History Chart" )
 
 ### 访问统计
-<div id="la-container"></div>
-
---- 
-
-<div id="la-container"></div>
-
-<!-- 51la 统计挂件注入脚本 -->
-<script>
-  (function() {
-    var script = document.createElement('script');
-    script.id = 'LA-DATA-WIDGET';
-    script.src = 'https://v6-widget.51.la/v6/3Ia9UlIRxpjIS8Tl/quote.js?theme=0&col=true&f=12&badge=icon_0&icon=center';
-    script.charset = 'UTF-8';
-    script.crossOrigin = 'anonymous';
-
-    // 等待 DOM 加载完成后插入
-    function tryInsert() {
-      var container = document.getElementById('la-container');
-      if (container) {
-        container.appendChild(script);
-      } else {
-        setTimeout(tryInsert, 100); // 循环等待容器出现
-      }
-    }
-
-    tryInsert();
-  })();
-</script>
-
---- 
-
-<iframe src="https://v6-widget.51.la/v6/3Ia9UlIRxpjIS8Tl/quote.js?theme=0&col=true&f=12&badge=icon_0&icon=center" width="100%" height="200px" frameborder="0"></iframe>
+统不了一点，

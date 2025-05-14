@@ -30,6 +30,35 @@ export default defineUserConfig({
    `
    ],
 
+   // 爱站统计
+   [
+    'script', {}, `
+    var _hmt = _mtj || [];
+    (function() {
+    var mtj = document.createElement("script");
+    mtj.src = "https://node91.aizhantj.com:21233/tjjs/?k=7votjtbsa5w";
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(mtj, s);
+    })();          
+   `
+   ],
+
+   // 统计鸟
+   [
+    'script', {}, `
+      !function () {
+        "use strict";
+        var w = window, d = document, u = "//api.tongjiniao.com/c?_=781176123153158144", 
+            s = document.createElement("script"), r = document.getElementsByTagName("script")[0];
+        s.type = "text/javascript";
+        s.setAttribute("charset", "UTF-8");
+        s.async = !0;
+        s.src = u;
+        r.parentNode.insertBefore(s, r);
+      }();
+    `
+  ],
+
    // bing Clarity
    [
     'script', {}, `
