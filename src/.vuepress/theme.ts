@@ -9,7 +9,7 @@ export default hopeTheme({
     url: "https://www.jaychou.wiki/",  
   },
   license: "GPL3.0",
-  logo: "src/.vuepress/public/logo.svg",
+  logo: "/public/logo.png",
   repo: "y-cyfor/JayChou-wiki",
   docsDir: "",
   print: false,

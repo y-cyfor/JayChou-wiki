@@ -57,7 +57,7 @@ highlights:
 
   - header: 嘉年华世界巡回演唱会
     description: 已确定场次
-    image: https://public.jaychou.wiki/index/jianianhua_logo-240606.png/yt
+    image: https://public.jaychou.wiki/index/jianianhua_logo-240606.png/ys+sy
     bgImage: https://public.jaychou.wiki/index/index_jianianhua2.jpg/ys+sy
     bgImageDark: https://public.jaychou.wiki/index/index_jianianhua2.jpg/ys+sy
     bgImageStyle:
