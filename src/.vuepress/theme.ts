@@ -9,12 +9,11 @@ export default hopeTheme({
     url: "https://www.jaychou.wiki/",  
   },
   license: "GPL3.0",
-  logo: "/public/logo.png",
   repo: "y-cyfor/JayChou-wiki",
   docsDir: "",
   print: false,
   fullscreen: true,
-  // 导航栏
+  // 导航栏  // logo: "/logo.png",
   navbar,
 
   // 侧边栏
@@ -47,7 +46,6 @@ export default hopeTheme({
     comment: {  // 启用主题自带的评论插件
       provider: "Waline",// 评论服务
       serverURL: "https://comment.jaychou.wiki", // 服务地址
-      js: "https://unpkg.com/@waline/client@v2/dist/waline.js",
       dark: "auto",//暗黑模式：自动
       commentSorting: "hottest",//排序方式：自动
       pageSize: 20,//分页条数
