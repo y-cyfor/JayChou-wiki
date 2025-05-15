@@ -2,6 +2,13 @@
 home: true
 icon: home
 title: 首页
+head:
+  - - meta
+    - name: keywords
+      content: 周杰伦资料, 周杰伦专辑, 周杰伦歌曲, 周杰伦百科，周杰伦影视作品，周杰伦演唱会城市，周杰伦综艺作品，周杰伦广告代言
+  - - meta
+    - name: description
+      content: JayChou's wiki | 周杰伦百科为开源项目，收集杰伦相关作品、演出、行程、社交网络等信息存档，欢迎加入共建，丰富百科内容。
 heroImage: 
 bgImage: https://public.jaychou.wiki/index/index_hero_bj.jpeg/ys+sy
 bgImageDark: https://public.jaychou.wiki/index/index_hero_bj.jpeg/ys+sy
