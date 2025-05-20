@@ -82,7 +82,7 @@ head:
 
 ## 票务快照
 ### 座位图
-![南宁站座位图](https://public.jaychou.wiki/show/concert/2019carnival/2025xiamen/ZuoWei.jpg/yss+sy "广西体育中心体育场座位分布图")
+![厦门站座位图](https://public.jaychou.wiki/show/concert/2019carnival/2025xiamen/ZuoWei.jpg/yss+sy "白鹭体育场座位图")
 ### 开票信息
 - 售票平台：猫眼
     - 猫眼初始开售时可售票总张数：81000
