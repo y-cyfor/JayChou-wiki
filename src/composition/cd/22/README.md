@@ -1,8 +1,7 @@
 ---
-title: 《最伟大的作品》专辑介绍
+title: 《最伟大的作品》（Greatest Works of Art）专辑介绍
 ---
 
-# 《最伟大的作品》（Greatest Works of Art）
 ## 官方介绍
 
 当一件伟大的作品被创作出来时
