@@ -70,7 +70,7 @@
         <tr>
             <td>8</td>
             <td>2010年7月23日</td>
-            <td rowspan="3">新加坡</td>
+            <td rowspan="3">🇸🇬 新加坡</td>
             <td rowspan="3"><a href="/show/Concert/2010TheEra/2010Singapore.html">新加坡</a></td>
             <td rowspan="3">新加坡室内体育馆</td>
             <td></td>
@@ -116,7 +116,7 @@
         <tr>
             <td>14</td>
             <td>2010年9月16日</td>
-            <td rowspan="8">香港</td>
+            <td rowspan="8">🇭🇰 香港</td>
             <td rowspan="8"><a href="/show/Concert/2010TheEra/2010HongKong.html">香港</a></td>
             <td rowspan="8">红磡体育馆</td>
             <td>张学友</td>
@@ -232,7 +232,7 @@
         <tr>
             <td>30</td>
             <td>2010年12月23日</td>
-            <td>加拿大</td>
+            <td>🇨🇦 加拿大</td>
             <td><a href="/show/Concert/2010TheEra/2010Vancouver.html">温哥华</a></td>
             <td>Rogers Arena</td>
             <td></td>

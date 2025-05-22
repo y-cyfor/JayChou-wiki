@@ -143,7 +143,7 @@
         <tr>
             <td>19</td>
             <td>2013年9月6日</td>
-            <td rowspan="3">中国台湾</td>
+            <td rowspan="3">🇨🇳 中国台湾</td>
             <td rowspan="3"><a href="/show/Concert/2013OpusJay/2013Taipei.html">台北</a></td>
             <td rowspan="3">台北小巨蛋</td>
             <td></td>

@@ -266,7 +266,7 @@
         <tr>
             <td>33</td>
             <td>2008年12月18日</td>
-            <td>加拿大</td>
+            <td>🇨🇦 加拿大</td>
             <td><a href="/show/Concert/2007WorldTours/2008Toronto.html">多伦多</a></td>
             <td>Air Canada Centre<br>加拿大航线中心体育馆</td>
             <td></td>
@@ -322,7 +322,7 @@
         <tr>
             <td>40</td>
             <td>2009年7月3日</td>
-            <td>澳大利亚</td>
+            <td>🇦🇺 澳大利亚</td>
             <td><a href="/show/Concert/2007WorldTours/2009Sydney.html">悉尼</a></td>
             <td>Qudos Bank Arena<br>悉尼超级穹顶体育馆（现：库多斯银行体育馆、悉尼超级巨蛋）</td>
             <td></td>

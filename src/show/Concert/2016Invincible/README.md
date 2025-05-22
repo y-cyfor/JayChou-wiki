@@ -793,7 +793,7 @@
         <tr>
             <td>112</td>
             <td>2018年12月14日</td>
-            <td rowspan="4">🇲🇴澳门</td>
+            <td rowspan="4">🇲🇴中国澳门</td>
             <td rowspan="4"><a href="/show/Concert/2016Invincible/2018Macao.html">澳门</a></td>
             <td rowspan="4">金光综艺馆</td>
             <td></td>
