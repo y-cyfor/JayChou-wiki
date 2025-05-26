@@ -1,9 +1,11 @@
-# 《周杰伦 Jay Chou 魔天伦世界巡回演唱会DVD+2CD Opus Jay World Tour 》专辑版本和内页
+---
+title: 魔天伦世界巡回演唱会 专辑版本和内页
+---
 
 ::: warning 待完善页面
 草稿，需后续整合（暂存五大+JVR旧官网的素材）
 :::
-
+《周杰伦 Jay Chou 魔天伦世界巡回演唱会DVD+2CD Opus Jay World Tour 》
 ## DVD+2CD
 商品条形码 0888751982895
 商品编号 88875198289*

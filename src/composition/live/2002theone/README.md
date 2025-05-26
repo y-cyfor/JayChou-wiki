@@ -1,4 +1,6 @@
-# 《The One 演唱会》
+---
+title: 《The One 演唱会》
+---
 
 ::: warning 待完善页面
 草稿，需后续整合（暂存五大+JVR旧官网+jayms的素材）
