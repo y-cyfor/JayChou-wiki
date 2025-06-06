@@ -92,17 +92,18 @@ highlights:
         link: /show/Concert/2019carnival/2025WuHan.md
 
   - header: 新作品
-    bgImage: https://public.jaychou.wiki/index/index_shengdanxing.jpeg/ys+sy
-    bgImageDark: https://public.jaychou.wiki/index/index_shengdanxing.jpeg/ys+sy
+    bgImage: https://public.jaychou.wiki/composition/alone/Improvisation/即兴曲-宣传照.jpg/ys+sy
+    bgImageDark: https://public.jaychou.wiki/composition/alone/Improvisation/即兴曲-宣传照.jpg/ys+sy
     bgImageStyle:
       opacity: 0.3
       background-repeat: repeat
-      background-size: initial
+      background-size: cover
     highlights:
         - title: 《即兴曲》钢琴小品2025.06.06 上线！
           icon: comment-dots
           details: 2025.06.06  AM 00:00 数位上线<br>
                   前往收听：<br>QQ音乐 <br>酷我音乐<br>酷狗音乐<br>咪咕音乐
+          link: /composition/alone/Improvisation.md
 
         - title: 【特别版】《稻香》摇滚版2024.06.03 上线！
           icon: comment-dots
