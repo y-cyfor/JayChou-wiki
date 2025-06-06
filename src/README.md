@@ -99,14 +99,19 @@ highlights:
       background-repeat: repeat
       background-size: initial
     highlights:
-      - title: 【特别版】《稻香》摇滚版2024.06.03 上线！
-        icon: comment-dots
-        details: 2024.06.03  MV上线<br>
+        - title: 《即兴曲》钢琴小品2025.06.06 上线！
+          icon: comment-dots
+          details: 2025.06.06  AM 00:00 数位上线<br>
+                  前往收听：<br>QQ音乐 <br>酷我音乐<br>酷狗音乐<br>咪咕音乐
+
+        - title: 【特别版】《稻香》摇滚版2024.06.03 上线！
+          icon: comment-dots
+          details: 2024.06.03  MV上线<br>
                   前往观看：<br>QQ音乐 <br>酷我音乐<br>酷狗音乐<br>咪咕音乐
 
-      - title: 《圣诞星》2023.12.25 上线！
-        icon: comment-dots
-        details: 2023.12.25 PM9:00 数位上线<br>
+        - title: 《圣诞星》2023.12.25 上线！
+          icon: comment-dots
+          details: 2023.12.25 PM9:00 数位上线<br>
                   前往收听：<br>QQ音乐 <br>酷我音乐<br>酷狗音乐<br>咪咕音乐
 
 
