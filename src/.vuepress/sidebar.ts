@@ -288,14 +288,13 @@ export default sidebar({
                       collapsible: true,
                       children: [
                         {
-                          text: "圣诞星",
-                          prefix: "2016",
-                          collapsible: true,
-                          children: [
-                            "",
-                              ],
-                            }
-            
+                          text: "即兴曲",
+                          link: "Improvisation.md",
+                            },
+                            {
+                              text: "圣诞星",
+                              link: "ChristmasStar.md",
+                                }
                           ],
                         },
                         {

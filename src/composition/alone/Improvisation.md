@@ -1,7 +1,7 @@
 ---
 title: 即兴曲
 ---
-
+![周杰伦「即兴曲」](//public.jaychou.wiki/composition/alone/Improvisation/即兴曲3000x3000_applemusic.jpg/yss+sy "周杰伦「即兴曲」" )
 ## 收听
 ### 音频
 
@@ -21,6 +21,7 @@ title: 即兴曲
 [QQ音乐](https://y.qq.com/n/ryqq/mv/001j3Hl13r7c97)
 
 ## 官方简介
+![周杰伦「即兴曲」](//public.jaychou.wiki/composition/alone/Improvisation/即兴曲-宣传照.jpg/yss+sy "周杰伦「即兴曲」" )
 《即兴曲》是周杰伦在伦敦著名的艾比路（Abbey Road）录音室即兴创作并录制的钢琴作品。该曲在综艺节目《周游记》第三季首次演奏，凭借动人的旋律迅速赢得了乐迷们的喜爱。
 
 节目镜头见证了周杰伦与友人一行踏入艾比路录音室的瞬间。作为一座建于1931年、拥有90余年历史的音乐圣殿，艾比路录音室见证了从爱德华·埃尔加爵士（Sir Edward Elgar）的交响录音到披头士（The Beatles）的经典专辑制作，成为西方音乐史的重要篇章。沉浸在音乐传承与创新的氛围中，周杰伦不禁感慨：“都来到了Beatles的录音室，不来一首即兴钢琴创作怎么行？”
