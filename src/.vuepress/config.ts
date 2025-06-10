@@ -91,9 +91,6 @@ export default defineUserConfig({
  ],
   theme,
    plugins: [
-    gitPlugin({
-      // 配置项
-    }),
   ],
 
   // 和 PWA 一起启用

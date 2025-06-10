@@ -9,8 +9,10 @@ export default hopeTheme({
     url: "https://www.jaychou.wiki/",  
   },
   license: "GPL3.0",
+  //github配置
   repo: "y-cyfor/JayChou-wiki",
-  docsDir: "",
+  docsDir: "src",
+  changelog: true,
   print: false,
   fullscreen: true,
   // 导航栏  // logo: "/logo.png",
