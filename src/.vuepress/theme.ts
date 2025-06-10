@@ -57,8 +57,10 @@ export default hopeTheme({
       indexContent: true, //搜索全文
       queryHistoryCount: 5, //搜索历史数
     },
+
+    //扩展Markdown组件
     components: {
-      components: ["Badge", "VPCard"],
+      components: ["Badge", "VPCard", "BiliBili"],
     },
 
     // 公告
