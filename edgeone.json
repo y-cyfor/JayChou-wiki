@@ -1,0 +1,9 @@
+{
+    "redirects": [
+      {
+        "source": "/composition/alone/*",
+        "destination": "/composition/single/$1",
+        "statusCode": 301
+      }
+    ]
+}
