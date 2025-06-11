@@ -231,6 +231,46 @@ export default sidebar({
                         text: "专辑版本",
                         link: "public.md",
                           },
+                          {
+                            text: "〈爱在西元前〉",
+                            link: "01_love-before-bc.md",
+                              },
+                              {
+                                text: "〈爸我回来了〉",
+                                link: "02_dad,i'm-home.md",
+                                  },
+                                  {
+                                    text: "〈简单爱〉",
+                                    link: "03_simple-love.md",
+                                      },
+                                      {
+                                        text: "〈忍者〉",
+                                        link: "04_ninja.md",
+                                          },
+                                          {
+                                            text: "〈开不了口〉",
+                                            link: "05_i-find-it-hard-to-say.md",
+                                              },
+                                              {
+                                                text: "〈上海一九四三〉",
+                                                link: "06_shanghai-1943.md",
+                                                  },
+                                                  {
+                                                    text: "〈对不起〉",
+                                                    link: "07_sorry.md",
+                                                      },
+                                                      {
+                                                        text: "〈威廉古堡〉",
+                                                        link: "08_william-castle.md",
+                                                          },
+                                                          {
+                                                            text: "〈双节棍〉",
+                                                            link: "09_nunchucks.md",
+                                                              },
+                                                              {
+                                                                text: "〈安静〉",
+                                                                link: "10_silence.md",
+                                                                  },
                     ],
                   },
                 {
