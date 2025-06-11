@@ -1,5 +1,6 @@
 ---
 title: 单曲
+redirectFrom: /composition/alone/
 ---
 
 ::: info 建设中

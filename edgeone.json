@@ -1,11 +1,6 @@
 {
     "redirects": [
       {
-        "source": "/composition/alone/",
-        "destination": "/composition/single/",
-        "statusCode": 301
-      },
-      {
         "source": "/composition/alone/index.html",
         "destination": "/composition/single/index.html",
         "statusCode": 301
