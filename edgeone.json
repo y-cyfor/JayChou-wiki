@@ -1,8 +1,33 @@
 {
     "redirects": [
       {
-        "source": "/composition/alone/*",
-        "destination": "/composition/single/$1",
+        "source": "/composition/alone/",
+        "destination": "/composition/single/",
+        "statusCode": 301
+      },
+      {
+        "source": "/composition/alone/index.html",
+        "destination": "/composition/single/index.html",
+        "statusCode": 301
+      },
+      {
+        "source": "/composition/alone/ChristmasStar",
+        "destination": "/composition/single/christmas-star",
+        "statusCode": 301
+      },
+      {
+        "source": "/composition/alone/ChristmasStar.html",
+        "destination": "/composition/single/christmas-star.html",
+        "statusCode": 301
+      },
+      {
+        "source": "/composition/alone/Improvisation",
+        "destination": "/composition/single/improvisation",
+        "statusCode": 301
+      },
+      {
+        "source": "/composition/alone/Improvisation.html",
+        "destination": "/composition/single/improvisation.html",
         "statusCode": 301
       }
     ]
