@@ -287,14 +287,10 @@ export default sidebar({
                       prefix: "single",
                       collapsible: true,
                       children: [
-                        {
-                          text: "即兴曲",
-                          link: "improvisation.md",
-                            },
-                            {
-                              text: "圣诞星",
-                              link: "christmas-star.md",
-                                }
+                          {
+                            text: "圣诞星",
+                            link: "christmas-star.md",
+                              }
                           ],
                         },
                         {
@@ -345,6 +341,17 @@ export default sidebar({
                                         "",
                                           ],
                                         },
+                                        {
+                                          text: "钢琴曲",
+                                          prefix: "piano",
+                                          collapsible: true,
+                                          children: [
+                                            {
+                                              text: "即兴曲",
+                                              link: "improvisation.md",
+                                                }
+                                              ],
+                                            },
           ],
         }
       ],

@@ -40,10 +40,11 @@ B段部分则通过“F#m-E-D-E” 的和声走向，使旋律在高低八度间
 
 ## 制作工程
 作曲 Composer：周杰伦 Jay Chou
+<br/>
 制作人 Music Producer：周杰伦 Jay Chou
-
+<br/>
 录音室 Recording Studio：Abbey Road Studios
-
+<br/>
 母带后期处理工程师 Mastering Engineer：陈陆泰 (A-Tai) LuTai Chen (A-Tai)
-
+<br/>
 母带后期处理录音室 Mastering Studio：原艾母带工程录音室 Mugwort Mastering

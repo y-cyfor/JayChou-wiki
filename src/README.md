@@ -108,7 +108,7 @@ highlights:
           icon: comment-dots
           details: 2025.06.06  AM 00:00 数位上线<br>
                   前往收听：<br>QQ音乐 <br>酷我音乐<br>酷狗音乐<br>咪咕音乐
-          link: /composition/alone/Improvisation.md
+          link: /composition/piano/improvisation.md
 
         - title: 【特别版】《稻香》摇滚版2024.06.03 上线！
           icon: comment-dots
