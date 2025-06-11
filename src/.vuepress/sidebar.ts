@@ -284,16 +284,16 @@ export default sidebar({
                     },
                     {
                       text: "单曲",
-                      prefix: "alone",
+                      prefix: "single",
                       collapsible: true,
                       children: [
                         {
                           text: "即兴曲",
-                          link: "Improvisation.md",
+                          link: "improvisation.md",
                             },
                             {
                               text: "圣诞星",
-                              link: "ChristmasStar.md",
+                              link: "christmas-star.md",
                                 }
                           ],
                         },
