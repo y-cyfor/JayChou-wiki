@@ -11,18 +11,8 @@
         "statusCode": 301
       },
       {
-        "source": "/composition/alone/ChristmasStar",
-        "destination": "/composition/single/christmas-star",
-        "statusCode": 301
-      },
-      {
         "source": "/composition/alone/ChristmasStar.html",
         "destination": "/composition/single/christmas-star.html",
-        "statusCode": 301
-      },
-      {
-        "source": "/composition/alone/Improvisation",
-        "destination": "/composition/single/improvisation",
         "statusCode": 301
       },
       {
