@@ -13,6 +13,28 @@ title: 《Jay》专辑介绍
 - 发行时间：2000年11月13日
 - 专辑语种：国语专辑
 
+## 曲目信息
+| 曲序|曲目|作曲|填词|编曲|乐手|制作和工程|时长|
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+| 1  | [可爱女人 <br>(Adorable Lady)](/composition/cd/00/01_adorable-lady.md) | 周杰伦  | 徐若瑄(Vivian Hsu) | 周杰伦  | 吉他：倪方来（James Ni）  | 录音师：杨瑞代(Gary Yang) <br> 混音师：樊乃刚  | 03:59 |
+| 2  | [完美主义 <br>(Perfectionism))](/composition/cd/00/02_perfectionism.md)  | 周杰伦  | 方文山(Vincent Fang)  | 洪敬尧(Yao Hung)  |   |   |  04:04 |
+| 3  | [星晴 <br>(Starry Mood))](/composition/cd/00/03_starry-mood.md)  | 周杰伦  | 周杰伦  | 洪敬尧  |   |   |  04:19 |
+| 4  | [娘子 <br>(Wife))](/composition/cd/00/04_wife.md)  | 周杰伦  | 方文山  | 周杰伦  |   |   | 04:31  |
+| 5  | [斗牛 <br>(Basketball Match))](/composition/cd/00/05_basketball-match.md)  | 周杰伦  | 方文山  | 洪敬尧  |   |   | 04:38  |
+| 6  | [黑色幽默 <br>(Black Humor))](/composition/cd/00/06_black-humor.md)  | 周杰伦  | 周杰伦  | 钟兴民  |   |   | 04:43  |
+| 7  | [伊斯坦堡 <br>(Istanbul))](/composition/cd/00/07_lstanbul.md)  | 周杰伦  | 徐若瑄  | 洪敬尧  |   |   | 03:29  |
+| 8  | [印第安老斑鸠 <br>(Ancient Indian Turtledove))](/composition/cd/00/08_ancient-indian-turtledove.md)  | 周杰伦  | 方文山  | 洪敬尧  |   |   | 05:04  |
+| 9  | [龙卷风 <br>(Tornado))](/composition/cd/00/09_tornado.md)  | 周杰伦  | 徐若瑄  | 钟兴民  |   |   | 04:10  |
+| 10  | [反方向的钟 <br>(Counter-clockwise Clock))](/composition/cd/00/10_counter-clockwise-clock.md)  | 周杰伦  | 方文山  | 周杰伦  |   |   | 04:18  |
+
+## 辅助团队
+出品人：吴宗宪
+监制：杨峻荣
+造型师：王威翔
+化妆师：林子楷
+发型师：Dick(EROS)
+平面摄影：余静萍
+封面设计：陈政守
 
 ## 专辑介绍（官方）
 专辑中以古典弦乐伴奏及Band，形成英国式的复古风格，加上西班牙式风格的弦乐演奏，意境极度逼近电影配乐。
@@ -87,20 +109,6 @@ title: 《Jay》专辑介绍
 
 专辑中唯一不具西方味道的曲，前奏并加入母语音标ㄅㄆㄇㄈ，除了B段加入奏鸣曲的感觉、换了一些和弦之外，整首竟以3个和弦完成，兼具东方忧郁的味道。
 
-
-## 曲目信息
-| 曲序|曲目|作曲|填词|编曲|乐手|制作和工程|时长|
-| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| 1  | 可爱女人 <br>(Adorable Lady) | 周杰伦  | 徐若瑄(Vivian Hsu) | 周杰伦  | 吉他：倪方来（James Ni）  | 录音师：杨瑞代(Gary Yang) <br> 混音师：樊乃刚  | 03:59 |
-| 2  | 完美主义 <br>(Perfectionism)  | 周杰伦  | 方文山(Vincent Fang)  | 洪敬尧(Yao Hung)  |   |   |  04:04 |
-| 3  | 星晴 <br>(Starry Mood)  | 周杰伦  | 周杰伦  | 洪敬尧  |   |   |  04:19 |
-| 4  | 娘子 <br>(Wife)  | 周杰伦  | 方文山  | 周杰伦  |   |   | 04:31  |
-| 5  | 斗牛 <br>(Basketball Match)  | 周杰伦  | 方文山  | 洪敬尧  |   |   | 04:38  |
-| 6  | 黑色幽默 <br>(Black Humor)  | 周杰伦  | 周杰伦  | 钟兴民  |   |   | 04:43  |
-| 7  | 伊斯坦堡 <br>(Istanbul)  | 周杰伦  | 徐若瑄  | 洪敬尧  |   |   | 03:29  |
-| 8  | 印第安老斑鸠 <br>(Ancient Indian Turtledove)  | 周杰伦  | 方文山  | 洪敬尧  |   |   | 05:04  |
-| 9  | 龙卷风 <br>(Tornado)  | 周杰伦  | 徐若瑄  | 钟兴民  |   |   | 04:10  |
-| 10  | 反方向的钟 <br>(Counter-clockwise Clock)  | 周杰伦  | 方文山  | 周杰伦  |   |   | 04:18  |
 
 ## 获奖记录
 | 日期|获奖作品/获奖人|典礼|奖项|获奖情况|图文/视频资源|

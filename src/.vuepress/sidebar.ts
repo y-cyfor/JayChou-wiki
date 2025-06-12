@@ -224,11 +224,11 @@ export default sidebar({
                 collapsible: true,
                 children: [
                   {
-                    text: "专辑介绍",
+                    text: "📖专辑介绍",
                     link: "README.md",
                       },
                       {
-                        text: "专辑版本",
+                        text: "📚专辑版本",
                         link: "public.md",
                           },
                           {
@@ -279,13 +279,53 @@ export default sidebar({
                   collapsible: true,
                   children: [
                     {
-                      text: "专辑介绍",
+                      text: "📖专辑介绍",
                       link: "README.md",
                         },
                         {
-                          text: "专辑版本",
+                          text: "📚专辑版本",
                           link: "public.md",
                             },
+                            {
+                              text: "〈可爱女人〉",
+                              link: "01_adorable-lady.md",
+                                },
+                                {
+                                  text: "〈完美主义〉",
+                                  link: "02_perfectionism.md",
+                                    },
+                                    {
+                                      text: "〈星晴〉",
+                                      link: "03_starry-mood.md",
+                                        },
+                                        {
+                                          text: "〈娘子〉",
+                                          link: "04_wife.md",
+                                            },
+                                            {
+                                              text: "〈斗牛〉",
+                                              link: "05_basketball-match.md",
+                                                },
+                                                {
+                                                  text: "〈黑色幽默〉",
+                                                  link: "06_black-humor.md",
+                                                    },
+                                                    {
+                                                      text: "〈伊斯坦堡〉",
+                                                      link: "07_lstanbul.md",
+                                                        },
+                                                        {
+                                                          text: "〈印第安老斑鸠〉",
+                                                          link: "08_ancient-indian-turtledove.md",
+                                                            },
+                                                            {
+                                                              text: "〈龙卷风〉",
+                                                              link: "09_tornado.md",
+                                                                },
+                                                                {
+                                                                  text: "〈反方向的钟〉",
+                                                                  link: "10_counter-clockwise-clock.md",
+                                                                    },
                       ],
                     },
               ],
