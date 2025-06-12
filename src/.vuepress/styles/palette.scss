@@ -1,10 +1,16 @@
+$font-family-heading: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", STHeiti, "Microsoft YaHei", SimSun, sans-serif;
+
 @font-face {
-    font-family: 'TwemojiFlags'; /* 专用字体名称 */
-    src: url('https://gcore.jsdelivr.net/npm/twemoji-colr-font@14.0.2/twemoji.woff2') format('woff2');
-    unicode-range: U+1F1E6-1F1FF; /* 限定仅国旗Emoji区域（区域指示符号） */
-  }
+  font-family: 'TwemojiFlags';
+  src: url('https://gcore.jsdelivr.net/npm/twemoji-colr-font@14.0.2/twemoji.woff2') format('woff2');
+  unicode-range: U+1F1E6-1F1FF; /* 国旗Emoji区域 */
+}
+
+body {
+  /* 正确顺序：先主字体族，后Emoji专用字体 */
+  font-family: $font-family-heading, 'TwemojiFlags', sans-serif;
   
-  body {
-    /* 将专用字体追加到字体栈末尾 */
-    font-family: -apple-system, sans-serif, 'TwemojiFlags';
-  }
+  /* 可选：添加字体平滑渲染优化 */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
