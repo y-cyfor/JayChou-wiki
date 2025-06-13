@@ -1,4 +1,5 @@
 ---
+title: 2024嘉年华世界巡回演唱会-横滨站
 head:
   - - meta
     - name: keywords
@@ -8,7 +9,6 @@ head:
       content: 周杰伦2025“嘉年华”世界巡回演唱会悉尼站于7月11日至13日在悉尼奥林匹克体育中心-白鹭体育场举行。了解演出时间、票务信息、主办方详情及官方最新公告。
 ---
 
-# 周杰伦《嘉年华》世界巡迴演唱会 – 横浜站
 
 ![嘉年华世界巡回演唱会横滨站海报](//public.jaychou.wiki/show/concert/2019carnival/2024Yokohama/Japan.jpg/yss+sy "嘉年华世界巡回演唱会-横滨站官方海报" )
 ![嘉年华世界巡回演唱会横滨站海报2](//public.jaychou.wiki/show/concert/2019carnival/2024Yokohama/mv_pc.jpg/yss+sy "嘉年华世界巡回演唱会-横滨站官方海报（网页背景图" )

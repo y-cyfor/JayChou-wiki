@@ -1,4 +1,5 @@
 ---
+title: 2024嘉年华世界巡回演唱会-墨尔本站
 head:
   - - meta
     - name: keywords
@@ -7,7 +8,6 @@ head:
     - name: description
       content: 周杰伦2024“嘉年华”世界巡回演唱会墨尔本站于2024年3月16和17日在墨尔本举行。了解演出时间、票务信息、主办方详情及官方最新公告。
 ---
-# 周杰伦《嘉年华》世界巡回演唱会2024 – 墨尔本站
 
 ![嘉年华世界巡回演唱会澳大利亚站海报](//public.jaychou.wiki/show/concert/2019carnival/2024Australia/Poster-1.jpg/yss+sy "嘉年华世界巡回演唱会-澳大利亚站官方海报" )
 

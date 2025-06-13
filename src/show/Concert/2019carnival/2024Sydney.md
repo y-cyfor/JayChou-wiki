@@ -1,4 +1,5 @@
 ---
+title: 2024嘉年华世界巡回演唱会-悉尼站
 head:
   - - meta
     - name: keywords
@@ -7,8 +8,6 @@ head:
     - name: description
       content: 周杰伦2024“嘉年华”世界巡回演唱会悉尼站于2024年3月2日在悉尼举行。了解演出时间、票务信息、主办方详情及官方最新公告。
 ---
-
-# 2024嘉年华世界巡回演唱会-悉尼站
 
 ![嘉年华世界巡回演唱会澳大利亚站海报](//public.jaychou.wiki/show/concert/2019carnival/2024Australia/Poster-1.jpg/yss+sy "嘉年华世界巡回演唱会-澳大利亚站官方海报" )
 
