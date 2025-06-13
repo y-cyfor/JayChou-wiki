@@ -89,6 +89,10 @@ export default navbar([
         text: "嘉年华武汉站（首轮）",
         link: "2025WuHan.md",
       },
+      {
+        text: "嘉年华上海站（2025）",
+        link: "2025shanghai.md",
+      },
     ],
   },
   {

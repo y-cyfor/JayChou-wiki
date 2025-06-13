@@ -95,6 +95,12 @@ highlights:
                   开票：未开票 时间待定<br />
                   票价：待定<br />
         link: /show/Concert/2019carnival/2025WuHan.md
+      - title: 🎤【上海】
+        details: 时间：2025.10.09-2025.10.11<br />
+                  地点：上海体育场 <br />
+                  开票：未开票 时间待定<br />
+                  票价：待定<br />
+        link: /show/Concert/2019carnival/2025shanghai.md
 
   - header: 新作品
     bgImage: https://public.jaychou.wiki/composition/alone/Improvisation/即兴曲-宣传照.jpg/ys+sy
