@@ -4,20 +4,24 @@ import sidebar from "./sidebar.js";
 
 export default hopeTheme({
   hostname: "https://www.jaychou.wiki/",
+  //  导航栏标题
+  navbarTitle: "JayChou's wiki",
+  //  导航栏logo
   logo: "/jay.png",
   logoDark: "/jayDark.png",
+  //  默认作者
   author: {
     name: "JayChou's wiki",
     url: "https://www.jaychou.wiki/",  
   },
   license: "GPL3.0",
-  //github配置
+  //  github配置
   repo: "y-cyfor/JayChou-wiki",
   docsDir: "src",
   changelog: true,
   print: false,
   fullscreen: true,
-  // 导航栏  // logo: "/logo.png",
+  // 导航栏
   navbar,
 
   // 侧边栏
