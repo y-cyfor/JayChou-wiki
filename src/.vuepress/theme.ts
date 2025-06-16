@@ -4,6 +4,8 @@ import sidebar from "./sidebar.js";
 
 export default hopeTheme({
   hostname: "https://www.jaychou.wiki/",
+  logo: "/jay.png",
+  logoDark: "/jayDark.png",
   author: {
     name: "JayChou's wiki",
     url: "https://www.jaychou.wiki/",  
