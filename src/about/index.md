@@ -19,4 +19,14 @@ JayCHou's wiki希望做到最全面的资料记录，同时抱着开放的心态
 ![Star History Chart](https://api.star-history.com/svg?repos=y-cyfor/JayChou-wiki&type=Date "Star History Chart" )
 
 ### 访问统计
-统是统了，看不了一点，Vue不支持页面插入script标签
+
+<iframe 
+  src="http://data.jaychou.wiki/" 
+  width="100%" 
+  height="450px" 
+  frameborder="0"
+  loading="lazy"
+  title="JayChou's wiki 访问统计"
+  style="border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); margin: 2rem 0;"
+>
+</iframe>
