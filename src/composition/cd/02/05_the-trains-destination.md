@@ -12,6 +12,12 @@ head:
 - 所属专辑：《八度空间》<br/>
 - 发行时间：2002年7月18日<br/>
 - 首播时间：
+- MUST（台湾地区著作权协会）编号：1228435404
+- 版权所有人
+  - 作词：杰威尔音乐 JVR MUSIC INTERNATIONAL LTD （方文山）
+  - 作曲：杰威尔音乐 JVR MUSIC INTERNATIONAL LTD （周杰伦）
+- ISRC编码（原专辑附带）：TW-C23-02-003-05
+- ISRC编码（新版查询结果）：TWK970200305
 
 - OP: Alfa Music International Co., Ltd. (Alfa Management, Ltd.)
 - ISRC TW-C23-02-003-05 / TW-K97-02-003-05
