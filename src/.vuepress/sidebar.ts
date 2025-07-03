@@ -29,11 +29,11 @@ export default sidebar({
               collapsible: true,
               children: [
                 {
-                  text: "专辑介绍",
+                  text: "📖专辑介绍",
                   link: "README.md",
                     },
                     {
-                      text: "专辑版本",
+                      text: "📚专辑版本",
                       link: "public.md",
                         },
                   ],
@@ -44,11 +44,11 @@ export default sidebar({
               collapsible: true,
               children: [
                 {
-                  text: "专辑介绍",
+                  text: "📖专辑介绍",
                   link: "README.md",
                     },
                     {
-                      text: "专辑版本",
+                      text: "📚专辑版本",
                       link: "public.md",
                         },
                   ],
@@ -59,11 +59,11 @@ export default sidebar({
               collapsible: true,
               children: [
                 {
-                  text: "专辑介绍",
+                  text: "📖专辑介绍",
                   link: "README.md",
                     },
                     {
-                      text: "专辑版本",
+                      text: "📚专辑版本",
                       link: "public.md",
                         },
                   ],
@@ -74,11 +74,11 @@ export default sidebar({
               collapsible: true,
               children: [
                 {
-                  text: "专辑介绍",
+                  text: "📖专辑介绍",
                   link: "README.md",
                     },
                     {
-                      text: "专辑版本",
+                      text: "📚专辑版本",
                       link: "public.md",
                         },
                   ],
@@ -89,11 +89,11 @@ export default sidebar({
               collapsible: true,
               children: [
                 {
-                  text: "专辑介绍",
+                  text: "📖专辑介绍",
                   link: "README.md",
                     },
                     {
-                      text: "专辑版本",
+                      text: "📚专辑版本",
                       link: "public.md",
                         },
                   ],
@@ -104,11 +104,11 @@ export default sidebar({
               collapsible: true,
               children: [
                 {
-                  text: "专辑介绍",
+                  text: "📖专辑介绍",
                   link: "README.md",
                     },
                     {
-                      text: "专辑版本",
+                      text: "📚专辑版本",
                       link: "public.md",
                         },
                   ],
@@ -119,11 +119,11 @@ export default sidebar({
               collapsible: true,
               children: [
                 {
-                  text: "专辑介绍",
+                  text: "📖专辑介绍",
                   link: "README.md",
                     },
                     {
-                      text: "专辑版本",
+                      text: "📚专辑版本",
                       link: "public.md",
                         },
                   ],
@@ -134,11 +134,11 @@ export default sidebar({
               collapsible: true,
               children: [
                 {
-                  text: "专辑介绍",
+                  text: "📖专辑介绍",
                   link: "README.md",
                     },
                     {
-                      text: "专辑版本",
+                      text: "📚专辑版本",
                       link: "public.md",
                         },
                   ],
@@ -149,11 +149,11 @@ export default sidebar({
               collapsible: true,
               children: [
                 {
-                  text: "专辑介绍",
+                  text: "📖专辑介绍",
                   link: "README.md",
                     },
                     {
-                      text: "专辑版本",
+                      text: "📚专辑版本",
                       link: "public.md",
                         },
                   ],
@@ -164,11 +164,11 @@ export default sidebar({
               collapsible: true,
               children: [
                 {
-                  text: "专辑介绍",
+                  text: "📖专辑介绍",
                   link: "README.md",
                     },
                     {
-                      text: "专辑版本",
+                      text: "📚专辑版本",
                       link: "public.md",
                         },
                   ],
@@ -179,11 +179,11 @@ export default sidebar({
               collapsible: true,
               children: [
                 {
-                  text: "专辑介绍",
+                  text: "📖专辑介绍",
                   link: "README.md",
                     },
                     {
-                      text: "专辑版本",
+                      text: "📚专辑版本",
                       link: "public.md",
                         },
                   ],
@@ -194,11 +194,11 @@ export default sidebar({
               collapsible: true,
               children: [
                 {
-                  text: "专辑介绍",
+                  text: "📖专辑介绍",
                   link: "README.md",
                     },
                     {
-                      text: "专辑版本",
+                      text: "📚专辑版本",
                       link: "public.md",
                         },
                   ],
@@ -209,13 +209,53 @@ export default sidebar({
                 collapsible: true,
                 children: [
                   {
-                    text: "专辑介绍",
+                    text: "📖专辑介绍",
                     link: "README.md",
                       },
                       {
-                        text: "专辑版本",
+                        text: "📚专辑版本",
                         link: "public.md",
                           },
+                            {
+                            text: "〈半兽人〉",
+                            link: "01_half-beast-human.md",
+                              },
+                              {
+                                text: "〈半岛铁盒〉",
+                                link: "02_peninsula-ironbox.md",
+                                  },
+                                  {
+                                    text: "〈暗号〉",
+                                    link: "03_secret-sign.md",
+                                      },
+                                      {
+                                        text: "〈龙拳〉",
+                                        link: "04_dragon-fist.md",
+                                          },
+                                          {
+                                            text: "〈火车叨位去〉",
+                                            link: "05_the-trains-destination.md",
+                                              },
+                                              {
+                                                text: "〈分裂〉",
+                                                link: "06_split.md",
+                                                  },
+                                                  {
+                                                    text: "〈爷爷泡的茶〉",
+                                                    link: "07_grandpas-tea.md",
+                                                      },
+                                                      {
+                                                        text: "〈回到过去〉",
+                                                        link: "08_back-to-the-past.md",
+                                                          },
+                                                          {
+                                                            text: "〈米兰的小铁匠〉",
+                                                            link: "09_little-blacksmith-in-milan.md",
+                                                              },
+                                                              {
+                                                                text: "〈最后的战役〉",
+                                                                link: "10_the-final-battle.md",
+                                                                  },
                     ],
                   },
               {
