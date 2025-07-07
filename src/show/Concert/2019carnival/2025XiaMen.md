@@ -9,6 +9,9 @@ head:
       content: 周杰伦2025“嘉年华”世界巡回演唱会厦门站于7月11日至13日在厦门奥林匹克体育中心-白鹭体育场举行。了解演出时间、票务信息、主办方详情及官方最新公告。
 ---
 
+::: important
+厦门站将于 2025年7月8日13:08 第三次开票，本次开票为视线不良区，且不可退票
+:::
 
 ![嘉年华世界巡回演唱会厦门站海报](//public.jaychou.wiki/show/concert/2019carnival/2025xiamen/cover.jpg/yss+sy "2025嘉年华世界巡回演唱会-厦门站官方海报" )
 
@@ -17,9 +20,9 @@ head:
 
 ### 时间地点
 - 演唱会时间：
-    - 2025-07-11（周二）
-    - 2025-07-12（周三）
-    - 2025-07-13（周三）
+    - 2025-07-11（周五）
+    - 2025-07-12（周六）
+    - 2025-07-13（周日）
 - 演唱会场馆：厦门奥林匹克体育中心-白鹭体育场
 - 正式名：周杰伦2025“嘉年华”世界巡回演唱会-厦门站
 
@@ -91,6 +94,8 @@ head:
     - 时间：2025年4月16日14:08
 - 二次开票：
     - 时间：2025年6月10日15:38
+- 三次开票：
+    - 时间：2025年7月8日13:08（视线不良区）
 
 
 ### 售票平台截图
@@ -122,6 +127,18 @@ head:
       <figure>
         <img src="//public.jaychou.wiki/show/concert/2019carnival/2025xiamen/PA003.jpg/yss+sy" alt="购票公告3" />
         <figcaption>购票须知（三）</figcaption>
+      </figure>
+      <figure>
+        <img src="//public.jaychou.wiki/show/concert/2019carnival/2025xiamen/PA_no2.jpg/yss+sy" alt="嘉年华厦门站二开公告" />
+        <figcaption>二开公告</figcaption>
+      </figure>
+            <figure>
+        <img src="//public.jaychou.wiki/show/concert/2019carnival/2025xiamen/PA_no3.jpg/yss+sy" alt="嘉年华厦门站三开公告" />
+        <figcaption>三开公告</figcaption>
+      </figure>
+            <figure>
+        <img src="//public.jaychou.wiki/show/concert/2019carnival/2025xiamen/MY_n3_tips.jpg/yss+sy" alt="猫眼三开购票提示" />
+        <figcaption>三开购票提示</figcaption>
       </figure>
     </div>
   </div>
