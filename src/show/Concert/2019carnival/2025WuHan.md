@@ -36,20 +36,27 @@ head:
             <img src="//public.jaychou.wiki/show/concert/2019carnival/2025wuhan/文旅市场通.jpg/yss+sy" alt="武汉站文旅市场通APP" />
             <figcaption>文旅市场通APP</figcaption>
         </figure>
+        <figure>
+            <img src="//public.jaychou.wiki/show/concert/2019carnival/2025wuhan/武汉文旅_精彩在线查询_30-7-2025_95251_credit.wuhan.gov.cn.jpeg/yss+sy" alt="武汉文化和旅游局精彩在线查询结果" />
+            <figcaption>武汉文旅精彩在线查询结果</figcaption>
+        </figure>
     </div>
   </div>
 </div>
 
 ## 票务快照
+### 座位图
+![武汉站座位图](https://public.jaychou.wiki/show/concert/2019carnival/2025wuhan/座位图.jpg/yss+sy "武汉体育中心主体育场座位图")
 ### 开票信息
 - 售票平台：猫眼
+    - 猫眼初始开售时可售票总张数：60000
 - 票价：
   - 至尊VIP：2000
   - VIP：1800、1600
   - 看台：1300、1000、800、600
 
 - 首次开票：
-    - 时间：待定
+    - 时间：2025年7月29日 13:14
 
 ### 主办公告
 <div class="image-scroll-container">
@@ -63,11 +70,16 @@ head:
             <img src="//public.jaychou.wiki/show/concert/2019carnival/2025wuhan/PA_防骗公告.jpg/yss+sy" alt="武汉站主办防骗声明" />
             <figcaption>武汉站主办防骗声明</figcaption>
         </figure>
+        <figure>
+            <img src="//public.jaychou.wiki/show/concert/2019carnival/2025wuhan/PA_票务须知.jpg/yss+sy" alt="武汉站主办开票须知" />
+            <figcaption>武汉站主办开票须知</figcaption>
+        </figure>
     </div>
   </div>
 </div>
 
 ### 售票平台截图
+#### 猫眼
 <div class="image-scroll-container">
   <div class="image-scroll-wrapper">
     <div class="image-scroll-content">
@@ -75,8 +87,21 @@ head:
         <img src="//public.jaychou.wiki/show/concert/2019carnival/2025wuhan/myScreen.jpg/yss+sy" alt="猫眼售票截图" />
         <figcaption>猫眼售票页面</figcaption>
       </figure>
+      <figure>
+        <img src="//public.jaychou.wiki/show/concert/2019carnival/2025wuhan/my_购票须知.jpg/yss+sy" alt="猫眼售票截图" />
+        <figcaption>猫眼购票须知</figcaption>
+      </figure>
+      <figure>
+        <img src="//public.jaychou.wiki/show/concert/2019carnival/2025wuhan/my_观演须知.jpg/yss+sy" alt="猫眼售票截图" />
+        <figcaption>猫眼观演须知</figcaption>
+      </figure>
     </div>
   </div>
 </div>
 
 ### 退票政策
+- 开售起48小时内可无条件退票（2025.07.28 13:14 - 2025.07.31 13:14）
+- 48小时候条件退
+  - 8月20日23:59前退票手续费20%
+  - 9月16日23:59前退票手续费30%
+  - 9月17日00:00起不再接受退票申请
