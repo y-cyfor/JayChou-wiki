@@ -8,6 +8,7 @@ title: 《Jay》专辑介绍
 
 周杰伦首张个人专辑，于2000年11月7日发行。
 
+![Jay封面](//yt.jaychou.wiki/%E4%B8%93%E8%BE%91%E5%B0%81%E9%9D%A2/01_JAY/01_JAY_AppleMusic.webp "JAY专辑封面" )
 - 专辑名称：Jay
 - 演唱歌手：周杰伦
 - 发行时间：2000年11月13日

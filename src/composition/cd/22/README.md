@@ -1,7 +1,7 @@
 ---
 title: 《最伟大的作品》（Greatest Works of Art）专辑介绍
 ---
-
+![最伟大的作品封面](//yt.jaychou.wiki/专辑封面/15_最伟大的作品/15_最伟大的作品_AppleMusic.webp "最伟大的作品封面")
 ## 官方介绍
 
 当一件伟大的作品被创作出来时
