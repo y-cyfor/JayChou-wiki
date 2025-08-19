@@ -9,7 +9,7 @@ head:
       content: 周杰伦2025"嘉年华"世界巡回演唱会武汉站将于2025年9月26-28日连续三天举行。由湖北精彩在线文化传播有限公司主办，演出场馆及票务信息待定。关注官方渠道获取最新演出场地信息及票务详情。
 ---
 
-![嘉年华世界巡回演唱会厦门站海报](//public.jaychou.wiki/show/concert/2019carnival/2025wuhan/cover.jpg/yss+sy "2025嘉年华世界巡回演唱会-厦门站官方海报" )
+![嘉年华世界巡回演唱会武汉站海报](//public.jaychou.wiki/show/concert/2019carnival/2025wuhan/cove.jpg/yss+sy "2025嘉年华世界巡回演唱会-武汉站官方海报" )
 
 ## 基本信息
 - 演唱会时间：
