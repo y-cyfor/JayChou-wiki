@@ -9,7 +9,7 @@ head:
       content: 周杰伦2025"嘉年华"世界巡回演唱会济南站将于2025年9月19日-21日连续三天举行。由北京星台光影文化传播有限公司主办，杰威尔音乐、巨炮娱乐（G/POWER）联合制作。关注官方渠道获取最新场地信息及票务详情。
 ---
 
-![嘉年华世界巡回演唱会济南站海报](//public.jaychou.wiki/show/concert/2019carnival/2025jinan/cove.jpg/yss+sy "2025嘉年华世界巡回演唱会-济南站官方海报" )
+![嘉年华世界巡回演唱会济南站海报](https://public.jaychou.wiki/show/concert/2019carnival/2025jinan/cove.jpg/ys+sy "2025嘉年华世界巡回演唱会-济南站官方海报" )
 
 ## 基本信息
 
@@ -19,7 +19,7 @@ head:
     - 2025-09-20（周三）
     - 2025-09-21（周三）
 - 演唱会场馆：济南奥体中心体育场
-- 正式名：周杰伦2025“嘉年华”世界巡回演唱会-济南站
+- 正式名：周杰伦2025"嘉年华"世界巡回演唱会-济南站
 
 ### 制作单位
 - 主办机构：北京星台光影文化传播有限公司 
@@ -36,11 +36,11 @@ head:
   <div class="image-scroll-wrapper">
     <div class="image-scroll-content">
         <figure>
-            <img src="//public.jaychou.wiki/show/concert/2019carnival/2025jinan/许可-山东文旅厅官网.jpeg/yss+sy" alt="山东省文化和旅游厅官方-营业性演出许可" />
+            <img src="//public.jaychou.wiki/show/concert/2019carnival/2025jinan/许可-山东文旅厅官网.jpeg/ys+sy" alt="山东省文化和旅游厅官方-营业性演出许可" />
             <figcaption>山东省文化和旅游厅官方-营业性演出许可</figcaption>
         </figure>
                 <figure>
-            <img src="//public.jaychou.wiki/show/concert/2019carnival/2025jinan/许可-审批内容.jpeg/yss+sy" alt="山东省文化和旅游厅官方-许可验证" />
+            <img src="//public.jaychou.wiki/show/concert/2019carnival/2025jinan/许可-审批内容.jpeg/ys+sy" alt="山东省文化和旅游厅官方-许可验证" />
             <figcaption>山东省文化和旅游厅官方-营业性演出许可验证</figcaption>
         </figure>
     </div>
@@ -49,16 +49,18 @@ head:
 
 ## 票务快照
 ### 座位图
-
+![嘉年华世界巡回演唱会济南站座位图](https://public.jaychou.wiki/show/concert/2019carnival/2025jinan/座位图.jpg/yss+sy "2025嘉年华世界巡回演唱会-济南站座位图" )
 ### 开票信息
 - 售票平台：猫眼
-    - 猫眼初始开售时可售票总张数：未公布
+    - 猫眼初始开售时可售票总张数：每场25000
 - 票价：
   - 内场：2000、1800、1600
-  - 看台：1300、1000、8000、600
+  - 看台：1300、1000、800、600
 
 - 首次开票：
     - 时间：2025年6月22日12:00
+- 二次开票：
+    - 时间：2025年8月26日12:00
 
 ### 售票平台截图
 
@@ -100,6 +102,14 @@ head:
         <img src="//public.jaychou.wiki/show/concert/2019carnival/2025jinan/携程04_未开售.jpg/yss+sy" alt="嘉年华2025济南站携程未开售截屏-购票须知" />
         <figcaption>携程未开售截屏-购票须知</figcaption>
       </figure>
+      <figure>
+        <img src="//public.jaychou.wiki/show/concert/2019carnival/2025jinan/携程二开.jpg/yss+sy" alt="携程二开" />
+        <figcaption>携程二开</figcaption>
+      </figure>
+      <figure>
+        <img src="//public.jaychou.wiki/show/concert/2019carnival/2025jinan/携程营销活动_高铁专列.jpg.jpg/yss+sy" alt="携程营销活动_高铁专列" />
+        <figcaption>携程营销活动_高铁专列</figcaption>
+      </figure>
     </div>
   </div>
 </div>
@@ -112,6 +122,26 @@ head:
       <figure>
         <img src="//public.jaychou.wiki/show/concert/2019carnival/2025jinan/猫眼_未开售.jpg/yss+sy" alt="嘉年华2025济南站猫眼未开售截屏" />
         <figcaption>嘉年华2025济南站猫眼未开售截屏</figcaption>
+      </figure>
+      <figure>
+        <img src="//public.jaychou.wiki/show/concert/2019carnival/2025jinan/猫眼_观演须知.jpg/yss+sy" alt="嘉年华2025济南站猫眼观演须知" />
+        <figcaption>嘉年华2025济南站猫眼观演须知</figcaption>
+      </figure>
+      <figure>
+        <img src="//public.jaychou.wiki/show/concert/2019carnival/2025jinan/猫眼_购票须知01.jpg/yss+sy" alt="嘉年华2025济南站猫眼购票须知01" />
+        <figcaption>嘉年华2025济南站猫眼购票须知01</figcaption>
+      </figure>
+      <figure>
+        <img src="//public.jaychou.wiki/show/concert/2019carnival/2025jinan/猫眼_购票须知02.jpg/yss+sy" alt="嘉年华2025济南站猫眼购票须知02" />
+        <figcaption>嘉年华2025济南站猫眼购票须知02</figcaption>
+      </figure>
+      <figure>
+        <img src="//public.jaychou.wiki/show/concert/2019carnival/2025jinan/猫眼_页面长图.jpg/yss+sy" alt="嘉年华2025济南站猫眼页面长图" />
+        <figcaption>嘉年华2025济南站猫眼页面长图</figcaption>
+      </figure>
+      <figure>
+        <img src="//public.jaychou.wiki/show/concert/2019carnival/2025jinan/猫眼_二开页面.jpg/yss+sy" alt="嘉年华2025济南站猫眼二开页面" />
+        <figcaption>嘉年华2025济南站猫眼二开页面</figcaption>
       </figure>
     </div>
   </div>
