@@ -17,7 +17,7 @@ head:
     - 2025-09-27（周六）
     - 2025-09-28（周日）
 - 演唱会场馆：武汉体育中心体育场
-- 正式名：
+- 正式名：周杰伦2025“嘉年华”世界巡回演唱会-武汉站
 
 ### 制作单位
 - 主办机构：湖北精彩在线文化传播有限公司
@@ -50,6 +50,7 @@ head:
 ### 开票信息
 - 售票平台：猫眼
     - 猫眼初始开售时可售票总张数：60000
+    - <font color=#ff2d51>第二次售票前，初始售票张数被修改为：90000</font><br><font color=#bbcdc5>The wrong has its source, and the debt has its owner —— turn right ahead for the concert organizer.</font>
 - 票价：
   - 至尊VIP：2000
   - VIP：1800、1600
@@ -57,6 +58,9 @@ head:
 
 - 首次开票：
     - 时间：2025年7月29日 13:14
+- 二次开票：
+    - 时间：2025年8月31日 13:00
+    - 注意：本场票务二开前初始售票张数被<font color=#ff2d51>修改为：90000</font>，尚不明确是否二开放出大量余票。
 
 ### 主办公告
 <div class="image-scroll-container">
@@ -74,6 +78,10 @@ head:
             <img src="//public.jaychou.wiki/show/concert/2019carnival/2025wuhan/PA_票务须知.jpg/yss+sy" alt="武汉站主办开票须知" />
             <figcaption>武汉站主办开票须知</figcaption>
         </figure>
+        <figure>
+            <img src="//public.jaychou.wiki/show/concert/2019carnival/2025wuhan/PA_二开公告.jpg/yss+sy" alt="武汉站主办开票须知" />
+            <figcaption>武汉站主办二开公告</figcaption>
+        </figure>
     </div>
   </div>
 </div>
@@ -88,12 +96,20 @@ head:
         <figcaption>猫眼售票页面</figcaption>
       </figure>
       <figure>
+        <img src="//public.jaychou.wiki/show/concert/2019carnival/2025wuhan/my_二开前被修改的观演须知.jpg/yss+sy" alt="猫眼售票截图" />
+        <figcaption>猫眼二开被修改的观演须知</figcaption>
+      </figure>
+      <figure>
+        <img src="//public.jaychou.wiki/show/concert/2019carnival/2025wuhan/my_二开提醒.jpg/yss+sy" alt="猫眼售票截图" />
+        <figcaption>猫眼二开被修改的观演须知页面</figcaption>
+      </figure>
+      <figure>
         <img src="//public.jaychou.wiki/show/concert/2019carnival/2025wuhan/my_购票须知.jpg/yss+sy" alt="猫眼售票截图" />
         <figcaption>猫眼购票须知</figcaption>
       </figure>
       <figure>
         <img src="//public.jaychou.wiki/show/concert/2019carnival/2025wuhan/my_观演须知.jpg/yss+sy" alt="猫眼售票截图" />
-        <figcaption>猫眼观演须知</figcaption>
+        <figcaption>猫眼初始版观演须知</figcaption>
       </figure>
     </div>
   </div>
@@ -105,3 +121,7 @@ head:
   - 8月20日23:59前退票手续费20%
   - 9月16日23:59前退票手续费30%
   - 9月17日00:00起不再接受退票申请
+- 二开退票政策
+  - 二次开售的订单不再参与“无条件退票”规则。 如需退票，需按照已公布退票规则的时间段开始执行。
+  - 2025年8月21日00：00-9月16日2359前退票收取票面价值30%的退票费
+  - 2025年9月17日00：00后将不接受任何理由的退票
