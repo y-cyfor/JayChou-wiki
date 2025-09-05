@@ -151,7 +151,7 @@ highlights:
 copyright: false
 footer: Powered by <a href="https://v2.vuepress.vuejs.org/zh/" target="_blank">VuePress</a>. Theme by <a href="https://theme-hope.vuejs.press/zh/" target="_blank">Hope</a> | MIT 协议
         <br>
-        Copyright © CYFOR&JayBar 2023-now
+        Copyright © <a href="https://www.cyfor.cn" target="_blank">CYFOR</a> & <a href="https://www.xiaohongshu.com/user/profile/648e950f000000001003496d?exSource=" target="_blank">JayBar</a> 2023-now
         <br>
         Licensed under the GPL-3.0 License.
         <br>
