@@ -50,7 +50,7 @@ head:
 ### 开票信息
 - 售票平台：猫眼
     - 猫眼初始开售时可售票总张数：60000
-    - <font color=#ff2d51>第二次售票前，初始售票张数被修改为：90000</font><br><font color=#bbcdc5>The wrong has its source, and the debt has its owner —— turn right ahead for the concert organizer.</font>
+    - <span style="color:#ff2d51">第二次售票前，初始售票张数被修改为：90000</span><br><span style="color:#bbcdc5">The wrong has its source, and the debt has its owner —— turn right ahead for the concert organizer.</span>
 - 票价：
   - 至尊VIP：2000
   - VIP：1800、1600
@@ -60,7 +60,7 @@ head:
     - 时间：2025年7月29日 13:14
 - 二次开票：
     - 时间：2025年8月31日 13:00
-    - 注意：本场票务二开前初始售票张数被<font color=#ff2d51>修改为：90000</font>，尚不明确是否二开放出大量余票。
+    - 注意：本场票务二开前初始售票张数被<span style="color:#ff2d51">修改为：90000</span>，尚不明确是否二开放出大量余票。
 
 ### 主办公告
 <div class="image-scroll-container">
