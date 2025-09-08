@@ -1,0 +1,11 @@
+User-agent: GPTBot
+Disallow: /
+
+User-agent:*
+Disallow:
+
+Sitemap: https://www.jaychou.wiki/sitemap.xml
+User-agent:*
+Disallow:
+
+Sitemap: https://www.jaychou.wiki/sitemap.xml
