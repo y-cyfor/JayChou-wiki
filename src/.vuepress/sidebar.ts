@@ -24,6 +24,21 @@ export default sidebar({
           collapsible: true,
           children: [
             {
+              text: "《太阳之子》",
+              prefix: "26",
+              collapsible: true,
+              children: [
+                {
+                  text: "📖专辑介绍",
+                  link: "README.md",
+                    },
+                    {
+                      text: "📚专辑版本",
+                      link: "public.md",
+                        },
+                  ],
+                },
+            {
               text: "《最伟大的作品》",
               prefix: "22",
               collapsible: true,
